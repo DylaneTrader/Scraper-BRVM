@@ -849,10 +849,11 @@ with tab_liq:
 with tab_grid:
     st.subheader("Grid Search — exploration de la grille de paramètres")
     st.caption(
-        "Combine plusieurs valeurs pour chaque dimension. L'app teste tous les couples (méthode × n_max × cap × rebal) "
-        "sur l'univers déjà filtré par liquidité, puis classe les ETF selon l'objectif retenu."
+        "Combine plusieurs valeurs pour chaque dimension. L'app teste tous les couples "
+        "(méthode × n_max × cap × rebal × seuils de liquidité) puis classe les ETF selon l'objectif retenu."
     )
 
+    st.markdown("**Allocation**")
     col1, col2 = st.columns(2)
     with col1:
         gs_methods = st.multiselect(
@@ -877,6 +878,49 @@ with tab_grid:
             default=["Trimestriel"],
         )
 
+    st.markdown("**Liquidité** — coche les seuils que tu veux balayer (les autres restent fixés à la sidebar)")
+    use_share = st.checkbox("Balayer % jours cotés", value=False, key="gs_use_share")
+    if use_share:
+        gs_share_traded = st.multiselect(
+            "Min % jours cotés",
+            options=[0, 25, 50, 70, 80, 90, 95, 99],
+            default=[0, 50, 90],
+        )
+    else:
+        gs_share_traded = [liq_min_share_traded]
+
+    use_adv = st.checkbox("Balayer ADV minimum (FCFA)", value=False, key="gs_use_adv")
+    if use_adv:
+        gs_adv = st.multiselect(
+            "Min ADV (FCFA)",
+            options=[0, 1_000_000, 5_000_000, 10_000_000, 25_000_000, 50_000_000, 100_000_000, 250_000_000],
+            default=[0, 10_000_000, 50_000_000],
+            format_func=lambda x: f"{x:,}".replace(",", " ") if x else "0",
+        )
+    else:
+        gs_adv = [liq_min_adv_fcfa]
+
+    use_ffcap = st.checkbox("Balayer capitalisation flottante minimum (FCFA)", value=False, key="gs_use_ffcap")
+    if use_ffcap:
+        gs_ffcap = st.multiselect(
+            "Min capi flottante (FCFA)",
+            options=[0, 10_000_000_000, 50_000_000_000, 100_000_000_000, 250_000_000_000, 500_000_000_000],
+            default=[0, 50_000_000_000, 250_000_000_000],
+            format_func=lambda x: f"{x:,}".replace(",", " ") if x else "0",
+        )
+    else:
+        gs_ffcap = [liq_min_free_float_cap]
+
+    use_avgvol = st.checkbox("Balayer volume moyen minimum (titres)", value=False, key="gs_use_avgvol")
+    if use_avgvol:
+        gs_avgvol = st.multiselect(
+            "Min volume moyen (titres)",
+            options=[0, 100, 500, 1_000, 5_000, 10_000, 50_000, 100_000],
+            default=[0, 1_000, 10_000],
+        )
+    else:
+        gs_avgvol = [liq_min_avg_vol]
+
     objective = st.selectbox(
         "Objectif de classement",
         [
@@ -890,58 +934,116 @@ with tab_grid:
         index=0,
     )
 
-    n_combos = len(gs_methods) * len(gs_n_values) * len(gs_caps) * len(gs_rebals)
-    st.caption(f"**{n_combos}** combinaisons à tester sur **{len(liquid_universe)}** titres liquides.")
+    n_liq_combos = len(gs_share_traded) * len(gs_adv) * len(gs_ffcap) * len(gs_avgvol)
+    n_alloc_combos = len(gs_methods) * len(gs_n_values) * len(gs_caps) * len(gs_rebals)
+    n_combos = n_liq_combos * n_alloc_combos
+    st.caption(
+        f"**{n_combos}** combinaisons = {n_alloc_combos} allocations × {n_liq_combos} configs liquidité. "
+        f"Univers initial : **{len(universe)}** titres."
+    )
+    if n_combos > 1500:
+        st.warning(f"⚠️ {n_combos} combos — l'exécution peut prendre plusieurs minutes. Réduis la grille si besoin.")
 
     run_grid = st.button(":rocket: Lancer le Grid Search", type="primary", disabled=(n_combos == 0))
 
     if run_grid:
         results_rows = []
         progress = st.progress(0.0)
+        status = st.empty()
         i = 0
-        # On fixe la sélection des candidats par liquidité une seule fois
-        liquid_candidates = [t for t in ranking.index if t in liquid_universe]
 
-        for m in gs_methods:
-            for n_v in gs_n_values:
-                sel_g = liquid_candidates[:n_v]
-                if not sel_g:
-                    continue
-                for cap_v in gs_caps:
-                    for reb_v in gs_rebals:
-                        try:
-                            r = run_backtest(
-                                m, sel_g, asset_returns, bench_rets, prices, societes,
-                                cap_v / 100.0, rf, reb_v,
-                            )
-                            if not r:
-                                continue
-                            results_rows.append({
-                                "Méthode": m,
-                                "n_max": n_v,
-                                "Cap %": cap_v,
-                                "Rebal": reb_v,
-                                "Perf ann.": r["ann_return"],
-                                "Vol ann.": r["ann_vol"],
-                                "Tracking error": r["tracking_error"],
-                                "Sharpe": r["sharpe"],
-                                "Beta": r["beta"],
-                                "Alpha ann.": r["alpha"],
-                                "Max DD": r["max_drawdown"],
-                                "n titres effectifs": r["n_assets"],
-                            })
-                        except Exception as exc:
-                            results_rows.append({
-                                "Méthode": m, "n_max": n_v, "Cap %": cap_v, "Rebal": reb_v,
-                                "Perf ann.": np.nan, "Vol ann.": np.nan,
-                                "Tracking error": np.nan, "Sharpe": np.nan,
-                                "Beta": np.nan, "Alpha ann.": np.nan,
-                                "Max DD": np.nan, "n titres effectifs": 0,
-                                "Erreur": str(exc),
-                            })
-                        i += 1
-                        progress.progress(i / max(n_combos, 1))
+        # Pré-calcul des univers liquides pour chaque combo de seuils (cache local)
+        liq_universe_cache: dict[tuple, list[str]] = {}
+
+        def _liquid_universe_for(share, adv, ffcap, avgvol):
+            key = (share, adv, ffcap, avgvol)
+            if key in liq_universe_cache:
+                return liq_universe_cache[key]
+            filt = apply_liquidity_filters(
+                liq_metrics,
+                min_share_traded_pct=share if share > 0 else None,
+                min_avg_vol=avgvol if avgvol > 0 else None,
+                min_adv_fcfa=adv if adv > 0 else None,
+                min_market_cap=liq_min_market_cap if liq_min_market_cap > 0 else None,
+                min_free_float_cap=ffcap if ffcap > 0 else None,
+                min_price=liq_min_price if liq_min_price > 0 else None,
+                min_flottant_pct=liq_min_flottant_pct if liq_min_flottant_pct > 0 else None,
+                drop_na=liq_drop_na,
+            )["Ticker"].tolist()
+            # Ordre : top liquidité (jours cotés) intersecté avec l'ordre du ranking
+            ordered = [t for t in ranking.index if t in filt]
+            liq_universe_cache[key] = ordered
+            return ordered
+
+        for share_v in gs_share_traded:
+            for adv_v in gs_adv:
+                for ffcap_v in gs_ffcap:
+                    for avgvol_v in gs_avgvol:
+                        liq_uni = _liquid_universe_for(share_v, adv_v, ffcap_v, avgvol_v)
+                        n_liq = len(liq_uni)
+
+                        for m in gs_methods:
+                            for n_v in gs_n_values:
+                                sel_g = liq_uni[:n_v]
+                                n_eff = len(sel_g)
+                                for cap_v in gs_caps:
+                                    for reb_v in gs_rebals:
+                                        i += 1
+                                        progress.progress(i / max(n_combos, 1))
+                                        if i % 25 == 0 or i == n_combos:
+                                            status.caption(f"{i}/{n_combos} — {m} · n={n_v} · cap={cap_v}% · liq={n_liq} titres")
+
+                                        base_row = {
+                                            "Méthode": m,
+                                            "n_max": n_v,
+                                            "Cap %": cap_v,
+                                            "Rebal": reb_v,
+                                            "% jours cotés min": share_v,
+                                            "ADV min (FCFA)": adv_v,
+                                            "Capi flot. min (FCFA)": ffcap_v,
+                                            "Vol moyen min": avgvol_v,
+                                            "Univers liquide": n_liq,
+                                            "n titres ETF": n_eff,
+                                        }
+
+                                        if n_eff < 2:
+                                            results_rows.append({
+                                                **base_row,
+                                                "Perf ann.": np.nan, "Vol ann.": np.nan,
+                                                "Tracking error": np.nan, "Sharpe": np.nan,
+                                                "Beta": np.nan, "Alpha ann.": np.nan,
+                                                "Max DD": np.nan,
+                                                "Erreur": "Univers trop petit",
+                                            })
+                                            continue
+                                        try:
+                                            r = run_backtest(
+                                                m, sel_g, asset_returns, bench_rets, prices, societes,
+                                                cap_v / 100.0, rf, reb_v,
+                                            )
+                                            if not r:
+                                                continue
+                                            results_rows.append({
+                                                **base_row,
+                                                "Perf ann.": r["ann_return"],
+                                                "Vol ann.": r["ann_vol"],
+                                                "Tracking error": r["tracking_error"],
+                                                "Sharpe": r["sharpe"],
+                                                "Beta": r["beta"],
+                                                "Alpha ann.": r["alpha"],
+                                                "Max DD": r["max_drawdown"],
+                                            })
+                                        except Exception as exc:
+                                            results_rows.append({
+                                                **base_row,
+                                                "Perf ann.": np.nan, "Vol ann.": np.nan,
+                                                "Tracking error": np.nan, "Sharpe": np.nan,
+                                                "Beta": np.nan, "Alpha ann.": np.nan,
+                                                "Max DD": np.nan,
+                                                "Erreur": str(exc),
+                                            })
         progress.empty()
+        status.empty()
 
         if not results_rows:
             st.warning("Aucun résultat — vérifie ta grille.")
@@ -951,22 +1053,20 @@ with tab_grid:
 
     grid_df = st.session_state.get("grid_results")
     if grid_df is not None and not grid_df.empty:
-        # Tri selon objectif
         sort_map = {
             "Tracking error (min)": ("Tracking error", True),
             "Sharpe (max)": ("Sharpe", False),
             "Perf annualisée (max)": ("Perf ann.", False),
             "Alpha annualisé (max)": ("Alpha ann.", False),
-            "Max drawdown (min en valeur absolue)": ("Max DD", False),  # moins négatif d'abord
+            "Max drawdown (min en valeur absolue)": ("Max DD", False),
         }
         if objective == "Score composite (Sharpe − TE)":
             grid_df = grid_df.assign(**{"Score": grid_df["Sharpe"] - grid_df["Tracking error"]})
             grid_df = grid_df.sort_values("Score", ascending=False)
         else:
             col_sort, asc = sort_map[objective]
-            grid_df = grid_df.sort_values(col_sort, ascending=asc)
+            grid_df = grid_df.sort_values(col_sort, ascending=asc, na_position="last")
 
-        # Format
         fmt_grid = grid_df.copy()
         for c in ["Perf ann.", "Vol ann.", "Tracking error", "Alpha ann.", "Max DD"]:
             if c in fmt_grid.columns:
@@ -974,6 +1074,9 @@ with tab_grid:
         for c in ["Sharpe", "Beta", "Score"]:
             if c in fmt_grid.columns:
                 fmt_grid[c] = fmt_grid[c].map(lambda x: f"{x:.3f}" if pd.notna(x) else "-")
+        for c in ["ADV min (FCFA)", "Capi flot. min (FCFA)", "Vol moyen min"]:
+            if c in fmt_grid.columns:
+                fmt_grid[c] = fmt_grid[c].map(lambda x: f"{int(x):,}".replace(",", " ") if pd.notna(x) else "-")
 
         st.markdown(f"**{len(grid_df)} configurations** — top 5 :")
         st.dataframe(fmt_grid.head(5), use_container_width=True, hide_index=True)
@@ -981,27 +1084,46 @@ with tab_grid:
         st.markdown("**Résultats complets :**")
         st.dataframe(fmt_grid, use_container_width=True, hide_index=True)
 
-        # Heatmap : pour la 1ère méthode et 1er rebal, TE par (n_max × cap)
-        st.markdown("**Heatmap** — métrique selon `n_max` × `Cap %` (méthode/rebal au choix)")
-        c1, c2, c3 = st.columns(3)
-        sel_method = c1.selectbox("Méthode", grid_df["Méthode"].unique().tolist(), key="hm_m")
-        sel_rebal = c2.selectbox("Rebalancement", grid_df["Rebal"].unique().tolist(), key="hm_r")
-        sel_metric = c3.selectbox(
-            "Métrique",
-            ["Tracking error", "Sharpe", "Perf ann.", "Alpha ann.", "Max DD", "Vol ann."],
-            key="hm_metric",
-        )
-        sub = grid_df[(grid_df["Méthode"] == sel_method) & (grid_df["Rebal"] == sel_rebal)]
-        if len(sub) >= 2:
-            pivot = sub.pivot_table(index="n_max", columns="Cap %", values=sel_metric, aggfunc="mean")
-            scale = "Blues" if sel_metric in {"Sharpe", "Perf ann.", "Alpha ann."} else "Reds"
-            fig_hm = px.imshow(
-                pivot, text_auto=".2f", aspect="auto", color_continuous_scale=scale,
-                title=f"{sel_metric} — {sel_method} ({sel_rebal})",
+        # Heatmap configurable
+        st.markdown("**Heatmap** — choisir 2 dimensions à pivoter (méthode/rebal/seuils filtrés)")
+        possible_dims = ["n_max", "Cap %", "% jours cotés min", "ADV min (FCFA)",
+                         "Capi flot. min (FCFA)", "Vol moyen min"]
+        # Garder uniquement les dimensions qui ont >1 valeur unique
+        varying = [d for d in possible_dims if grid_df[d].nunique(dropna=True) > 1]
+        if len(varying) >= 2:
+            c1, c2, c3, c4 = st.columns(4)
+            dim_x = c1.selectbox("Axe X", varying, index=min(1, len(varying) - 1), key="hm_x")
+            dim_y = c2.selectbox("Axe Y", [d for d in varying if d != dim_x],
+                                 index=0, key="hm_y")
+            sel_method = c3.selectbox("Méthode (filtre)", grid_df["Méthode"].unique().tolist(), key="hm_m")
+            sel_metric = c4.selectbox(
+                "Métrique",
+                ["Tracking error", "Sharpe", "Perf ann.", "Alpha ann.", "Max DD", "Vol ann.", "Univers liquide"],
+                key="hm_metric",
             )
-            st.plotly_chart(fig_hm, use_container_width=True)
+            sub = grid_df[grid_df["Méthode"] == sel_method].copy()
+            if len(sub) >= 2 and dim_x in sub.columns and dim_y in sub.columns:
+                pivot = sub.pivot_table(index=dim_y, columns=dim_x, values=sel_metric, aggfunc="mean")
+                scale = "Blues" if sel_metric in {"Sharpe", "Perf ann.", "Alpha ann.", "Univers liquide"} else "Reds"
+                fig_hm = px.imshow(
+                    pivot, text_auto=".2f", aspect="auto", color_continuous_scale=scale,
+                    title=f"{sel_metric} — {sel_method} ({dim_y} × {dim_x})",
+                )
+                st.plotly_chart(fig_hm, use_container_width=True)
+            else:
+                st.info("Pas assez de points pour cette combinaison.")
         else:
-            st.info("Pas assez de points pour la heatmap (élargis la grille).")
+            st.info("Heatmap indisponible : il faut au moins 2 dimensions ayant >1 valeur dans la grille.")
+
+        # Diagnostic du filtre liquidité
+        if grid_df["% jours cotés min"].nunique() > 1 or grid_df["ADV min (FCFA)"].nunique() > 1 \
+                or grid_df["Capi flot. min (FCFA)"].nunique() > 1 or grid_df["Vol moyen min"].nunique() > 1:
+            st.markdown("**Impact des filtres de liquidité sur la taille de l'univers**")
+            liq_dims = [d for d in ["% jours cotés min", "ADV min (FCFA)", "Capi flot. min (FCFA)", "Vol moyen min"]
+                        if grid_df[d].nunique() > 1]
+            uni_view = grid_df.drop_duplicates(subset=liq_dims)[liq_dims + ["Univers liquide"]]
+            uni_view = uni_view.sort_values("Univers liquide", ascending=False)
+            st.dataframe(uni_view, use_container_width=True, hide_index=True)
 
         csv_grid = grid_df.to_csv(index=False).encode("utf-8")
         st.download_button("Télécharger les résultats (CSV)", csv_grid, "grid_search.csv", "text/csv")
@@ -1136,13 +1258,20 @@ $252$ = nombre de jours de trading par an (convention).
 
 ## 5. Grid Search
 
-L'onglet *Grid Search* balaie le produit cartésien :
+L'onglet *Grid Search* balaie le produit cartésien d'**allocations** × **filtres de liquidité** :
 
-$$\text{Combos} = M \times N_{max} \times C \times R$$
+$$\text{Combos} = \underbrace{M \times N_{max} \times C \times R}_{\text{allocation}} \times \underbrace{S \times A \times F \times V}_{\text{liquidité}}$$
 
-avec $M$ = méthodes, $N_{max}$ = tailles d'ETF, $C$ = plafonds, $R$ = fréquences.
-**L'univers reste celui filtré par liquidité** (donc tu peux régler à la fois
-l'admissibilité des titres et la combinatoire d'allocation).
+avec :
+- **Allocation** : $M$ = méthodes, $N_{max}$ = tailles d'ETF, $C$ = plafonds par titre, $R$ = fréquences de rebalancement.
+- **Liquidité** (optionnel — coches dans l'UI) : $S$ = % jours cotés min, $A$ = ADV min, $F$ = capi flottante min, $V$ = volume moyen min.
+  Les seuils non balayés restent figés à leur valeur de la sidebar.
+
+Pour chaque tuple de seuils de liquidité, l'app reconstruit l'univers admissible,
+trie par jours cotés et applique le top-$N_{max}$. Le pré-calcul est cacheé en
+mémoire pour ne pas recomputer le même filtre. La colonne *Univers liquide*
+expose la taille de l'univers admissible pour chaque combo, et la colonne
+*n titres ETF* le nombre de titres effectivement pris.
 
 ### Objectifs de classement
 - **Tracking error (min)** — adapté aux ETF de réplication.
