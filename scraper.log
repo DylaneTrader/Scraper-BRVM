@@ -1,0 +1,1547 @@
+2026-04-23 09:28:23,152 [INFO] ============================================================
+2026-04-23 09:28:23,153 [INFO] SCRAPING DES 48 ACTIONS
+2026-04-23 09:28:23,154 [INFO] ============================================================
+2026-04-23 09:28:23,154 [INFO] 
+[1/48] ABJC.ci
+2026-04-23 09:28:23,229 [INFO]   Données existantes : 3549 lignes jusqu'au 2026-04-22
+2026-04-23 09:28:23,232 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-23 09:28:23,233 [INFO]   2026-04-23 -> 2026-04-23
+2026-04-23 09:28:24,357 [INFO]   Pas de nouvelles données pour ABJC.ci depuis 2026-04-23
+2026-04-23 09:28:24,422 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\actions\ABJC_ci_historique.csv (3549 lignes)
+2026-04-23 09:28:24,808 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\societes\ABJC_ci_societe.json
+2026-04-23 09:28:25,309 [INFO] 
+[2/48] BICC.ci
+2026-04-23 09:28:25,318 [INFO]   Données existantes : 3410 lignes jusqu'au 2026-04-22
+2026-04-23 09:28:25,318 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-23 09:28:25,319 [INFO]   2026-04-23 -> 2026-04-23
+2026-04-23 09:28:26,445 [INFO]   Pas de nouvelles données pour BICC.ci depuis 2026-04-23
+2026-04-23 09:28:26,479 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\actions\BICC_ci_historique.csv (3410 lignes)
+2026-04-23 09:28:26,896 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\societes\BICC_ci_societe.json
+2026-04-23 09:28:27,397 [INFO] 
+[3/48] BICB.bj
+2026-04-23 09:28:27,404 [INFO]   Données existantes : 256 lignes jusqu'au 2026-04-22
+2026-04-23 09:28:27,405 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-23 09:28:27,405 [INFO]   2026-04-23 -> 2026-04-23
+2026-04-23 09:28:28,519 [INFO]   Pas de nouvelles données pour BICB.bj depuis 2026-04-23
+2026-04-23 09:28:28,527 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\actions\BICB_bj_historique.csv (256 lignes)
+2026-04-23 09:28:28,925 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\societes\BICB_bj_societe.json
+2026-04-23 09:28:29,426 [INFO] 
+[4/48] BNBC.ci
+2026-04-23 09:28:29,441 [INFO]   Données existantes : 3036 lignes jusqu'au 2026-04-22
+2026-04-23 09:28:29,442 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-23 09:28:29,443 [INFO]   2026-04-23 -> 2026-04-23
+2026-04-23 09:28:30,560 [INFO]   Pas de nouvelles données pour BNBC.ci depuis 2026-04-23
+2026-04-23 09:28:30,601 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\actions\BNBC_ci_historique.csv (3036 lignes)
+2026-04-23 09:28:31,010 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\societes\BNBC_ci_societe.json
+2026-04-23 09:28:31,510 [INFO] 
+[5/48] BOAB.bj
+2026-04-23 09:28:31,524 [INFO]   Données existantes : 4049 lignes jusqu'au 2026-04-22
+2026-04-23 09:28:31,524 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-23 09:28:31,525 [INFO]   2026-04-23 -> 2026-04-23
+2026-04-23 09:28:32,635 [INFO]   Pas de nouvelles données pour BOAB.bj depuis 2026-04-23
+2026-04-23 09:28:32,668 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\actions\BOAB_bj_historique.csv (4049 lignes)
+2026-04-23 09:28:33,059 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\societes\BOAB_bj_societe.json
+2026-04-23 09:28:33,559 [INFO] 
+[6/48] BOABF.bf
+2026-04-23 09:28:33,567 [INFO]   Données existantes : 3437 lignes jusqu'au 2026-04-22
+2026-04-23 09:28:33,567 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-23 09:28:33,568 [INFO]   2026-04-23 -> 2026-04-23
+2026-04-23 09:28:34,689 [INFO]   Pas de nouvelles données pour BOABF.bf depuis 2026-04-23
+2026-04-23 09:28:34,722 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\actions\BOABF_bf_historique.csv (3437 lignes)
+2026-04-23 09:28:35,104 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\societes\BOABF_bf_societe.json
+2026-04-23 09:28:35,604 [INFO] 
+[7/48] BOAC.ci
+2026-04-23 09:28:35,612 [INFO]   Données existantes : 3531 lignes jusqu'au 2026-04-22
+2026-04-23 09:28:35,612 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-23 09:28:35,613 [INFO]   2026-04-23 -> 2026-04-23
+2026-04-23 09:28:36,722 [INFO]   Pas de nouvelles données pour BOAC.ci depuis 2026-04-23
+2026-04-23 09:28:36,752 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\actions\BOAC_ci_historique.csv (3531 lignes)
+2026-04-23 09:28:37,139 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\societes\BOAC_ci_societe.json
+2026-04-23 09:28:37,640 [INFO] 
+[8/48] BOAM.ml
+2026-04-23 09:28:37,650 [INFO]   Données existantes : 2518 lignes jusqu'au 2026-04-22
+2026-04-23 09:28:37,651 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-23 09:28:37,651 [INFO]   2026-04-23 -> 2026-04-23
+2026-04-23 09:28:38,787 [INFO]   Pas de nouvelles données pour BOAM.ml depuis 2026-04-23
+2026-04-23 09:28:38,814 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\actions\BOAM_ml_historique.csv (2518 lignes)
+2026-04-23 09:28:39,206 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\societes\BOAM_ml_societe.json
+2026-04-23 09:28:39,707 [INFO] 
+[9/48] BOAN.ne
+2026-04-23 09:28:39,718 [INFO]   Données existantes : 3918 lignes jusqu'au 2026-04-22
+2026-04-23 09:28:39,718 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-23 09:28:39,719 [INFO]   2026-04-23 -> 2026-04-23
+2026-04-23 09:28:40,832 [INFO]   Pas de nouvelles données pour BOAN.ne depuis 2026-04-23
+2026-04-23 09:28:40,872 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\actions\BOAN_ne_historique.csv (3918 lignes)
+2026-04-23 09:28:41,254 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\societes\BOAN_ne_societe.json
+2026-04-23 09:28:41,754 [INFO] 
+[10/48] BOAS.sn
+2026-04-23 09:28:41,765 [INFO]   Données existantes : 2908 lignes jusqu'au 2026-04-22
+2026-04-23 09:28:41,766 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-23 09:28:41,766 [INFO]   2026-04-23 -> 2026-04-23
+2026-04-23 09:28:42,880 [INFO]   Pas de nouvelles données pour BOAS.sn depuis 2026-04-23
+2026-04-23 09:28:42,914 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\actions\BOAS_sn_historique.csv (2908 lignes)
+2026-04-23 09:28:43,295 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\societes\BOAS_sn_societe.json
+2026-04-23 09:28:43,796 [INFO] 
+[11/48] CABC.ci
+2026-04-23 09:28:43,801 [INFO]   Données existantes : 3125 lignes jusqu'au 2026-04-22
+2026-04-23 09:28:43,802 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-23 09:28:43,802 [INFO]   2026-04-23 -> 2026-04-23
+2026-04-23 09:28:44,912 [INFO]   Pas de nouvelles données pour CABC.ci depuis 2026-04-23
+2026-04-23 09:28:44,937 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\actions\CABC_ci_historique.csv (3125 lignes)
+2026-04-23 09:28:45,320 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\societes\CABC_ci_societe.json
+2026-04-23 09:28:45,820 [INFO] 
+[12/48] CBIBF.bf
+2026-04-23 09:28:45,827 [INFO]   Données existantes : 2278 lignes jusqu'au 2026-04-22
+2026-04-23 09:28:45,828 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-23 09:28:45,828 [INFO]   2026-04-23 -> 2026-04-23
+2026-04-23 09:28:46,943 [INFO]   Pas de nouvelles données pour CBIBF.bf depuis 2026-04-23
+2026-04-23 09:28:46,957 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\actions\CBIBF_bf_historique.csv (2278 lignes)
+2026-04-23 09:28:47,342 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\societes\CBIBF_bf_societe.json
+2026-04-23 09:28:47,843 [INFO] 
+[13/48] CFAC.ci
+2026-04-23 09:28:47,860 [INFO]   Données existantes : 3120 lignes jusqu'au 2026-04-22
+2026-04-23 09:28:47,861 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-23 09:28:47,861 [INFO]   2026-04-23 -> 2026-04-23
+2026-04-23 09:28:48,977 [INFO]   Pas de nouvelles données pour CFAC.ci depuis 2026-04-23
+2026-04-23 09:28:49,003 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\actions\CFAC_ci_historique.csv (3120 lignes)
+2026-04-23 09:28:49,383 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\societes\CFAC_ci_societe.json
+2026-04-23 09:28:49,884 [INFO] 
+[14/48] CIEC.ci
+2026-04-23 09:28:49,898 [INFO]   Données existantes : 4251 lignes jusqu'au 2026-04-22
+2026-04-23 09:28:49,898 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-23 09:28:49,898 [INFO]   2026-04-23 -> 2026-04-23
+2026-04-23 09:28:51,011 [INFO]   Pas de nouvelles données pour CIEC.ci depuis 2026-04-23
+2026-04-23 09:28:51,048 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\actions\CIEC_ci_historique.csv (4251 lignes)
+2026-04-23 09:28:51,436 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\societes\CIEC_ci_societe.json
+2026-04-23 09:28:51,937 [INFO] 
+[15/48] ECOC.ci
+2026-04-23 09:28:51,947 [INFO]   Données existantes : 2145 lignes jusqu'au 2026-04-22
+2026-04-23 09:28:51,948 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-23 09:28:51,949 [INFO]   2026-04-23 -> 2026-04-23
+2026-04-23 09:28:53,067 [INFO]   Pas de nouvelles données pour ECOC.ci depuis 2026-04-23
+2026-04-23 09:28:53,091 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\actions\ECOC_ci_historique.csv (2145 lignes)
+2026-04-23 09:28:53,475 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\societes\ECOC_ci_societe.json
+2026-04-23 09:28:53,977 [INFO] 
+[16/48] ETIT.tg
+2026-04-23 09:28:53,987 [INFO]   Données existantes : 2942 lignes jusqu'au 2026-04-22
+2026-04-23 09:28:53,988 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-23 09:28:53,988 [INFO]   2026-04-23 -> 2026-04-23
+2026-04-23 09:28:55,112 [INFO]   Pas de nouvelles données pour ETIT.tg depuis 2026-04-23
+2026-04-23 09:28:55,129 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\actions\ETIT_tg_historique.csv (2942 lignes)
+2026-04-23 09:28:55,518 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\societes\ETIT_tg_societe.json
+2026-04-23 09:28:56,019 [INFO] 
+[17/48] FTSC.ci
+2026-04-23 09:28:56,033 [INFO]   Données existantes : 4119 lignes jusqu'au 2026-04-22
+2026-04-23 09:28:56,033 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-23 09:28:56,033 [INFO]   2026-04-23 -> 2026-04-23
+2026-04-23 09:28:57,148 [INFO]   Pas de nouvelles données pour FTSC.ci depuis 2026-04-23
+2026-04-23 09:28:57,178 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\actions\FTSC_ci_historique.csv (4119 lignes)
+2026-04-23 09:28:57,556 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\societes\FTSC_ci_societe.json
+2026-04-23 09:28:58,056 [INFO] 
+[18/48] LNBB.bj
+2026-04-23 09:28:58,059 [INFO]   Données existantes : 351 lignes jusqu'au 2026-04-22
+2026-04-23 09:28:58,060 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-23 09:28:58,060 [INFO]   2026-04-23 -> 2026-04-23
+2026-04-23 09:28:59,172 [INFO]   Pas de nouvelles données pour LNBB.bj depuis 2026-04-23
+2026-04-23 09:28:59,181 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\actions\LNBB_bj_historique.csv (351 lignes)
+2026-04-23 09:28:59,564 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\societes\LNBB_bj_societe.json
+2026-04-23 09:29:00,064 [INFO] 
+[19/48] NEIC.ci
+2026-04-23 09:29:00,072 [INFO]   Données existantes : 2262 lignes jusqu'au 2026-04-22
+2026-04-23 09:29:00,073 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-23 09:29:00,073 [INFO]   2026-04-23 -> 2026-04-23
+2026-04-23 09:29:01,199 [INFO]   Pas de nouvelles données pour NEIC.ci depuis 2026-04-23
+2026-04-23 09:29:01,232 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\actions\NEIC_ci_historique.csv (2262 lignes)
+2026-04-23 09:29:01,634 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\societes\NEIC_ci_societe.json
+2026-04-23 09:29:02,134 [INFO] 
+[20/48] NSBC.ci
+2026-04-23 09:29:02,144 [INFO]   Données existantes : 2123 lignes jusqu'au 2026-04-22
+2026-04-23 09:29:02,145 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-23 09:29:02,145 [INFO]   2026-04-23 -> 2026-04-23
+2026-04-23 09:29:03,262 [INFO]   Pas de nouvelles données pour NSBC.ci depuis 2026-04-23
+2026-04-23 09:29:03,281 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\actions\NSBC_ci_historique.csv (2123 lignes)
+2026-04-23 09:29:03,678 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\societes\NSBC_ci_societe.json
+2026-04-23 09:29:04,179 [INFO] 
+[21/48] NTLC.ci
+2026-04-23 09:29:04,185 [INFO]   Données existantes : 3115 lignes jusqu'au 2026-04-22
+2026-04-23 09:29:04,185 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-23 09:29:04,185 [INFO]   2026-04-23 -> 2026-04-23
+2026-04-23 09:29:05,295 [INFO]   Pas de nouvelles données pour NTLC.ci depuis 2026-04-23
+2026-04-23 09:29:05,320 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\actions\NTLC_ci_historique.csv (3115 lignes)
+2026-04-23 09:29:05,698 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\societes\NTLC_ci_societe.json
+2026-04-23 09:29:06,198 [INFO] 
+[22/48] ONTBF.bf
+2026-04-23 09:29:06,206 [INFO]   Données existantes : 3905 lignes jusqu'au 2026-04-22
+2026-04-23 09:29:06,207 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-23 09:29:06,207 [INFO]   2026-04-23 -> 2026-04-23
+2026-04-23 09:29:07,325 [INFO]   Pas de nouvelles données pour ONTBF.bf depuis 2026-04-23
+2026-04-23 09:29:07,354 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\actions\ONTBF_bf_historique.csv (3905 lignes)
+2026-04-23 09:29:07,731 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\societes\ONTBF_bf_societe.json
+2026-04-23 09:29:08,231 [INFO] 
+[23/48] ORAC.ci
+2026-04-23 09:29:08,239 [INFO]   Données existantes : 860 lignes jusqu'au 2026-04-22
+2026-04-23 09:29:08,240 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-23 09:29:08,240 [INFO]   2026-04-23 -> 2026-04-23
+2026-04-23 09:29:09,352 [INFO]   Pas de nouvelles données pour ORAC.ci depuis 2026-04-23
+2026-04-23 09:29:09,362 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\actions\ORAC_ci_historique.csv (860 lignes)
+2026-04-23 09:29:09,746 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\societes\ORAC_ci_societe.json
+2026-04-23 09:29:10,247 [INFO] 
+[24/48] ORGT.tg
+2026-04-23 09:29:10,251 [INFO]   Données existantes : 1685 lignes jusqu'au 2026-04-22
+2026-04-23 09:29:10,252 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-23 09:29:10,252 [INFO]   2026-04-23 -> 2026-04-23
+2026-04-23 09:29:11,369 [INFO]   Pas de nouvelles données pour ORGT.tg depuis 2026-04-23
+2026-04-23 09:29:11,382 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\actions\ORGT_tg_historique.csv (1685 lignes)
+2026-04-23 09:29:11,753 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\societes\ORGT_tg_societe.json
+2026-04-23 09:29:12,253 [INFO] 
+[25/48] PALC.ci
+2026-04-23 09:29:12,260 [INFO]   Données existantes : 2848 lignes jusqu'au 2026-04-22
+2026-04-23 09:29:12,260 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-23 09:29:12,261 [INFO]   2026-04-23 -> 2026-04-23
+2026-04-23 09:29:13,378 [INFO]   Pas de nouvelles données pour PALC.ci depuis 2026-04-23
+2026-04-23 09:29:13,395 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\actions\PALC_ci_historique.csv (2848 lignes)
+2026-04-23 09:29:13,780 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\societes\PALC_ci_societe.json
+2026-04-23 09:29:14,281 [INFO] 
+[26/48] PRSC.ci
+2026-04-23 09:29:14,287 [INFO]   Données existantes : 2128 lignes jusqu'au 2026-04-22
+2026-04-23 09:29:14,288 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-23 09:29:14,288 [INFO]   2026-04-23 -> 2026-04-23
+2026-04-23 09:29:15,402 [INFO]   Pas de nouvelles données pour PRSC.ci depuis 2026-04-23
+2026-04-23 09:29:15,419 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\actions\PRSC_ci_historique.csv (2128 lignes)
+2026-04-23 09:29:15,800 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\societes\PRSC_ci_societe.json
+2026-04-23 09:29:16,300 [INFO] 
+[27/48] SAFC.ci
+2026-04-23 09:29:16,304 [INFO]   Données existantes : 1330 lignes jusqu'au 2026-04-22
+2026-04-23 09:29:16,305 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-23 09:29:16,305 [INFO]   2026-04-23 -> 2026-04-23
+2026-04-23 09:29:17,416 [INFO]   Pas de nouvelles données pour SAFC.ci depuis 2026-04-23
+2026-04-23 09:29:17,426 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\actions\SAFC_ci_historique.csv (1330 lignes)
+2026-04-23 09:29:17,804 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\societes\SAFC_ci_societe.json
+2026-04-23 09:29:18,305 [INFO] 
+[28/48] SCRC.ci
+2026-04-23 09:29:18,317 [INFO]   Données existantes : 2355 lignes jusqu'au 2026-04-22
+2026-04-23 09:29:18,318 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-23 09:29:18,318 [INFO]   2026-04-23 -> 2026-04-23
+2026-04-23 09:29:19,437 [INFO]   Pas de nouvelles données pour SCRC.ci depuis 2026-04-23
+2026-04-23 09:29:19,460 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\actions\SCRC_ci_historique.csv (2355 lignes)
+2026-04-23 09:29:19,936 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\societes\SCRC_ci_societe.json
+2026-04-23 09:29:20,436 [INFO] 
+[29/48] SDCC.ci
+2026-04-23 09:29:20,449 [INFO]   Données existantes : 3644 lignes jusqu'au 2026-04-22
+2026-04-23 09:29:20,450 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-23 09:29:20,450 [INFO]   2026-04-23 -> 2026-04-23
+2026-04-23 09:29:21,564 [INFO]   Pas de nouvelles données pour SDCC.ci depuis 2026-04-23
+2026-04-23 09:29:21,596 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\actions\SDCC_ci_historique.csv (3644 lignes)
+2026-04-23 09:29:21,981 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\societes\SDCC_ci_societe.json
+2026-04-23 09:29:22,482 [INFO] 
+[30/48] SDSC.ci
+2026-04-23 09:29:22,492 [INFO]   Données existantes : 3636 lignes jusqu'au 2026-04-22
+2026-04-23 09:29:22,493 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-23 09:29:22,493 [INFO]   2026-04-23 -> 2026-04-23
+2026-04-23 09:29:23,610 [INFO]   Pas de nouvelles données pour SDSC.ci depuis 2026-04-23
+2026-04-23 09:29:23,637 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\actions\SDSC_ci_historique.csv (3636 lignes)
+2026-04-23 09:29:24,217 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\societes\SDSC_ci_societe.json
+2026-04-23 09:29:24,718 [INFO] 
+[31/48] SEMC.ci
+2026-04-23 09:29:24,722 [INFO]   Données existantes : 80 lignes jusqu'au 2026-04-22
+2026-04-23 09:29:24,723 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-23 09:29:24,723 [INFO]   2026-04-23 -> 2026-04-23
+2026-04-23 09:29:25,845 [INFO]   Pas de nouvelles données pour SEMC.ci depuis 2026-04-23
+2026-04-23 09:29:25,852 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\actions\SEMC_ci_historique.csv (80 lignes)
+2026-04-23 09:29:26,293 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\societes\SEMC_ci_societe.json
+2026-04-23 09:29:26,793 [INFO] 
+[32/48] SGBC.ci
+2026-04-23 09:29:26,810 [INFO]   Données existantes : 4132 lignes jusqu'au 2026-04-22
+2026-04-23 09:29:26,810 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-23 09:29:26,810 [INFO]   2026-04-23 -> 2026-04-23
+2026-04-23 09:29:27,924 [INFO]   Pas de nouvelles données pour SGBC.ci depuis 2026-04-23
+2026-04-23 09:29:27,975 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\actions\SGBC_ci_historique.csv (4132 lignes)
+2026-04-23 09:29:28,378 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\societes\SGBC_ci_societe.json
+2026-04-23 09:29:28,879 [INFO] 
+[33/48] SHEC.ci
+2026-04-23 09:29:28,888 [INFO]   Données existantes : 3950 lignes jusqu'au 2026-04-22
+2026-04-23 09:29:28,888 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-23 09:29:28,889 [INFO]   2026-04-23 -> 2026-04-23
+2026-04-23 09:29:30,003 [INFO]   Pas de nouvelles données pour SHEC.ci depuis 2026-04-23
+2026-04-23 09:29:30,038 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\actions\SHEC_ci_historique.csv (3950 lignes)
+2026-04-23 09:29:30,423 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\societes\SHEC_ci_societe.json
+2026-04-23 09:29:30,924 [INFO] 
+[34/48] SIBC.ci
+2026-04-23 09:29:30,930 [INFO]   Données existantes : 2429 lignes jusqu'au 2026-04-22
+2026-04-23 09:29:30,930 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-23 09:29:30,931 [INFO]   2026-04-23 -> 2026-04-23
+2026-04-23 09:29:32,046 [INFO]   Pas de nouvelles données pour SIBC.ci depuis 2026-04-23
+2026-04-23 09:29:32,076 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\actions\SIBC_ci_historique.csv (2429 lignes)
+2026-04-23 09:29:32,631 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\societes\SIBC_ci_societe.json
+2026-04-23 09:29:33,131 [INFO] 
+[35/48] SICC.ci
+2026-04-23 09:29:33,135 [INFO]   Données existantes : 1589 lignes jusqu'au 2026-04-22
+2026-04-23 09:29:33,136 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-23 09:29:33,136 [INFO]   2026-04-23 -> 2026-04-23
+2026-04-23 09:29:34,320 [INFO]   Pas de nouvelles données pour SICC.ci depuis 2026-04-23
+2026-04-23 09:29:34,333 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\actions\SICC_ci_historique.csv (1589 lignes)
+2026-04-23 09:29:34,885 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\societes\SICC_ci_societe.json
+2026-04-23 09:29:35,386 [INFO] 
+[36/48] SIVC.ci
+2026-04-23 09:29:35,396 [INFO]   Données existantes : 3726 lignes jusqu'au 2026-04-22
+2026-04-23 09:29:35,396 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-23 09:29:35,397 [INFO]   2026-04-23 -> 2026-04-23
+2026-04-23 09:29:36,520 [INFO]   Pas de nouvelles données pour SIVC.ci depuis 2026-04-23
+2026-04-23 09:29:36,559 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\actions\SIVC_ci_historique.csv (3726 lignes)
+2026-04-23 09:29:36,941 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\societes\SIVC_ci_societe.json
+2026-04-23 09:29:37,442 [INFO] 
+[37/48] SLBC.ci
+2026-04-23 09:29:37,448 [INFO]   Données existantes : 2357 lignes jusqu'au 2026-04-22
+2026-04-23 09:29:37,449 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-23 09:29:37,449 [INFO]   2026-04-23 -> 2026-04-23
+2026-04-23 09:29:38,567 [INFO]   Pas de nouvelles données pour SLBC.ci depuis 2026-04-23
+2026-04-23 09:29:38,591 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\actions\SLBC_ci_historique.csv (2357 lignes)
+2026-04-23 09:29:38,971 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\societes\SLBC_ci_societe.json
+2026-04-23 09:29:39,473 [INFO] 
+[38/48] SMBC.ci
+2026-04-23 09:29:39,484 [INFO]   Données existantes : 3105 lignes jusqu'au 2026-04-22
+2026-04-23 09:29:39,485 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-23 09:29:39,485 [INFO]   2026-04-23 -> 2026-04-23
+2026-04-23 09:29:40,597 [INFO]   Pas de nouvelles données pour SMBC.ci depuis 2026-04-23
+2026-04-23 09:29:40,641 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\actions\SMBC_ci_historique.csv (3105 lignes)
+2026-04-23 09:29:41,036 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\societes\SMBC_ci_societe.json
+2026-04-23 09:29:41,537 [INFO] 
+[39/48] SNTS.sn
+2026-04-23 09:29:41,552 [INFO]   Données existantes : 4611 lignes jusqu'au 2026-04-22
+2026-04-23 09:29:41,553 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-23 09:29:41,553 [INFO]   2026-04-23 -> 2026-04-23
+2026-04-23 09:29:42,669 [INFO]   Pas de nouvelles données pour SNTS.sn depuis 2026-04-23
+2026-04-23 09:29:42,695 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\actions\SNTS_sn_historique.csv (4611 lignes)
+2026-04-23 09:29:43,138 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\societes\SNTS_sn_societe.json
+2026-04-23 09:29:43,639 [INFO] 
+[40/48] SOGC.ci
+2026-04-23 09:29:43,646 [INFO]   Données existantes : 4090 lignes jusqu'au 2026-04-22
+2026-04-23 09:29:43,646 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-23 09:29:43,646 [INFO]   2026-04-23 -> 2026-04-23
+2026-04-23 09:29:44,795 [INFO]   Pas de nouvelles données pour SOGC.ci depuis 2026-04-23
+2026-04-23 09:29:44,831 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\actions\SOGC_ci_historique.csv (4090 lignes)
+2026-04-23 09:29:45,308 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\societes\SOGC_ci_societe.json
+2026-04-23 09:29:45,809 [INFO] 
+[41/48] SPHC.ci
+2026-04-23 09:29:45,820 [INFO]   Données existantes : 4254 lignes jusqu'au 2026-04-22
+2026-04-23 09:29:45,821 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-23 09:29:45,821 [INFO]   2026-04-23 -> 2026-04-23
+2026-04-23 09:29:46,949 [INFO]   Pas de nouvelles données pour SPHC.ci depuis 2026-04-23
+2026-04-23 09:29:46,974 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\actions\SPHC_ci_historique.csv (4254 lignes)
+2026-04-23 09:29:47,414 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\societes\SPHC_ci_societe.json
+2026-04-23 09:29:47,915 [INFO] 
+[42/48] STAC.ci
+2026-04-23 09:29:47,919 [INFO]   Données existantes : 2183 lignes jusqu'au 2026-04-22
+2026-04-23 09:29:47,920 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-23 09:29:47,920 [INFO]   2026-04-23 -> 2026-04-23
+2026-04-23 09:29:49,045 [INFO]   Pas de nouvelles données pour STAC.ci depuis 2026-04-23
+2026-04-23 09:29:49,075 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\actions\STAC_ci_historique.csv (2183 lignes)
+2026-04-23 09:29:49,543 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\societes\STAC_ci_societe.json
+2026-04-23 09:29:50,044 [INFO] 
+[43/48] STBC.ci
+2026-04-23 09:29:50,050 [INFO]   Données existantes : 3258 lignes jusqu'au 2026-04-22
+2026-04-23 09:29:50,050 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-23 09:29:50,050 [INFO]   2026-04-23 -> 2026-04-23
+2026-04-23 09:29:51,188 [INFO]   Pas de nouvelles données pour STBC.ci depuis 2026-04-23
+2026-04-23 09:29:51,221 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\actions\STBC_ci_historique.csv (3258 lignes)
+2026-04-23 09:29:51,636 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\societes\STBC_ci_societe.json
+2026-04-23 09:29:52,136 [INFO] 
+[44/48] SVOC.ci
+2026-04-23 09:29:52,138 [INFO]   2026-01-23 -> 2026-04-23
+2026-04-23 09:29:53,295 [INFO]   2025-10-24 -> 2026-01-22
+2026-04-23 09:29:54,443 [INFO]   2025-07-25 -> 2025-10-23
+2026-04-23 09:29:55,590 [INFO]   2025-04-25 -> 2025-07-24
+2026-04-23 09:29:56,744 [WARNING]   Aucune donnée pour SVOC.ci
+2026-04-23 09:29:57,135 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\societes\SVOC_ci_societe.json
+2026-04-23 09:29:57,636 [INFO] 
+[45/48] TTLC.ci
+2026-04-23 09:29:57,647 [INFO]   Données existantes : 3629 lignes jusqu'au 2026-04-22
+2026-04-23 09:29:57,648 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-23 09:29:57,648 [INFO]   2026-04-23 -> 2026-04-23
+2026-04-23 09:29:58,758 [INFO]   Pas de nouvelles données pour TTLC.ci depuis 2026-04-23
+2026-04-23 09:29:58,788 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\actions\TTLC_ci_historique.csv (3629 lignes)
+2026-04-23 09:29:59,175 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\societes\TTLC_ci_societe.json
+2026-04-23 09:29:59,676 [INFO] 
+[46/48] TTLS.sn
+2026-04-23 09:29:59,687 [INFO]   Données existantes : 2710 lignes jusqu'au 2026-04-22
+2026-04-23 09:29:59,689 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-23 09:29:59,690 [INFO]   2026-04-23 -> 2026-04-23
+2026-04-23 09:30:00,810 [INFO]   Pas de nouvelles données pour TTLS.sn depuis 2026-04-23
+2026-04-23 09:30:00,840 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\actions\TTLS_sn_historique.csv (2710 lignes)
+2026-04-23 09:30:01,250 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\societes\TTLS_sn_societe.json
+2026-04-23 09:30:01,751 [INFO] 
+[47/48] UNLC.ci
+2026-04-23 09:30:01,756 [INFO]   Données existantes : 1724 lignes jusqu'au 2026-04-22
+2026-04-23 09:30:01,756 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-23 09:30:01,757 [INFO]   2026-04-23 -> 2026-04-23
+2026-04-23 09:30:02,870 [INFO]   Pas de nouvelles données pour UNLC.ci depuis 2026-04-23
+2026-04-23 09:30:02,886 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\actions\UNLC_ci_historique.csv (1724 lignes)
+2026-04-23 09:30:03,326 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\societes\UNLC_ci_societe.json
+2026-04-23 09:30:03,827 [INFO] 
+[48/48] UNXC.ci
+2026-04-23 09:30:03,834 [INFO]   Données existantes : 3347 lignes jusqu'au 2026-04-22
+2026-04-23 09:30:03,834 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-23 09:30:03,834 [INFO]   2026-04-23 -> 2026-04-23
+2026-04-23 09:30:04,952 [INFO]   Pas de nouvelles données pour UNXC.ci depuis 2026-04-23
+2026-04-23 09:30:04,975 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\actions\UNXC_ci_historique.csv (3347 lignes)
+2026-04-23 09:30:05,445 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\societes\UNXC_ci_societe.json
+2026-04-23 09:30:05,945 [INFO] 
+============================================================
+2026-04-23 09:30:05,946 [INFO] SCRAPING DES 13 INDICES
+2026-04-23 09:30:05,946 [INFO] ============================================================
+2026-04-23 09:30:05,946 [INFO] 
+[1/13] BRVMC
+2026-04-23 09:30:05,959 [INFO]   Données existantes : 4668 lignes jusqu'au 2026-04-22
+2026-04-23 09:30:05,960 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-23 09:30:05,960 [INFO]   2026-04-23 -> 2026-04-23
+2026-04-23 09:30:06,117 [INFO]     +1 lignes
+2026-04-23 09:30:07,122 [INFO]   Nouvelles données BRVMC: 1 lignes, 2026-04-23 -> 2026-04-23 (1 requêtes)
+2026-04-23 09:30:07,162 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\indices\BRVMC_historique.csv (4669 lignes)
+2026-04-23 09:30:07,334 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\indices\BRVMC_info.json
+2026-04-23 09:30:07,635 [INFO] 
+[2/13] BRVM30
+2026-04-23 09:30:07,640 [INFO]   Données existantes : 861 lignes jusqu'au 2026-04-22
+2026-04-23 09:30:07,641 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-23 09:30:07,642 [INFO]   2026-04-23 -> 2026-04-23
+2026-04-23 09:30:07,757 [INFO]     +1 lignes
+2026-04-23 09:30:08,760 [INFO]   Nouvelles données BRVM30: 1 lignes, 2026-04-23 -> 2026-04-23 (1 requêtes)
+2026-04-23 09:30:08,772 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\indices\BRVM30_historique.csv (862 lignes)
+2026-04-23 09:30:08,903 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\indices\BRVM30_info.json
+2026-04-23 09:30:09,204 [INFO] 
+[3/13] BRVMPR
+2026-04-23 09:30:09,207 [INFO]   Données existantes : 861 lignes jusqu'au 2026-04-22
+2026-04-23 09:30:09,208 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-23 09:30:09,208 [INFO]   2026-04-23 -> 2026-04-23
+2026-04-23 09:30:09,319 [INFO]     +1 lignes
+2026-04-23 09:30:10,323 [INFO]   Nouvelles données BRVMPR: 1 lignes, 2026-04-23 -> 2026-04-23 (1 requêtes)
+2026-04-23 09:30:10,335 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\indices\BRVMPR_historique.csv (862 lignes)
+2026-04-23 09:30:10,477 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\indices\BRVMPR_info.json
+2026-04-23 09:30:10,778 [INFO] 
+[4/13] BRVMPA
+2026-04-23 09:30:10,784 [INFO]   Données existantes : 858 lignes jusqu'au 2026-04-22
+2026-04-23 09:30:10,785 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-23 09:30:10,786 [INFO]   2026-04-23 -> 2026-04-23
+2026-04-23 09:30:10,924 [INFO]     +1 lignes
+2026-04-23 09:30:11,926 [INFO]   Nouvelles données BRVMPA: 1 lignes, 2026-04-23 -> 2026-04-23 (1 requêtes)
+2026-04-23 09:30:11,938 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\indices\BRVMPA_historique.csv (859 lignes)
+2026-04-23 09:30:12,087 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\indices\BRVMPA_info.json
+2026-04-23 09:30:12,388 [INFO] 
+[5/13] BRVM-CB
+2026-04-23 09:30:12,392 [INFO]   Données existantes : 337 lignes jusqu'au 2026-04-22
+2026-04-23 09:30:12,392 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-23 09:30:12,392 [INFO]   2026-04-23 -> 2026-04-23
+2026-04-23 09:30:12,508 [INFO]     +1 lignes
+2026-04-23 09:30:13,513 [INFO]   Nouvelles données BRVM-CB: 1 lignes, 2026-04-23 -> 2026-04-23 (1 requêtes)
+2026-04-23 09:30:13,521 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\indices\BRVM_CB_historique.csv (338 lignes)
+2026-04-23 09:30:13,670 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\indices\BRVM_CB_info.json
+2026-04-23 09:30:13,970 [INFO] 
+[6/13] BRVM-CD
+2026-04-23 09:30:13,975 [INFO]   Données existantes : 337 lignes jusqu'au 2026-04-22
+2026-04-23 09:30:13,976 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-23 09:30:13,976 [INFO]   2026-04-23 -> 2026-04-23
+2026-04-23 09:30:14,094 [INFO]     +1 lignes
+2026-04-23 09:30:15,098 [INFO]   Nouvelles données BRVM-CD: 1 lignes, 2026-04-23 -> 2026-04-23 (1 requêtes)
+2026-04-23 09:30:15,109 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\indices\BRVM_CD_historique.csv (338 lignes)
+2026-04-23 09:30:15,259 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\indices\BRVM_CD_info.json
+2026-04-23 09:30:15,560 [INFO] 
+[7/13] BRVM-EN
+2026-04-23 09:30:15,565 [INFO]   Données existantes : 337 lignes jusqu'au 2026-04-22
+2026-04-23 09:30:15,566 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-23 09:30:15,566 [INFO]   2026-04-23 -> 2026-04-23
+2026-04-23 09:30:15,680 [INFO]     +1 lignes
+2026-04-23 09:30:16,683 [INFO]   Nouvelles données BRVM-EN: 1 lignes, 2026-04-23 -> 2026-04-23 (1 requêtes)
+2026-04-23 09:30:16,691 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\indices\BRVM_EN_historique.csv (338 lignes)
+2026-04-23 09:30:16,840 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\indices\BRVM_EN_info.json
+2026-04-23 09:30:17,140 [INFO] 
+[8/13] BRVM-IN
+2026-04-23 09:30:17,143 [INFO]   Données existantes : 337 lignes jusqu'au 2026-04-22
+2026-04-23 09:30:17,143 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-23 09:30:17,143 [INFO]   2026-04-23 -> 2026-04-23
+2026-04-23 09:30:17,260 [INFO]     +1 lignes
+2026-04-23 09:30:18,263 [INFO]   Nouvelles données BRVM-IN: 1 lignes, 2026-04-23 -> 2026-04-23 (1 requêtes)
+2026-04-23 09:30:18,272 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\indices\BRVM_IN_historique.csv (338 lignes)
+2026-04-23 09:30:18,410 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\indices\BRVM_IN_info.json
+2026-04-23 09:30:18,711 [INFO] 
+[9/13] BRVM-SF
+2026-04-23 09:30:18,714 [INFO]   Données existantes : 337 lignes jusqu'au 2026-04-22
+2026-04-23 09:30:18,714 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-23 09:30:18,714 [INFO]   2026-04-23 -> 2026-04-23
+2026-04-23 09:30:18,830 [INFO]     +1 lignes
+2026-04-23 09:30:19,832 [INFO]   Nouvelles données BRVM-SF: 1 lignes, 2026-04-23 -> 2026-04-23 (1 requêtes)
+2026-04-23 09:30:19,842 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\indices\BRVM_SF_historique.csv (338 lignes)
+2026-04-23 09:30:19,987 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\indices\BRVM_SF_info.json
+2026-04-23 09:30:20,288 [INFO] 
+[10/13] BRVM-TEL
+2026-04-23 09:30:20,290 [INFO]   Données existantes : 337 lignes jusqu'au 2026-04-22
+2026-04-23 09:30:20,291 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-23 09:30:20,291 [INFO]   2026-04-23 -> 2026-04-23
+2026-04-23 09:30:20,410 [INFO]     +1 lignes
+2026-04-23 09:30:21,414 [INFO]   Nouvelles données BRVM-TEL: 1 lignes, 2026-04-23 -> 2026-04-23 (1 requêtes)
+2026-04-23 09:30:21,427 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\indices\BRVM_TEL_historique.csv (338 lignes)
+2026-04-23 09:30:21,582 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\indices\BRVM_TEL_info.json
+2026-04-23 09:30:21,883 [INFO] 
+[11/13] CAPIBRVM
+2026-04-23 09:30:21,889 [INFO]   Données existantes : 1624 lignes jusqu'au 2026-04-22
+2026-04-23 09:30:21,889 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-23 09:30:21,890 [INFO]   2026-04-23 -> 2026-04-23
+2026-04-23 09:30:23,015 [INFO]   Pas de nouvelles données pour CAPIBRVM depuis 2026-04-23
+2026-04-23 09:30:23,028 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\indices\CAPIBRVM_historique.csv (1624 lignes)
+2026-04-23 09:30:23,166 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\indices\CAPIBRVM_info.json
+2026-04-23 09:30:23,467 [INFO] 
+[12/13] SIKAIDX
+2026-04-23 09:30:23,473 [INFO]   Données existantes : 2353 lignes jusqu'au 2026-04-22
+2026-04-23 09:30:23,474 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-23 09:30:23,474 [INFO]   2026-04-23 -> 2026-04-23
+2026-04-23 09:30:24,595 [INFO]   Pas de nouvelles données pour SIKAIDX depuis 2026-04-23
+2026-04-23 09:30:24,615 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\indices\SIKAIDX_historique.csv (2353 lignes)
+2026-04-23 09:30:24,760 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\indices\SIKAIDX_info.json
+2026-04-23 09:30:25,060 [INFO] 
+[13/13] SIKATR
+2026-04-23 09:30:25,066 [INFO]   Données existantes : 1832 lignes jusqu'au 2026-04-22
+2026-04-23 09:30:25,067 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-23 09:30:25,067 [INFO]   2026-04-23 -> 2026-04-23
+2026-04-23 09:30:26,186 [INFO]   Pas de nouvelles données pour SIKATR depuis 2026-04-23
+2026-04-23 09:30:26,201 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\indices\SIKATR_historique.csv (1832 lignes)
+2026-04-23 09:30:26,334 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\indices\SIKATR_info.json
+2026-04-23 09:30:26,634 [INFO] 
+============================================================
+2026-04-23 09:30:26,635 [INFO] SCRAPING TERMINÉ en 2.1 minutes
+2026-04-23 09:30:26,635 [INFO] ============================================================
+2026-04-23 09:30:26,919 [INFO] 
+Résumé sauvegardé : C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\resume_scraping.csv
+2026-04-23 09:30:26,928 [INFO] 
+Fichiers dans :
+2026-04-23 09:30:26,928 [INFO]   Actions   : C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\actions
+2026-04-23 09:30:26,928 [INFO]   Indices   : C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\indices
+2026-04-23 09:30:26,928 [INFO]   Sociétés  : C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\societes
+2026-04-23 11:30:04,499 [INFO] === TEST : BRVM-CB ===
+2026-04-23 11:30:04,500 [INFO]   2026-01-23 -> 2026-04-23
+2026-04-23 11:30:05,077 [INFO]     +65 lignes
+2026-04-23 11:30:06,077 [INFO]   2025-10-24 -> 2026-01-22
+2026-04-23 11:30:06,262 [INFO]     +65 lignes
+2026-04-23 11:30:07,263 [INFO]   2025-07-25 -> 2025-10-23
+2026-04-23 11:30:07,446 [INFO]     +65 lignes
+2026-04-23 11:30:08,447 [INFO]   2025-04-25 -> 2025-07-24
+2026-04-23 11:30:08,589 [INFO]     +63 lignes
+2026-04-23 11:30:09,590 [INFO]   2025-01-24 -> 2025-04-24
+2026-04-23 11:30:09,735 [INFO]     +64 lignes
+2026-04-23 11:30:10,736 [INFO]   2024-10-25 -> 2025-01-23
+2026-04-23 11:30:10,891 [INFO]     +16 lignes
+2026-04-23 11:30:11,892 [INFO]   2024-07-26 -> 2024-10-24
+2026-04-23 11:30:13,096 [INFO]   2024-04-26 -> 2024-07-25
+2026-04-23 11:30:14,315 [INFO]   2024-01-26 -> 2024-04-25
+2026-04-23 11:30:15,456 [INFO]   2023-10-27 -> 2024-01-25
+2026-04-23 11:30:16,700 [INFO]   Nouvelles données BRVM-CB: 338 lignes, 2025-01-02 -> 2026-04-23 (10 requêtes)
+2026-04-23 11:30:16,712 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\Scraper BRVM\data\indices\BRVM_CB_historique.csv (338 lignes)
+2026-04-30 10:11:30,319 [INFO] ============================================================
+2026-04-30 10:11:30,321 [INFO] HISTORIQUE — 48 ACTIONS
+2026-04-30 10:11:30,322 [INFO] ============================================================
+2026-04-30 10:11:30,322 [INFO] 
+[1/48] ABJC.ci
+2026-04-30 10:11:30,363 [INFO]   Données existantes : 3549 lignes jusqu'au 2026-04-22
+2026-04-30 10:11:30,365 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-30 10:11:30,366 [INFO]   2026-04-23 -> 2026-04-30
+2026-04-30 10:11:30,480 [INFO]     +6 lignes
+2026-04-30 10:11:31,487 [INFO]   Nouvelles données ABJC.ci: 6 lignes, 2026-04-23 -> 2026-04-30 (1 requêtes)
+2026-04-30 10:11:31,534 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\ABJC_ci_historique.csv (3555 lignes)
+2026-04-30 10:11:31,534 [INFO] 
+[2/48] BICC.ci
+2026-04-30 10:11:31,544 [INFO]   Données existantes : 3410 lignes jusqu'au 2026-04-22
+2026-04-30 10:11:31,545 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-30 10:11:31,545 [INFO]   2026-04-23 -> 2026-04-30
+2026-04-30 10:11:31,692 [INFO]     +6 lignes
+2026-04-30 10:11:32,695 [INFO]   Nouvelles données BICC.ci: 6 lignes, 2026-04-23 -> 2026-04-30 (1 requêtes)
+2026-04-30 10:11:32,731 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\BICC_ci_historique.csv (3416 lignes)
+2026-04-30 10:11:32,731 [INFO] 
+[3/48] BICB.bj
+2026-04-30 10:11:32,737 [INFO]   Données existantes : 256 lignes jusqu'au 2026-04-22
+2026-04-30 10:11:32,737 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-30 10:11:32,738 [INFO]   2026-04-23 -> 2026-04-30
+2026-04-30 10:11:32,866 [INFO]     +6 lignes
+2026-04-30 10:11:33,870 [INFO]   Nouvelles données BICB.bj: 6 lignes, 2026-04-23 -> 2026-04-30 (1 requêtes)
+2026-04-30 10:11:33,878 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\BICB_bj_historique.csv (262 lignes)
+2026-04-30 10:11:33,879 [INFO] 
+[4/48] BNBC.ci
+2026-04-30 10:11:33,886 [INFO]   Données existantes : 3036 lignes jusqu'au 2026-04-22
+2026-04-30 10:11:33,887 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-30 10:11:33,887 [INFO]   2026-04-23 -> 2026-04-30
+2026-04-30 10:11:34,049 [INFO]     +6 lignes
+2026-04-30 10:11:35,052 [INFO]   Nouvelles données BNBC.ci: 6 lignes, 2026-04-23 -> 2026-04-30 (1 requêtes)
+2026-04-30 10:11:35,078 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\BNBC_ci_historique.csv (3042 lignes)
+2026-04-30 10:11:35,079 [INFO] 
+[5/48] BOAB.bj
+2026-04-30 10:11:35,089 [INFO]   Données existantes : 4049 lignes jusqu'au 2026-04-22
+2026-04-30 10:11:35,089 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-30 10:11:35,090 [INFO]   2026-04-23 -> 2026-04-30
+2026-04-30 10:11:35,247 [INFO]     +6 lignes
+2026-04-30 10:11:36,251 [INFO]   Nouvelles données BOAB.bj: 6 lignes, 2026-04-23 -> 2026-04-30 (1 requêtes)
+2026-04-30 10:11:36,285 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\BOAB_bj_historique.csv (4055 lignes)
+2026-04-30 10:11:36,285 [INFO] 
+[6/48] BOABF.bf
+2026-04-30 10:11:36,297 [INFO]   Données existantes : 3437 lignes jusqu'au 2026-04-22
+2026-04-30 10:11:36,297 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-30 10:11:36,298 [INFO]   2026-04-23 -> 2026-04-30
+2026-04-30 10:11:36,481 [INFO]     +6 lignes
+2026-04-30 10:11:37,484 [INFO]   Nouvelles données BOABF.bf: 6 lignes, 2026-04-23 -> 2026-04-30 (1 requêtes)
+2026-04-30 10:11:37,517 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\BOABF_bf_historique.csv (3443 lignes)
+2026-04-30 10:11:37,517 [INFO] 
+[7/48] BOAC.ci
+2026-04-30 10:11:37,528 [INFO]   Données existantes : 3531 lignes jusqu'au 2026-04-22
+2026-04-30 10:11:37,529 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-30 10:11:37,529 [INFO]   2026-04-23 -> 2026-04-30
+2026-04-30 10:11:37,645 [INFO]     +6 lignes
+2026-04-30 10:11:38,648 [INFO]   Nouvelles données BOAC.ci: 6 lignes, 2026-04-23 -> 2026-04-30 (1 requêtes)
+2026-04-30 10:11:38,683 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\BOAC_ci_historique.csv (3537 lignes)
+2026-04-30 10:11:38,683 [INFO] 
+[8/48] BOAM.ml
+2026-04-30 10:11:38,692 [INFO]   Données existantes : 2518 lignes jusqu'au 2026-04-22
+2026-04-30 10:11:38,692 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-30 10:11:38,692 [INFO]   2026-04-23 -> 2026-04-30
+2026-04-30 10:11:38,861 [INFO]     +6 lignes
+2026-04-30 10:11:39,864 [INFO]   Nouvelles données BOAM.ml: 6 lignes, 2026-04-23 -> 2026-04-30 (1 requêtes)
+2026-04-30 10:11:39,891 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\BOAM_ml_historique.csv (2524 lignes)
+2026-04-30 10:11:39,891 [INFO] 
+[9/48] BOAN.ne
+2026-04-30 10:11:39,903 [INFO]   Données existantes : 3918 lignes jusqu'au 2026-04-22
+2026-04-30 10:11:39,903 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-30 10:11:39,904 [INFO]   2026-04-23 -> 2026-04-30
+2026-04-30 10:11:40,091 [INFO]     +6 lignes
+2026-04-30 10:11:41,095 [INFO]   Nouvelles données BOAN.ne: 6 lignes, 2026-04-23 -> 2026-04-30 (1 requêtes)
+2026-04-30 10:11:41,131 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\BOAN_ne_historique.csv (3924 lignes)
+2026-04-30 10:11:41,132 [INFO] 
+[10/48] BOAS.sn
+2026-04-30 10:11:41,142 [INFO]   Données existantes : 2908 lignes jusqu'au 2026-04-22
+2026-04-30 10:11:41,142 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-30 10:11:41,143 [INFO]   2026-04-23 -> 2026-04-30
+2026-04-30 10:11:41,282 [INFO]     +6 lignes
+2026-04-30 10:11:42,287 [INFO]   Nouvelles données BOAS.sn: 6 lignes, 2026-04-23 -> 2026-04-30 (1 requêtes)
+2026-04-30 10:11:42,327 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\BOAS_sn_historique.csv (2914 lignes)
+2026-04-30 10:11:42,327 [INFO] 
+[11/48] CABC.ci
+2026-04-30 10:11:42,337 [INFO]   Données existantes : 3125 lignes jusqu'au 2026-04-22
+2026-04-30 10:11:42,338 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-30 10:11:42,338 [INFO]   2026-04-23 -> 2026-04-30
+2026-04-30 10:11:42,452 [INFO]     +6 lignes
+2026-04-30 10:11:43,456 [INFO]   Nouvelles données CABC.ci: 6 lignes, 2026-04-23 -> 2026-04-30 (1 requêtes)
+2026-04-30 10:11:43,487 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\CABC_ci_historique.csv (3131 lignes)
+2026-04-30 10:11:43,487 [INFO] 
+[12/48] CBIBF.bf
+2026-04-30 10:11:43,493 [INFO]   Données existantes : 2278 lignes jusqu'au 2026-04-22
+2026-04-30 10:11:43,493 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-30 10:11:43,493 [INFO]   2026-04-23 -> 2026-04-30
+2026-04-30 10:11:43,674 [INFO]     +6 lignes
+2026-04-30 10:11:44,677 [INFO]   Nouvelles données CBIBF.bf: 6 lignes, 2026-04-23 -> 2026-04-30 (1 requêtes)
+2026-04-30 10:11:44,704 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\CBIBF_bf_historique.csv (2284 lignes)
+2026-04-30 10:11:44,704 [INFO] 
+[13/48] CFAC.ci
+2026-04-30 10:11:44,716 [INFO]   Données existantes : 3120 lignes jusqu'au 2026-04-22
+2026-04-30 10:11:44,716 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-30 10:11:44,717 [INFO]   2026-04-23 -> 2026-04-30
+2026-04-30 10:11:44,902 [INFO]     +6 lignes
+2026-04-30 10:11:45,904 [INFO]   Nouvelles données CFAC.ci: 6 lignes, 2026-04-23 -> 2026-04-30 (1 requêtes)
+2026-04-30 10:11:45,964 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\CFAC_ci_historique.csv (3126 lignes)
+2026-04-30 10:11:45,964 [INFO] 
+[14/48] CIEC.ci
+2026-04-30 10:11:45,982 [INFO]   Données existantes : 4251 lignes jusqu'au 2026-04-22
+2026-04-30 10:11:45,982 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-30 10:11:45,983 [INFO]   2026-04-23 -> 2026-04-30
+2026-04-30 10:11:46,132 [INFO]     +6 lignes
+2026-04-30 10:11:47,138 [INFO]   Nouvelles données CIEC.ci: 6 lignes, 2026-04-23 -> 2026-04-30 (1 requêtes)
+2026-04-30 10:11:47,343 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\CIEC_ci_historique.csv (4257 lignes)
+2026-04-30 10:11:47,344 [INFO] 
+[15/48] ECOC.ci
+2026-04-30 10:11:47,350 [INFO]   Données existantes : 2145 lignes jusqu'au 2026-04-22
+2026-04-30 10:11:47,350 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-30 10:11:47,351 [INFO]   2026-04-23 -> 2026-04-30
+2026-04-30 10:11:47,518 [INFO]     +6 lignes
+2026-04-30 10:11:48,523 [INFO]   Nouvelles données ECOC.ci: 6 lignes, 2026-04-23 -> 2026-04-30 (1 requêtes)
+2026-04-30 10:11:48,555 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\ECOC_ci_historique.csv (2151 lignes)
+2026-04-30 10:11:48,555 [INFO] 
+[16/48] ETIT.tg
+2026-04-30 10:11:48,568 [INFO]   Données existantes : 2942 lignes jusqu'au 2026-04-22
+2026-04-30 10:11:48,568 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-30 10:11:48,568 [INFO]   2026-04-23 -> 2026-04-30
+2026-04-30 10:11:48,794 [INFO]     +6 lignes
+2026-04-30 10:11:49,798 [INFO]   Nouvelles données ETIT.tg: 6 lignes, 2026-04-23 -> 2026-04-30 (1 requêtes)
+2026-04-30 10:11:49,826 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\ETIT_tg_historique.csv (2948 lignes)
+2026-04-30 10:11:49,826 [INFO] 
+[17/48] FTSC.ci
+2026-04-30 10:11:49,838 [INFO]   Données existantes : 4119 lignes jusqu'au 2026-04-22
+2026-04-30 10:11:49,839 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-30 10:11:49,839 [INFO]   2026-04-23 -> 2026-04-30
+2026-04-30 10:11:50,024 [INFO]     +6 lignes
+2026-04-30 10:11:51,027 [INFO]   Nouvelles données FTSC.ci: 6 lignes, 2026-04-23 -> 2026-04-30 (1 requêtes)
+2026-04-30 10:11:51,059 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\FTSC_ci_historique.csv (4125 lignes)
+2026-04-30 10:11:51,060 [INFO] 
+[18/48] LNBB.bj
+2026-04-30 10:11:51,066 [INFO]   Données existantes : 351 lignes jusqu'au 2026-04-22
+2026-04-30 10:11:51,067 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-30 10:11:51,067 [INFO]   2026-04-23 -> 2026-04-30
+2026-04-30 10:11:51,251 [INFO]     +6 lignes
+2026-04-30 10:11:52,256 [INFO]   Nouvelles données LNBB.bj: 6 lignes, 2026-04-23 -> 2026-04-30 (1 requêtes)
+2026-04-30 10:11:52,265 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\LNBB_bj_historique.csv (357 lignes)
+2026-04-30 10:11:52,266 [INFO] 
+[19/48] NEIC.ci
+2026-04-30 10:11:52,281 [INFO]   Données existantes : 2262 lignes jusqu'au 2026-04-22
+2026-04-30 10:11:52,282 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-30 10:11:52,283 [INFO]   2026-04-23 -> 2026-04-30
+2026-04-30 10:11:52,404 [INFO]     +6 lignes
+2026-04-30 10:11:53,409 [INFO]   Nouvelles données NEIC.ci: 6 lignes, 2026-04-23 -> 2026-04-30 (1 requêtes)
+2026-04-30 10:11:53,442 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\NEIC_ci_historique.csv (2268 lignes)
+2026-04-30 10:11:53,442 [INFO] 
+[20/48] NSBC.ci
+2026-04-30 10:11:53,449 [INFO]   Données existantes : 2123 lignes jusqu'au 2026-04-22
+2026-04-30 10:11:53,450 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-30 10:11:53,450 [INFO]   2026-04-23 -> 2026-04-30
+2026-04-30 10:11:53,617 [INFO]     +6 lignes
+2026-04-30 10:11:54,620 [INFO]   Nouvelles données NSBC.ci: 6 lignes, 2026-04-23 -> 2026-04-30 (1 requêtes)
+2026-04-30 10:11:54,633 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\NSBC_ci_historique.csv (2129 lignes)
+2026-04-30 10:11:54,633 [INFO] 
+[21/48] NTLC.ci
+2026-04-30 10:11:54,642 [INFO]   Données existantes : 3115 lignes jusqu'au 2026-04-22
+2026-04-30 10:11:54,642 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-30 10:11:54,643 [INFO]   2026-04-23 -> 2026-04-30
+2026-04-30 10:11:54,835 [INFO]     +6 lignes
+2026-04-30 10:11:55,837 [INFO]   Nouvelles données NTLC.ci: 6 lignes, 2026-04-23 -> 2026-04-30 (1 requêtes)
+2026-04-30 10:11:55,870 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\NTLC_ci_historique.csv (3121 lignes)
+2026-04-30 10:11:55,870 [INFO] 
+[22/48] ONTBF.bf
+2026-04-30 10:11:55,879 [INFO]   Données existantes : 3905 lignes jusqu'au 2026-04-22
+2026-04-30 10:11:55,880 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-30 10:11:55,880 [INFO]   2026-04-23 -> 2026-04-30
+2026-04-30 10:11:56,064 [INFO]     +6 lignes
+2026-04-30 10:11:57,067 [INFO]   Nouvelles données ONTBF.bf: 6 lignes, 2026-04-23 -> 2026-04-30 (1 requêtes)
+2026-04-30 10:11:57,101 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\ONTBF_bf_historique.csv (3911 lignes)
+2026-04-30 10:11:57,102 [INFO] 
+[23/48] ORAC.ci
+2026-04-30 10:11:57,107 [INFO]   Données existantes : 860 lignes jusqu'au 2026-04-22
+2026-04-30 10:11:57,108 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-30 10:11:57,108 [INFO]   2026-04-23 -> 2026-04-30
+2026-04-30 10:11:57,293 [INFO]     +6 lignes
+2026-04-30 10:11:58,297 [INFO]   Nouvelles données ORAC.ci: 6 lignes, 2026-04-23 -> 2026-04-30 (1 requêtes)
+2026-04-30 10:11:58,305 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\ORAC_ci_historique.csv (866 lignes)
+2026-04-30 10:11:58,305 [INFO] 
+[24/48] ORGT.tg
+2026-04-30 10:11:58,314 [INFO]   Données existantes : 1685 lignes jusqu'au 2026-04-22
+2026-04-30 10:11:58,315 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-30 10:11:58,315 [INFO]   2026-04-23 -> 2026-04-30
+2026-04-30 10:11:58,478 [INFO]     +6 lignes
+2026-04-30 10:11:59,481 [INFO]   Nouvelles données ORGT.tg: 6 lignes, 2026-04-23 -> 2026-04-30 (1 requêtes)
+2026-04-30 10:11:59,492 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\ORGT_tg_historique.csv (1691 lignes)
+2026-04-30 10:11:59,492 [INFO] 
+[25/48] PALC.ci
+2026-04-30 10:11:59,502 [INFO]   Données existantes : 2848 lignes jusqu'au 2026-04-22
+2026-04-30 10:11:59,502 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-30 10:11:59,502 [INFO]   2026-04-23 -> 2026-04-30
+2026-04-30 10:11:59,648 [INFO]     +6 lignes
+2026-04-30 10:12:00,650 [INFO]   Nouvelles données PALC.ci: 6 lignes, 2026-04-23 -> 2026-04-30 (1 requêtes)
+2026-04-30 10:12:00,675 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\PALC_ci_historique.csv (2854 lignes)
+2026-04-30 10:12:00,675 [INFO] 
+[26/48] PRSC.ci
+2026-04-30 10:12:00,691 [INFO]   Données existantes : 2128 lignes jusqu'au 2026-04-22
+2026-04-30 10:12:00,692 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-30 10:12:00,693 [INFO]   2026-04-23 -> 2026-04-30
+2026-04-30 10:12:00,877 [INFO]     +6 lignes
+2026-04-30 10:12:01,885 [INFO]   Nouvelles données PRSC.ci: 6 lignes, 2026-04-23 -> 2026-04-30 (1 requêtes)
+2026-04-30 10:12:01,935 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\PRSC_ci_historique.csv (2134 lignes)
+2026-04-30 10:12:01,935 [INFO] 
+[27/48] SAFC.ci
+2026-04-30 10:12:01,945 [INFO]   Données existantes : 1330 lignes jusqu'au 2026-04-22
+2026-04-30 10:12:01,946 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-30 10:12:01,946 [INFO]   2026-04-23 -> 2026-04-30
+2026-04-30 10:12:02,106 [INFO]     +6 lignes
+2026-04-30 10:12:03,109 [INFO]   Nouvelles données SAFC.ci: 6 lignes, 2026-04-23 -> 2026-04-30 (1 requêtes)
+2026-04-30 10:12:03,130 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\SAFC_ci_historique.csv (1336 lignes)
+2026-04-30 10:12:03,131 [INFO] 
+[28/48] SCRC.ci
+2026-04-30 10:12:03,146 [INFO]   Données existantes : 2355 lignes jusqu'au 2026-04-22
+2026-04-30 10:12:03,147 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-30 10:12:03,148 [INFO]   2026-04-23 -> 2026-04-30
+2026-04-30 10:12:03,296 [INFO]     +6 lignes
+2026-04-30 10:12:04,301 [INFO]   Nouvelles données SCRC.ci: 6 lignes, 2026-04-23 -> 2026-04-30 (1 requêtes)
+2026-04-30 10:12:04,332 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\SCRC_ci_historique.csv (2361 lignes)
+2026-04-30 10:12:04,333 [INFO] 
+[29/48] SDCC.ci
+2026-04-30 10:12:04,347 [INFO]   Données existantes : 3644 lignes jusqu'au 2026-04-22
+2026-04-30 10:12:04,348 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-30 10:12:04,348 [INFO]   2026-04-23 -> 2026-04-30
+2026-04-30 10:12:04,467 [INFO]     +6 lignes
+2026-04-30 10:12:05,469 [INFO]   Nouvelles données SDCC.ci: 6 lignes, 2026-04-23 -> 2026-04-30 (1 requêtes)
+2026-04-30 10:12:05,507 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\SDCC_ci_historique.csv (3650 lignes)
+2026-04-30 10:12:05,507 [INFO] 
+[30/48] SDSC.ci
+2026-04-30 10:12:05,517 [INFO]   Données existantes : 3636 lignes jusqu'au 2026-04-22
+2026-04-30 10:12:05,518 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-30 10:12:05,518 [INFO]   2026-04-23 -> 2026-04-30
+2026-04-30 10:12:05,661 [INFO]     +6 lignes
+2026-04-30 10:12:06,665 [INFO]   Nouvelles données SDSC.ci: 6 lignes, 2026-04-23 -> 2026-04-30 (1 requêtes)
+2026-04-30 10:12:06,706 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\SDSC_ci_historique.csv (3642 lignes)
+2026-04-30 10:12:06,706 [INFO] 
+[31/48] SEMC.ci
+2026-04-30 10:12:06,713 [INFO]   Données existantes : 80 lignes jusqu'au 2026-04-22
+2026-04-30 10:12:06,713 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-30 10:12:06,714 [INFO]   2026-04-23 -> 2026-04-30
+2026-04-30 10:12:06,856 [INFO]     +6 lignes
+2026-04-30 10:12:07,859 [INFO]   Nouvelles données SEMC.ci: 6 lignes, 2026-04-23 -> 2026-04-30 (1 requêtes)
+2026-04-30 10:12:07,864 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\SEMC_ci_historique.csv (86 lignes)
+2026-04-30 10:12:07,864 [INFO] 
+[32/48] SGBC.ci
+2026-04-30 10:12:07,878 [INFO]   Données existantes : 4132 lignes jusqu'au 2026-04-22
+2026-04-30 10:12:07,878 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-30 10:12:07,879 [INFO]   2026-04-23 -> 2026-04-30
+2026-04-30 10:12:08,047 [INFO]     +6 lignes
+2026-04-30 10:12:09,050 [INFO]   Nouvelles données SGBC.ci: 6 lignes, 2026-04-23 -> 2026-04-30 (1 requêtes)
+2026-04-30 10:12:09,089 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\SGBC_ci_historique.csv (4138 lignes)
+2026-04-30 10:12:09,090 [INFO] 
+[33/48] SHEC.ci
+2026-04-30 10:12:09,100 [INFO]   Données existantes : 3950 lignes jusqu'au 2026-04-22
+2026-04-30 10:12:09,101 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-30 10:12:09,101 [INFO]   2026-04-23 -> 2026-04-30
+2026-04-30 10:12:09,274 [INFO]     +6 lignes
+2026-04-30 10:12:10,277 [INFO]   Nouvelles données SHEC.ci: 6 lignes, 2026-04-23 -> 2026-04-30 (1 requêtes)
+2026-04-30 10:12:10,317 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\SHEC_ci_historique.csv (3956 lignes)
+2026-04-30 10:12:10,318 [INFO] 
+[34/48] SIBC.ci
+2026-04-30 10:12:10,324 [INFO]   Données existantes : 2429 lignes jusqu'au 2026-04-22
+2026-04-30 10:12:10,325 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-30 10:12:10,325 [INFO]   2026-04-23 -> 2026-04-30
+2026-04-30 10:12:10,504 [INFO]     +6 lignes
+2026-04-30 10:12:11,506 [INFO]   Nouvelles données SIBC.ci: 6 lignes, 2026-04-23 -> 2026-04-30 (1 requêtes)
+2026-04-30 10:12:11,537 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\SIBC_ci_historique.csv (2435 lignes)
+2026-04-30 10:12:11,537 [INFO] 
+[35/48] SICC.ci
+2026-04-30 10:12:11,542 [INFO]   Données existantes : 1589 lignes jusqu'au 2026-04-22
+2026-04-30 10:12:11,543 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-30 10:12:11,543 [INFO]   2026-04-23 -> 2026-04-30
+2026-04-30 10:12:11,732 [INFO]     +6 lignes
+2026-04-30 10:12:12,735 [INFO]   Nouvelles données SICC.ci: 6 lignes, 2026-04-23 -> 2026-04-30 (1 requêtes)
+2026-04-30 10:12:12,750 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\SICC_ci_historique.csv (1595 lignes)
+2026-04-30 10:12:12,751 [INFO] 
+[36/48] SIVC.ci
+2026-04-30 10:12:12,765 [INFO]   Données existantes : 3726 lignes jusqu'au 2026-04-22
+2026-04-30 10:12:12,765 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-30 10:12:12,766 [INFO]   2026-04-23 -> 2026-04-30
+2026-04-30 10:12:12,961 [INFO]     +6 lignes
+2026-04-30 10:12:13,964 [INFO]   Nouvelles données SIVC.ci: 6 lignes, 2026-04-23 -> 2026-04-30 (1 requêtes)
+2026-04-30 10:12:14,057 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\SIVC_ci_historique.csv (3732 lignes)
+2026-04-30 10:12:14,057 [INFO] 
+[37/48] SLBC.ci
+2026-04-30 10:12:14,066 [INFO]   Données existantes : 2357 lignes jusqu'au 2026-04-22
+2026-04-30 10:12:14,066 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-30 10:12:14,066 [INFO]   2026-04-23 -> 2026-04-30
+2026-04-30 10:12:14,292 [INFO]     +6 lignes
+2026-04-30 10:12:15,296 [INFO]   Nouvelles données SLBC.ci: 6 lignes, 2026-04-23 -> 2026-04-30 (1 requêtes)
+2026-04-30 10:12:15,322 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\SLBC_ci_historique.csv (2363 lignes)
+2026-04-30 10:12:15,322 [INFO] 
+[38/48] SMBC.ci
+2026-04-30 10:12:15,331 [INFO]   Données existantes : 3105 lignes jusqu'au 2026-04-22
+2026-04-30 10:12:15,332 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-30 10:12:15,332 [INFO]   2026-04-23 -> 2026-04-30
+2026-04-30 10:12:15,520 [INFO]     +6 lignes
+2026-04-30 10:12:16,525 [INFO]   Nouvelles données SMBC.ci: 6 lignes, 2026-04-23 -> 2026-04-30 (1 requêtes)
+2026-04-30 10:12:16,563 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\SMBC_ci_historique.csv (3111 lignes)
+2026-04-30 10:12:16,563 [INFO] 
+[39/48] SNTS.sn
+2026-04-30 10:12:16,573 [INFO]   Données existantes : 4611 lignes jusqu'au 2026-04-22
+2026-04-30 10:12:16,573 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-30 10:12:16,573 [INFO]   2026-04-23 -> 2026-04-30
+2026-04-30 10:12:16,749 [INFO]     +6 lignes
+2026-04-30 10:12:17,751 [INFO]   Nouvelles données SNTS.sn: 6 lignes, 2026-04-23 -> 2026-04-30 (1 requêtes)
+2026-04-30 10:12:17,788 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\SNTS_sn_historique.csv (4617 lignes)
+2026-04-30 10:12:17,788 [INFO] 
+[40/48] SOGC.ci
+2026-04-30 10:12:17,802 [INFO]   Données existantes : 4090 lignes jusqu'au 2026-04-22
+2026-04-30 10:12:17,803 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-30 10:12:17,803 [INFO]   2026-04-23 -> 2026-04-30
+2026-04-30 10:12:17,994 [INFO]     +6 lignes
+2026-04-30 10:12:18,997 [INFO]   Nouvelles données SOGC.ci: 6 lignes, 2026-04-23 -> 2026-04-30 (1 requêtes)
+2026-04-30 10:12:19,033 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\SOGC_ci_historique.csv (4096 lignes)
+2026-04-30 10:12:19,034 [INFO] 
+[41/48] SPHC.ci
+2026-04-30 10:12:19,045 [INFO]   Données existantes : 4254 lignes jusqu'au 2026-04-22
+2026-04-30 10:12:19,046 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-30 10:12:19,046 [INFO]   2026-04-23 -> 2026-04-30
+2026-04-30 10:12:19,208 [INFO]     +6 lignes
+2026-04-30 10:12:20,211 [INFO]   Nouvelles données SPHC.ci: 6 lignes, 2026-04-23 -> 2026-04-30 (1 requêtes)
+2026-04-30 10:12:20,245 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\SPHC_ci_historique.csv (4260 lignes)
+2026-04-30 10:12:20,245 [INFO] 
+[42/48] STAC.ci
+2026-04-30 10:12:20,253 [INFO]   Données existantes : 2183 lignes jusqu'au 2026-04-22
+2026-04-30 10:12:20,254 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-30 10:12:20,254 [INFO]   2026-04-23 -> 2026-04-30
+2026-04-30 10:12:20,437 [INFO]     +6 lignes
+2026-04-30 10:12:21,443 [INFO]   Nouvelles données STAC.ci: 6 lignes, 2026-04-23 -> 2026-04-30 (1 requêtes)
+2026-04-30 10:12:21,475 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\STAC_ci_historique.csv (2189 lignes)
+2026-04-30 10:12:21,475 [INFO] 
+[43/48] STBC.ci
+2026-04-30 10:12:21,488 [INFO]   Données existantes : 3258 lignes jusqu'au 2026-04-22
+2026-04-30 10:12:21,489 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-30 10:12:21,489 [INFO]   2026-04-23 -> 2026-04-30
+2026-04-30 10:12:21,609 [INFO]     +6 lignes
+2026-04-30 10:12:22,611 [INFO]   Nouvelles données STBC.ci: 6 lignes, 2026-04-23 -> 2026-04-30 (1 requêtes)
+2026-04-30 10:12:22,638 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\STBC_ci_historique.csv (3264 lignes)
+2026-04-30 10:12:22,639 [INFO] 
+[44/48] SVOC.ci
+2026-04-30 10:12:22,640 [INFO]   2026-01-30 -> 2026-04-30
+2026-04-30 10:12:23,793 [INFO]   2025-10-31 -> 2026-01-29
+2026-04-30 10:12:25,020 [INFO]   2025-08-01 -> 2025-10-30
+2026-04-30 10:12:26,249 [INFO]   2025-05-02 -> 2025-07-31
+2026-04-30 10:12:27,478 [WARNING]   Aucune donnée pour SVOC.ci
+2026-04-30 10:12:27,480 [INFO] 
+[45/48] TTLC.ci
+2026-04-30 10:12:27,497 [INFO]   Données existantes : 3629 lignes jusqu'au 2026-04-22
+2026-04-30 10:12:27,498 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-30 10:12:27,499 [INFO]   2026-04-23 -> 2026-04-30
+2026-04-30 10:12:27,667 [INFO]     +6 lignes
+2026-04-30 10:12:28,670 [INFO]   Nouvelles données TTLC.ci: 6 lignes, 2026-04-23 -> 2026-04-30 (1 requêtes)
+2026-04-30 10:12:28,706 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\TTLC_ci_historique.csv (3635 lignes)
+2026-04-30 10:12:28,706 [INFO] 
+[46/48] TTLS.sn
+2026-04-30 10:12:28,713 [INFO]   Données existantes : 2710 lignes jusqu'au 2026-04-22
+2026-04-30 10:12:28,714 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-30 10:12:28,714 [INFO]   2026-04-23 -> 2026-04-30
+2026-04-30 10:12:28,939 [INFO]     +6 lignes
+2026-04-30 10:12:29,943 [INFO]   Nouvelles données TTLS.sn: 6 lignes, 2026-04-23 -> 2026-04-30 (1 requêtes)
+2026-04-30 10:12:29,972 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\TTLS_sn_historique.csv (2716 lignes)
+2026-04-30 10:12:29,972 [INFO] 
+[47/48] UNLC.ci
+2026-04-30 10:12:29,980 [INFO]   Données existantes : 1724 lignes jusqu'au 2026-04-22
+2026-04-30 10:12:29,980 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-30 10:12:29,981 [INFO]   2026-04-23 -> 2026-04-30
+2026-04-30 10:12:30,103 [INFO]     +6 lignes
+2026-04-30 10:12:31,106 [INFO]   Nouvelles données UNLC.ci: 6 lignes, 2026-04-23 -> 2026-04-30 (1 requêtes)
+2026-04-30 10:12:31,123 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\UNLC_ci_historique.csv (1730 lignes)
+2026-04-30 10:12:31,124 [INFO] 
+[48/48] UNXC.ci
+2026-04-30 10:12:31,134 [INFO]   Données existantes : 3347 lignes jusqu'au 2026-04-22
+2026-04-30 10:12:31,134 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-30 10:12:31,134 [INFO]   2026-04-23 -> 2026-04-30
+2026-04-30 10:12:31,291 [INFO]     +6 lignes
+2026-04-30 10:12:32,297 [INFO]   Nouvelles données UNXC.ci: 6 lignes, 2026-04-23 -> 2026-04-30 (1 requêtes)
+2026-04-30 10:12:32,317 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\UNXC_ci_historique.csv (3353 lignes)
+2026-04-30 10:12:32,317 [INFO] 
+============================================================
+2026-04-30 10:12:32,318 [INFO] HISTORIQUE — 13 INDICES
+2026-04-30 10:12:32,318 [INFO] ============================================================
+2026-04-30 10:12:32,318 [INFO] 
+[1/13] BRVMC
+2026-04-30 10:12:32,332 [INFO]   Données existantes : 4669 lignes jusqu'au 2026-04-23
+2026-04-30 10:12:32,333 [INFO]   Mode incrémental depuis 2026-04-24
+2026-04-30 10:12:32,333 [INFO]   2026-04-24 -> 2026-04-30
+2026-04-30 10:12:32,456 [INFO]     +5 lignes
+2026-04-30 10:12:33,461 [INFO]   Nouvelles données BRVMC: 5 lignes, 2026-04-24 -> 2026-04-30 (1 requêtes)
+2026-04-30 10:12:33,515 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\indices\BRVMC_historique.csv (4674 lignes)
+2026-04-30 10:12:33,515 [INFO] 
+[2/13] BRVM30
+2026-04-30 10:12:33,520 [INFO]   Données existantes : 862 lignes jusqu'au 2026-04-23
+2026-04-30 10:12:33,520 [INFO]   Mode incrémental depuis 2026-04-24
+2026-04-30 10:12:33,521 [INFO]   2026-04-24 -> 2026-04-30
+2026-04-30 10:12:33,636 [INFO]     +5 lignes
+2026-04-30 10:12:34,638 [INFO]   Nouvelles données BRVM30: 5 lignes, 2026-04-24 -> 2026-04-30 (1 requêtes)
+2026-04-30 10:12:34,650 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\indices\BRVM30_historique.csv (867 lignes)
+2026-04-30 10:12:34,650 [INFO] 
+[3/13] BRVMPR
+2026-04-30 10:12:34,655 [INFO]   Données existantes : 862 lignes jusqu'au 2026-04-23
+2026-04-30 10:12:34,655 [INFO]   Mode incrémental depuis 2026-04-24
+2026-04-30 10:12:34,656 [INFO]   2026-04-24 -> 2026-04-30
+2026-04-30 10:12:34,771 [INFO]     +5 lignes
+2026-04-30 10:12:35,773 [INFO]   Nouvelles données BRVMPR: 5 lignes, 2026-04-24 -> 2026-04-30 (1 requêtes)
+2026-04-30 10:12:35,793 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\indices\BRVMPR_historique.csv (867 lignes)
+2026-04-30 10:12:35,793 [INFO] 
+[4/13] BRVMPA
+2026-04-30 10:12:35,799 [INFO]   Données existantes : 859 lignes jusqu'au 2026-04-23
+2026-04-30 10:12:35,800 [INFO]   Mode incrémental depuis 2026-04-24
+2026-04-30 10:12:35,800 [INFO]   2026-04-24 -> 2026-04-30
+2026-04-30 10:12:36,001 [INFO]     +5 lignes
+2026-04-30 10:12:37,004 [INFO]   Nouvelles données BRVMPA: 5 lignes, 2026-04-24 -> 2026-04-30 (1 requêtes)
+2026-04-30 10:12:37,014 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\indices\BRVMPA_historique.csv (864 lignes)
+2026-04-30 10:12:37,015 [INFO] 
+[5/13] BRVM-CB
+2026-04-30 10:12:37,020 [INFO]   Données existantes : 338 lignes jusqu'au 2026-04-23
+2026-04-30 10:12:37,020 [INFO]   Mode incrémental depuis 2026-04-24
+2026-04-30 10:12:37,021 [INFO]   2026-04-24 -> 2026-04-30
+2026-04-30 10:12:37,331 [INFO]     +5 lignes
+2026-04-30 10:12:38,334 [INFO]   Nouvelles données BRVM-CB: 5 lignes, 2026-04-24 -> 2026-04-30 (1 requêtes)
+2026-04-30 10:12:38,344 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\indices\BRVM_CB_historique.csv (343 lignes)
+2026-04-30 10:12:38,344 [INFO] 
+[6/13] BRVM-CD
+2026-04-30 10:12:38,350 [INFO]   Données existantes : 338 lignes jusqu'au 2026-04-23
+2026-04-30 10:12:38,351 [INFO]   Mode incrémental depuis 2026-04-24
+2026-04-30 10:12:38,351 [INFO]   2026-04-24 -> 2026-04-30
+2026-04-30 10:12:38,516 [INFO]     +5 lignes
+2026-04-30 10:12:39,518 [INFO]   Nouvelles données BRVM-CD: 5 lignes, 2026-04-24 -> 2026-04-30 (1 requêtes)
+2026-04-30 10:12:39,528 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\indices\BRVM_CD_historique.csv (343 lignes)
+2026-04-30 10:12:39,529 [INFO] 
+[7/13] BRVM-EN
+2026-04-30 10:12:39,536 [INFO]   Données existantes : 338 lignes jusqu'au 2026-04-23
+2026-04-30 10:12:39,536 [INFO]   Mode incrémental depuis 2026-04-24
+2026-04-30 10:12:39,537 [INFO]   2026-04-24 -> 2026-04-30
+2026-04-30 10:12:39,662 [INFO]     +5 lignes
+2026-04-30 10:12:40,665 [INFO]   Nouvelles données BRVM-EN: 5 lignes, 2026-04-24 -> 2026-04-30 (1 requêtes)
+2026-04-30 10:12:40,679 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\indices\BRVM_EN_historique.csv (343 lignes)
+2026-04-30 10:12:40,679 [INFO] 
+[8/13] BRVM-IN
+2026-04-30 10:12:40,687 [INFO]   Données existantes : 338 lignes jusqu'au 2026-04-23
+2026-04-30 10:12:40,687 [INFO]   Mode incrémental depuis 2026-04-24
+2026-04-30 10:12:40,687 [INFO]   2026-04-24 -> 2026-04-30
+2026-04-30 10:12:40,807 [INFO]     +5 lignes
+2026-04-30 10:12:41,810 [INFO]   Nouvelles données BRVM-IN: 5 lignes, 2026-04-24 -> 2026-04-30 (1 requêtes)
+2026-04-30 10:12:41,817 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\indices\BRVM_IN_historique.csv (343 lignes)
+2026-04-30 10:12:41,817 [INFO] 
+[9/13] BRVM-SF
+2026-04-30 10:12:41,824 [INFO]   Données existantes : 338 lignes jusqu'au 2026-04-23
+2026-04-30 10:12:41,825 [INFO]   Mode incrémental depuis 2026-04-24
+2026-04-30 10:12:41,826 [INFO]   2026-04-24 -> 2026-04-30
+2026-04-30 10:12:41,954 [INFO]     +5 lignes
+2026-04-30 10:12:42,958 [INFO]   Nouvelles données BRVM-SF: 5 lignes, 2026-04-24 -> 2026-04-30 (1 requêtes)
+2026-04-30 10:12:42,967 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\indices\BRVM_SF_historique.csv (343 lignes)
+2026-04-30 10:12:42,967 [INFO] 
+[10/13] BRVM-TEL
+2026-04-30 10:12:42,972 [INFO]   Données existantes : 338 lignes jusqu'au 2026-04-23
+2026-04-30 10:12:42,973 [INFO]   Mode incrémental depuis 2026-04-24
+2026-04-30 10:12:42,973 [INFO]   2026-04-24 -> 2026-04-30
+2026-04-30 10:12:43,096 [INFO]     +5 lignes
+2026-04-30 10:12:44,100 [INFO]   Nouvelles données BRVM-TEL: 5 lignes, 2026-04-24 -> 2026-04-30 (1 requêtes)
+2026-04-30 10:12:44,115 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\indices\BRVM_TEL_historique.csv (343 lignes)
+2026-04-30 10:12:44,116 [INFO] 
+[11/13] CAPIBRVM
+2026-04-30 10:12:44,127 [INFO]   Données existantes : 1624 lignes jusqu'au 2026-04-22
+2026-04-30 10:12:44,128 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-30 10:12:44,128 [INFO]   2026-04-23 -> 2026-04-30
+2026-04-30 10:12:44,297 [INFO]     +5 lignes
+2026-04-30 10:12:45,302 [INFO]   Nouvelles données CAPIBRVM: 5 lignes, 2026-04-23 -> 2026-04-29 (1 requêtes)
+2026-04-30 10:12:45,321 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\indices\CAPIBRVM_historique.csv (1629 lignes)
+2026-04-30 10:12:45,321 [INFO] 
+[12/13] SIKAIDX
+2026-04-30 10:12:45,335 [INFO]   Données existantes : 2353 lignes jusqu'au 2026-04-22
+2026-04-30 10:12:45,336 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-30 10:12:45,336 [INFO]   2026-04-23 -> 2026-04-30
+2026-04-30 10:12:45,457 [INFO]     +5 lignes
+2026-04-30 10:12:46,461 [INFO]   Nouvelles données SIKAIDX: 5 lignes, 2026-04-23 -> 2026-04-29 (1 requêtes)
+2026-04-30 10:12:46,488 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\indices\SIKAIDX_historique.csv (2358 lignes)
+2026-04-30 10:12:46,489 [INFO] 
+[13/13] SIKATR
+2026-04-30 10:12:46,498 [INFO]   Données existantes : 1832 lignes jusqu'au 2026-04-22
+2026-04-30 10:12:46,499 [INFO]   Mode incrémental depuis 2026-04-23
+2026-04-30 10:12:46,499 [INFO]   2026-04-23 -> 2026-04-30
+2026-04-30 10:12:46,614 [INFO]     +5 lignes
+2026-04-30 10:12:47,617 [INFO]   Nouvelles données SIKATR: 5 lignes, 2026-04-23 -> 2026-04-29 (1 requêtes)
+2026-04-30 10:12:47,636 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\indices\SIKATR_historique.csv (1837 lignes)
+2026-04-30 10:12:47,636 [INFO] 
+============================================================
+2026-04-30 10:12:47,637 [INFO] SCRAPING TERMINÉ en 1.3 minutes
+2026-04-30 10:12:47,637 [INFO] ============================================================
+2026-04-30 10:12:48,106 [INFO] 
+Résumé sauvegardé : C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\resume_scraping.csv
+2026-04-30 10:12:48,147 [INFO] 
+Fichiers dans :
+2026-04-30 10:12:48,148 [INFO]   Actions : C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions
+2026-04-30 10:12:48,148 [INFO]   Indices : C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\indices
+2026-04-30 10:12:48,148 [INFO] 
+(Infos société/indice : lancer scraper_info_societes.py)
+2026-05-05 08:41:31,540 [INFO] ============================================================
+2026-05-05 08:41:31,541 [INFO] HISTORIQUE — 48 ACTIONS
+2026-05-05 08:41:31,544 [INFO] ============================================================
+2026-05-05 08:41:31,545 [INFO] 
+[1/48] ABJC.ci
+2026-05-05 08:41:31,604 [INFO]   Données existantes : 3555 lignes jusqu'au 2026-04-30
+2026-05-05 08:41:31,607 [INFO]   Mode incrémental depuis 2026-05-01
+2026-05-05 08:41:31,608 [INFO]   2026-05-01 -> 2026-05-05
+2026-05-05 08:41:31,735 [INFO]     +2 lignes
+2026-05-05 08:41:32,746 [INFO]   Nouvelles données ABJC.ci: 2 lignes, 2026-05-01 -> 2026-05-04 (1 requêtes)
+2026-05-05 08:41:32,816 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\ABJC_ci_historique.csv (3557 lignes)
+2026-05-05 08:41:32,817 [INFO] 
+[2/48] BICC.ci
+2026-05-05 08:41:32,836 [INFO]   Données existantes : 3416 lignes jusqu'au 2026-04-30
+2026-05-05 08:41:32,838 [INFO]   Mode incrémental depuis 2026-05-01
+2026-05-05 08:41:32,838 [INFO]   2026-05-01 -> 2026-05-05
+2026-05-05 08:41:32,963 [INFO]     +2 lignes
+2026-05-05 08:41:33,969 [INFO]   Nouvelles données BICC.ci: 2 lignes, 2026-05-01 -> 2026-05-04 (1 requêtes)
+2026-05-05 08:41:34,070 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\BICC_ci_historique.csv (3418 lignes)
+2026-05-05 08:41:34,071 [INFO] 
+[3/48] BICB.bj
+2026-05-05 08:41:34,081 [INFO]   Données existantes : 262 lignes jusqu'au 2026-04-30
+2026-05-05 08:41:34,082 [INFO]   Mode incrémental depuis 2026-05-01
+2026-05-05 08:41:34,085 [INFO]   2026-05-01 -> 2026-05-05
+2026-05-05 08:41:34,210 [INFO]     +2 lignes
+2026-05-05 08:41:35,215 [INFO]   Nouvelles données BICB.bj: 2 lignes, 2026-05-01 -> 2026-05-04 (1 requêtes)
+2026-05-05 08:41:35,230 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\BICB_bj_historique.csv (264 lignes)
+2026-05-05 08:41:35,231 [INFO] 
+[4/48] BNBC.ci
+2026-05-05 08:41:35,245 [INFO]   Données existantes : 3042 lignes jusqu'au 2026-04-30
+2026-05-05 08:41:35,246 [INFO]   Mode incrémental depuis 2026-05-01
+2026-05-05 08:41:35,246 [INFO]   2026-05-01 -> 2026-05-05
+2026-05-05 08:41:35,365 [INFO]     +2 lignes
+2026-05-05 08:41:36,374 [INFO]   Nouvelles données BNBC.ci: 2 lignes, 2026-05-01 -> 2026-05-04 (1 requêtes)
+2026-05-05 08:41:36,460 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\BNBC_ci_historique.csv (3044 lignes)
+2026-05-05 08:41:36,461 [INFO] 
+[5/48] BOAB.bj
+2026-05-05 08:41:36,492 [INFO]   Données existantes : 4055 lignes jusqu'au 2026-04-30
+2026-05-05 08:41:36,493 [INFO]   Mode incrémental depuis 2026-05-01
+2026-05-05 08:41:36,494 [INFO]   2026-05-01 -> 2026-05-05
+2026-05-05 08:41:36,619 [INFO]     +2 lignes
+2026-05-05 08:41:37,628 [INFO]   Nouvelles données BOAB.bj: 2 lignes, 2026-05-01 -> 2026-05-04 (1 requêtes)
+2026-05-05 08:41:37,823 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\BOAB_bj_historique.csv (4057 lignes)
+2026-05-05 08:41:37,824 [INFO] 
+[6/48] BOABF.bf
+2026-05-05 08:41:37,873 [INFO]   Données existantes : 3443 lignes jusqu'au 2026-04-30
+2026-05-05 08:41:37,940 [INFO]   Mode incrémental depuis 2026-05-01
+2026-05-05 08:41:37,981 [INFO]   2026-05-01 -> 2026-05-05
+2026-05-05 08:41:38,151 [INFO]     +2 lignes
+2026-05-05 08:41:39,156 [INFO]   Nouvelles données BOABF.bf: 2 lignes, 2026-05-01 -> 2026-05-04 (1 requêtes)
+2026-05-05 08:41:39,240 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\BOABF_bf_historique.csv (3445 lignes)
+2026-05-05 08:41:39,240 [INFO] 
+[7/48] BOAC.ci
+2026-05-05 08:41:39,263 [INFO]   Données existantes : 3537 lignes jusqu'au 2026-04-30
+2026-05-05 08:41:39,264 [INFO]   Mode incrémental depuis 2026-05-01
+2026-05-05 08:41:39,264 [INFO]   2026-05-01 -> 2026-05-05
+2026-05-05 08:41:39,386 [INFO]     +2 lignes
+2026-05-05 08:41:40,389 [INFO]   Nouvelles données BOAC.ci: 2 lignes, 2026-05-01 -> 2026-05-04 (1 requêtes)
+2026-05-05 08:41:40,425 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\BOAC_ci_historique.csv (3539 lignes)
+2026-05-05 08:41:40,426 [INFO] 
+[8/48] BOAM.ml
+2026-05-05 08:41:40,435 [INFO]   Données existantes : 2524 lignes jusqu'au 2026-04-30
+2026-05-05 08:41:40,435 [INFO]   Mode incrémental depuis 2026-05-01
+2026-05-05 08:41:40,435 [INFO]   2026-05-01 -> 2026-05-05
+2026-05-05 08:41:40,574 [INFO]     +2 lignes
+2026-05-05 08:41:41,577 [INFO]   Nouvelles données BOAM.ml: 2 lignes, 2026-05-01 -> 2026-05-04 (1 requêtes)
+2026-05-05 08:41:41,599 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\BOAM_ml_historique.csv (2526 lignes)
+2026-05-05 08:41:41,599 [INFO] 
+[9/48] BOAN.ne
+2026-05-05 08:41:41,611 [INFO]   Données existantes : 3924 lignes jusqu'au 2026-04-30
+2026-05-05 08:41:41,611 [INFO]   Mode incrémental depuis 2026-05-01
+2026-05-05 08:41:41,612 [INFO]   2026-05-01 -> 2026-05-05
+2026-05-05 08:41:41,792 [INFO]     +2 lignes
+2026-05-05 08:41:42,795 [INFO]   Nouvelles données BOAN.ne: 2 lignes, 2026-05-01 -> 2026-05-04 (1 requêtes)
+2026-05-05 08:41:42,832 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\BOAN_ne_historique.csv (3926 lignes)
+2026-05-05 08:41:42,833 [INFO] 
+[10/48] BOAS.sn
+2026-05-05 08:41:42,862 [INFO]   Données existantes : 2914 lignes jusqu'au 2026-04-30
+2026-05-05 08:41:42,863 [INFO]   Mode incrémental depuis 2026-05-01
+2026-05-05 08:41:42,863 [INFO]   2026-05-01 -> 2026-05-05
+2026-05-05 08:41:42,985 [INFO]     +2 lignes
+2026-05-05 08:41:43,988 [INFO]   Nouvelles données BOAS.sn: 2 lignes, 2026-05-01 -> 2026-05-04 (1 requêtes)
+2026-05-05 08:41:44,014 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\BOAS_sn_historique.csv (2916 lignes)
+2026-05-05 08:41:44,014 [INFO] 
+[11/48] CABC.ci
+2026-05-05 08:41:44,021 [INFO]   Données existantes : 3131 lignes jusqu'au 2026-04-30
+2026-05-05 08:41:44,022 [INFO]   Mode incrémental depuis 2026-05-01
+2026-05-05 08:41:44,022 [INFO]   2026-05-01 -> 2026-05-05
+2026-05-05 08:41:44,146 [INFO]     +2 lignes
+2026-05-05 08:41:45,149 [INFO]   Nouvelles données CABC.ci: 2 lignes, 2026-05-01 -> 2026-05-04 (1 requêtes)
+2026-05-05 08:41:45,175 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\CABC_ci_historique.csv (3133 lignes)
+2026-05-05 08:41:45,175 [INFO] 
+[12/48] CBIBF.bf
+2026-05-05 08:41:45,182 [INFO]   Données existantes : 2284 lignes jusqu'au 2026-04-30
+2026-05-05 08:41:45,182 [INFO]   Mode incrémental depuis 2026-05-01
+2026-05-05 08:41:45,182 [INFO]   2026-05-01 -> 2026-05-05
+2026-05-05 08:41:45,375 [INFO]     +2 lignes
+2026-05-05 08:41:46,378 [INFO]   Nouvelles données CBIBF.bf: 2 lignes, 2026-05-01 -> 2026-05-04 (1 requêtes)
+2026-05-05 08:41:46,391 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\CBIBF_bf_historique.csv (2286 lignes)
+2026-05-05 08:41:46,391 [INFO] 
+[13/48] CFAC.ci
+2026-05-05 08:41:46,399 [INFO]   Données existantes : 3126 lignes jusqu'au 2026-04-30
+2026-05-05 08:41:46,400 [INFO]   Mode incrémental depuis 2026-05-01
+2026-05-05 08:41:46,400 [INFO]   2026-05-01 -> 2026-05-05
+2026-05-05 08:41:46,527 [INFO]     +2 lignes
+2026-05-05 08:41:47,530 [INFO]   Nouvelles données CFAC.ci: 2 lignes, 2026-05-01 -> 2026-05-04 (1 requêtes)
+2026-05-05 08:41:47,562 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\CFAC_ci_historique.csv (3128 lignes)
+2026-05-05 08:41:47,562 [INFO] 
+[14/48] CIEC.ci
+2026-05-05 08:41:47,576 [INFO]   Données existantes : 4257 lignes jusqu'au 2026-04-30
+2026-05-05 08:41:47,577 [INFO]   Mode incrémental depuis 2026-05-01
+2026-05-05 08:41:47,577 [INFO]   2026-05-01 -> 2026-05-05
+2026-05-05 08:41:47,730 [INFO]     +2 lignes
+2026-05-05 08:41:48,733 [INFO]   Nouvelles données CIEC.ci: 2 lignes, 2026-05-01 -> 2026-05-04 (1 requêtes)
+2026-05-05 08:41:48,766 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\CIEC_ci_historique.csv (4259 lignes)
+2026-05-05 08:41:48,766 [INFO] 
+[15/48] ECOC.ci
+2026-05-05 08:41:48,771 [INFO]   Données existantes : 2151 lignes jusqu'au 2026-04-30
+2026-05-05 08:41:48,772 [INFO]   Mode incrémental depuis 2026-05-01
+2026-05-05 08:41:48,772 [INFO]   2026-05-01 -> 2026-05-05
+2026-05-05 08:41:48,959 [INFO]     +2 lignes
+2026-05-05 08:41:49,961 [INFO]   Nouvelles données ECOC.ci: 2 lignes, 2026-05-01 -> 2026-05-04 (1 requêtes)
+2026-05-05 08:41:49,974 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\ECOC_ci_historique.csv (2153 lignes)
+2026-05-05 08:41:49,974 [INFO] 
+[16/48] ETIT.tg
+2026-05-05 08:41:49,981 [INFO]   Données existantes : 2948 lignes jusqu'au 2026-04-30
+2026-05-05 08:41:49,981 [INFO]   Mode incrémental depuis 2026-05-01
+2026-05-05 08:41:49,981 [INFO]   2026-05-01 -> 2026-05-05
+2026-05-05 08:41:50,188 [INFO]     +2 lignes
+2026-05-05 08:41:51,191 [INFO]   Nouvelles données ETIT.tg: 2 lignes, 2026-05-01 -> 2026-05-04 (1 requêtes)
+2026-05-05 08:41:51,206 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\ETIT_tg_historique.csv (2950 lignes)
+2026-05-05 08:41:51,206 [INFO] 
+[17/48] FTSC.ci
+2026-05-05 08:41:51,217 [INFO]   Données existantes : 4125 lignes jusqu'au 2026-04-30
+2026-05-05 08:41:51,217 [INFO]   Mode incrémental depuis 2026-05-01
+2026-05-05 08:41:51,218 [INFO]   2026-05-01 -> 2026-05-05
+2026-05-05 08:41:51,417 [INFO]     +2 lignes
+2026-05-05 08:41:52,419 [INFO]   Nouvelles données FTSC.ci: 2 lignes, 2026-05-01 -> 2026-05-04 (1 requêtes)
+2026-05-05 08:41:55,456 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\FTSC_ci_historique.csv (4127 lignes)
+2026-05-05 08:41:55,456 [INFO] 
+[18/48] LNBB.bj
+2026-05-05 08:41:55,461 [INFO]   Données existantes : 357 lignes jusqu'au 2026-04-30
+2026-05-05 08:41:55,461 [INFO]   Mode incrémental depuis 2026-05-01
+2026-05-05 08:41:55,461 [INFO]   2026-05-01 -> 2026-05-05
+2026-05-05 08:41:55,615 [INFO]     +2 lignes
+2026-05-05 08:41:56,617 [INFO]   Nouvelles données LNBB.bj: 2 lignes, 2026-05-01 -> 2026-05-04 (1 requêtes)
+2026-05-05 08:41:59,652 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\LNBB_bj_historique.csv (359 lignes)
+2026-05-05 08:41:59,652 [INFO] 
+[19/48] NEIC.ci
+2026-05-05 08:41:59,659 [INFO]   Données existantes : 2268 lignes jusqu'au 2026-04-30
+2026-05-05 08:41:59,659 [INFO]   Mode incrémental depuis 2026-05-01
+2026-05-05 08:41:59,659 [INFO]   2026-05-01 -> 2026-05-05
+2026-05-05 08:41:59,814 [INFO]     +2 lignes
+2026-05-05 08:42:00,819 [INFO]   Nouvelles données NEIC.ci: 2 lignes, 2026-05-01 -> 2026-05-04 (1 requêtes)
+2026-05-05 08:42:00,841 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\NEIC_ci_historique.csv (2270 lignes)
+2026-05-05 08:42:00,841 [INFO] 
+[20/48] NSBC.ci
+2026-05-05 08:42:00,846 [INFO]   Données existantes : 2129 lignes jusqu'au 2026-04-30
+2026-05-05 08:42:00,847 [INFO]   Mode incrémental depuis 2026-05-01
+2026-05-05 08:42:00,847 [INFO]   2026-05-01 -> 2026-05-05
+2026-05-05 08:42:00,967 [INFO]     +2 lignes
+2026-05-05 08:42:01,970 [INFO]   Nouvelles données NSBC.ci: 2 lignes, 2026-05-01 -> 2026-05-04 (1 requêtes)
+2026-05-05 08:42:01,987 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\NSBC_ci_historique.csv (2131 lignes)
+2026-05-05 08:42:01,988 [INFO] 
+[21/48] NTLC.ci
+2026-05-05 08:42:01,999 [INFO]   Données existantes : 3121 lignes jusqu'au 2026-04-30
+2026-05-05 08:42:01,999 [INFO]   Mode incrémental depuis 2026-05-01
+2026-05-05 08:42:02,000 [INFO]   2026-05-01 -> 2026-05-05
+2026-05-05 08:42:02,169 [INFO]     +2 lignes
+2026-05-05 08:42:03,174 [INFO]   Nouvelles données NTLC.ci: 2 lignes, 2026-05-01 -> 2026-05-04 (1 requêtes)
+2026-05-05 08:42:03,221 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\NTLC_ci_historique.csv (3123 lignes)
+2026-05-05 08:42:03,221 [INFO] 
+[22/48] ONTBF.bf
+2026-05-05 08:42:03,233 [INFO]   Données existantes : 3911 lignes jusqu'au 2026-04-30
+2026-05-05 08:42:03,234 [INFO]   Mode incrémental depuis 2026-05-01
+2026-05-05 08:42:03,234 [INFO]   2026-05-01 -> 2026-05-05
+2026-05-05 08:42:03,384 [INFO]     +2 lignes
+2026-05-05 08:42:04,388 [INFO]   Nouvelles données ONTBF.bf: 2 lignes, 2026-05-01 -> 2026-05-04 (1 requêtes)
+2026-05-05 08:42:04,435 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\ONTBF_bf_historique.csv (3913 lignes)
+2026-05-05 08:42:04,435 [INFO] 
+[23/48] ORAC.ci
+2026-05-05 08:42:04,439 [INFO]   Données existantes : 866 lignes jusqu'au 2026-04-30
+2026-05-05 08:42:04,440 [INFO]   Mode incrémental depuis 2026-05-01
+2026-05-05 08:42:04,440 [INFO]   2026-05-01 -> 2026-05-05
+2026-05-05 08:42:04,578 [INFO]     +2 lignes
+2026-05-05 08:42:05,580 [INFO]   Nouvelles données ORAC.ci: 2 lignes, 2026-05-01 -> 2026-05-04 (1 requêtes)
+2026-05-05 08:42:05,587 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\ORAC_ci_historique.csv (868 lignes)
+2026-05-05 08:42:05,587 [INFO] 
+[24/48] ORGT.tg
+2026-05-05 08:42:05,598 [INFO]   Données existantes : 1691 lignes jusqu'au 2026-04-30
+2026-05-05 08:42:05,599 [INFO]   Mode incrémental depuis 2026-05-01
+2026-05-05 08:42:05,599 [INFO]   2026-05-01 -> 2026-05-05
+2026-05-05 08:42:05,752 [INFO]     +2 lignes
+2026-05-05 08:42:06,757 [INFO]   Nouvelles données ORGT.tg: 2 lignes, 2026-05-01 -> 2026-05-04 (1 requêtes)
+2026-05-05 08:42:06,803 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\ORGT_tg_historique.csv (1693 lignes)
+2026-05-05 08:42:06,803 [INFO] 
+[25/48] PALC.ci
+2026-05-05 08:42:06,816 [INFO]   Données existantes : 2854 lignes jusqu'au 2026-04-30
+2026-05-05 08:42:06,816 [INFO]   Mode incrémental depuis 2026-05-01
+2026-05-05 08:42:06,817 [INFO]   2026-05-01 -> 2026-05-05
+2026-05-05 08:42:06,982 [INFO]     +2 lignes
+2026-05-05 08:42:07,984 [INFO]   Nouvelles données PALC.ci: 2 lignes, 2026-05-01 -> 2026-05-04 (1 requêtes)
+2026-05-05 08:42:08,019 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\PALC_ci_historique.csv (2856 lignes)
+2026-05-05 08:42:08,019 [INFO] 
+[26/48] PRSC.ci
+2026-05-05 08:42:08,030 [INFO]   Données existantes : 2134 lignes jusqu'au 2026-04-30
+2026-05-05 08:42:08,030 [INFO]   Mode incrémental depuis 2026-05-01
+2026-05-05 08:42:08,030 [INFO]   2026-05-01 -> 2026-05-05
+2026-05-05 08:42:08,213 [INFO]     +2 lignes
+2026-05-05 08:42:09,216 [INFO]   Nouvelles données PRSC.ci: 2 lignes, 2026-05-01 -> 2026-05-04 (1 requêtes)
+2026-05-05 08:42:09,245 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\PRSC_ci_historique.csv (2136 lignes)
+2026-05-05 08:42:09,245 [INFO] 
+[27/48] SAFC.ci
+2026-05-05 08:42:09,251 [INFO]   Données existantes : 1336 lignes jusqu'au 2026-04-30
+2026-05-05 08:42:09,251 [INFO]   Mode incrémental depuis 2026-05-01
+2026-05-05 08:42:09,251 [INFO]   2026-05-01 -> 2026-05-05
+2026-05-05 08:42:09,439 [INFO]     +2 lignes
+2026-05-05 08:42:10,441 [INFO]   Nouvelles données SAFC.ci: 2 lignes, 2026-05-01 -> 2026-05-04 (1 requêtes)
+2026-05-05 08:42:10,463 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\SAFC_ci_historique.csv (1338 lignes)
+2026-05-05 08:42:10,463 [INFO] 
+[28/48] SCRC.ci
+2026-05-05 08:42:10,470 [INFO]   Données existantes : 2361 lignes jusqu'au 2026-04-30
+2026-05-05 08:42:10,471 [INFO]   Mode incrémental depuis 2026-05-01
+2026-05-05 08:42:10,471 [INFO]   2026-05-01 -> 2026-05-05
+2026-05-05 08:42:10,628 [INFO]     +2 lignes
+2026-05-05 08:42:11,631 [INFO]   Nouvelles données SCRC.ci: 2 lignes, 2026-05-01 -> 2026-05-04 (1 requêtes)
+2026-05-05 08:42:11,644 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\SCRC_ci_historique.csv (2363 lignes)
+2026-05-05 08:42:11,644 [INFO] 
+[29/48] SDCC.ci
+2026-05-05 08:42:11,655 [INFO]   Données existantes : 3650 lignes jusqu'au 2026-04-30
+2026-05-05 08:42:11,656 [INFO]   Mode incrémental depuis 2026-05-01
+2026-05-05 08:42:11,656 [INFO]   2026-05-01 -> 2026-05-05
+2026-05-05 08:42:11,897 [INFO]     +2 lignes
+2026-05-05 08:42:12,899 [INFO]   Nouvelles données SDCC.ci: 2 lignes, 2026-05-01 -> 2026-05-04 (1 requêtes)
+2026-05-05 08:42:12,962 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\SDCC_ci_historique.csv (3652 lignes)
+2026-05-05 08:42:12,962 [INFO] 
+[30/48] SDSC.ci
+2026-05-05 08:42:12,973 [INFO]   Données existantes : 3642 lignes jusqu'au 2026-04-30
+2026-05-05 08:42:12,973 [INFO]   Mode incrémental depuis 2026-05-01
+2026-05-05 08:42:12,973 [INFO]   2026-05-01 -> 2026-05-05
+2026-05-05 08:42:13,098 [INFO]     +2 lignes
+2026-05-05 08:42:14,100 [INFO]   Nouvelles données SDSC.ci: 2 lignes, 2026-05-01 -> 2026-05-04 (1 requêtes)
+2026-05-05 08:42:14,224 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\SDSC_ci_historique.csv (3644 lignes)
+2026-05-05 08:42:14,224 [INFO] 
+[31/48] SEMC.ci
+2026-05-05 08:42:14,230 [INFO]   Données existantes : 86 lignes jusqu'au 2026-04-30
+2026-05-05 08:42:14,231 [INFO]   Mode incrémental depuis 2026-05-01
+2026-05-05 08:42:14,231 [INFO]   2026-05-01 -> 2026-05-05
+2026-05-05 08:42:14,356 [INFO]     +2 lignes
+2026-05-05 08:42:15,359 [INFO]   Nouvelles données SEMC.ci: 2 lignes, 2026-05-01 -> 2026-05-04 (1 requêtes)
+2026-05-05 08:42:15,365 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\SEMC_ci_historique.csv (88 lignes)
+2026-05-05 08:42:15,365 [INFO] 
+[32/48] SGBC.ci
+2026-05-05 08:42:15,384 [INFO]   Données existantes : 4138 lignes jusqu'au 2026-04-30
+2026-05-05 08:42:15,385 [INFO]   Mode incrémental depuis 2026-05-01
+2026-05-05 08:42:15,385 [INFO]   2026-05-01 -> 2026-05-05
+2026-05-05 08:42:15,583 [INFO]     +2 lignes
+2026-05-05 08:42:16,585 [INFO]   Nouvelles données SGBC.ci: 2 lignes, 2026-05-01 -> 2026-05-04 (1 requêtes)
+2026-05-05 08:42:16,690 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\SGBC_ci_historique.csv (4140 lignes)
+2026-05-05 08:42:16,690 [INFO] 
+[33/48] SHEC.ci
+2026-05-05 08:42:16,699 [INFO]   Données existantes : 3956 lignes jusqu'au 2026-04-30
+2026-05-05 08:42:16,700 [INFO]   Mode incrémental depuis 2026-05-01
+2026-05-05 08:42:16,700 [INFO]   2026-05-01 -> 2026-05-05
+2026-05-05 08:42:16,915 [INFO]     +2 lignes
+2026-05-05 08:42:17,917 [INFO]   Nouvelles données SHEC.ci: 2 lignes, 2026-05-01 -> 2026-05-04 (1 requêtes)
+2026-05-05 08:42:18,001 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\SHEC_ci_historique.csv (3958 lignes)
+2026-05-05 08:42:18,002 [INFO] 
+[34/48] SIBC.ci
+2026-05-05 08:42:18,009 [INFO]   Données existantes : 2435 lignes jusqu'au 2026-04-30
+2026-05-05 08:42:18,009 [INFO]   Mode incrémental depuis 2026-05-01
+2026-05-05 08:42:18,009 [INFO]   2026-05-01 -> 2026-05-05
+2026-05-05 08:42:18,143 [INFO]     +2 lignes
+2026-05-05 08:42:19,146 [INFO]   Nouvelles données SIBC.ci: 2 lignes, 2026-05-01 -> 2026-05-04 (1 requêtes)
+2026-05-05 08:42:19,237 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\SIBC_ci_historique.csv (2437 lignes)
+2026-05-05 08:42:19,237 [INFO] 
+[35/48] SICC.ci
+2026-05-05 08:42:19,249 [INFO]   Données existantes : 1595 lignes jusqu'au 2026-04-30
+2026-05-05 08:42:19,250 [INFO]   Mode incrémental depuis 2026-05-01
+2026-05-05 08:42:19,250 [INFO]   2026-05-01 -> 2026-05-05
+2026-05-05 08:42:19,377 [INFO]     +2 lignes
+2026-05-05 08:42:20,380 [INFO]   Nouvelles données SICC.ci: 2 lignes, 2026-05-01 -> 2026-05-04 (1 requêtes)
+2026-05-05 08:42:20,395 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\SICC_ci_historique.csv (1597 lignes)
+2026-05-05 08:42:20,395 [INFO] 
+[36/48] SIVC.ci
+2026-05-05 08:42:20,404 [INFO]   Données existantes : 3732 lignes jusqu'au 2026-04-30
+2026-05-05 08:42:20,405 [INFO]   Mode incrémental depuis 2026-05-01
+2026-05-05 08:42:20,405 [INFO]   2026-05-01 -> 2026-05-05
+2026-05-05 08:42:20,601 [INFO]     +2 lignes
+2026-05-05 08:42:21,605 [INFO]   Nouvelles données SIVC.ci: 2 lignes, 2026-05-01 -> 2026-05-04 (1 requêtes)
+2026-05-05 08:42:22,005 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\SIVC_ci_historique.csv (3734 lignes)
+2026-05-05 08:42:22,005 [INFO] 
+[37/48] SLBC.ci
+2026-05-05 08:42:22,063 [INFO]   Données existantes : 2363 lignes jusqu'au 2026-04-30
+2026-05-05 08:42:22,064 [INFO]   Mode incrémental depuis 2026-05-01
+2026-05-05 08:42:22,065 [INFO]   2026-05-01 -> 2026-05-05
+2026-05-05 08:42:22,240 [INFO]     +2 lignes
+2026-05-05 08:42:23,243 [INFO]   Nouvelles données SLBC.ci: 2 lignes, 2026-05-01 -> 2026-05-04 (1 requêtes)
+2026-05-05 08:42:23,271 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\SLBC_ci_historique.csv (2365 lignes)
+2026-05-05 08:42:23,272 [INFO] 
+[38/48] SMBC.ci
+2026-05-05 08:42:23,280 [INFO]   Données existantes : 3111 lignes jusqu'au 2026-04-30
+2026-05-05 08:42:23,280 [INFO]   Mode incrémental depuis 2026-05-01
+2026-05-05 08:42:23,280 [INFO]   2026-05-01 -> 2026-05-05
+2026-05-05 08:42:23,468 [INFO]     +2 lignes
+2026-05-05 08:42:24,472 [INFO]   Nouvelles données SMBC.ci: 2 lignes, 2026-05-01 -> 2026-05-04 (1 requêtes)
+2026-05-05 08:42:24,506 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\SMBC_ci_historique.csv (3113 lignes)
+2026-05-05 08:42:24,507 [INFO] 
+[39/48] SNTS.sn
+2026-05-05 08:42:24,520 [INFO]   Données existantes : 4617 lignes jusqu'au 2026-04-30
+2026-05-05 08:42:24,520 [INFO]   Mode incrémental depuis 2026-05-01
+2026-05-05 08:42:24,520 [INFO]   2026-05-01 -> 2026-05-05
+2026-05-05 08:42:24,652 [INFO]     +2 lignes
+2026-05-05 08:42:25,655 [INFO]   Nouvelles données SNTS.sn: 2 lignes, 2026-05-01 -> 2026-05-04 (1 requêtes)
+2026-05-05 08:42:25,686 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\SNTS_sn_historique.csv (4619 lignes)
+2026-05-05 08:42:25,687 [INFO] 
+[40/48] SOGC.ci
+2026-05-05 08:42:25,699 [INFO]   Données existantes : 4096 lignes jusqu'au 2026-04-30
+2026-05-05 08:42:25,700 [INFO]   Mode incrémental depuis 2026-05-01
+2026-05-05 08:42:25,700 [INFO]   2026-05-01 -> 2026-05-05
+2026-05-05 08:42:25,927 [INFO]     +2 lignes
+2026-05-05 08:42:26,929 [INFO]   Nouvelles données SOGC.ci: 2 lignes, 2026-05-01 -> 2026-05-04 (1 requêtes)
+2026-05-05 08:42:26,963 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\SOGC_ci_historique.csv (4098 lignes)
+2026-05-05 08:42:26,964 [INFO] 
+[41/48] SPHC.ci
+2026-05-05 08:42:26,976 [INFO]   Données existantes : 4260 lignes jusqu'au 2026-04-30
+2026-05-05 08:42:26,977 [INFO]   Mode incrémental depuis 2026-05-01
+2026-05-05 08:42:26,977 [INFO]   2026-05-01 -> 2026-05-05
+2026-05-05 08:42:27,124 [INFO]     +2 lignes
+2026-05-05 08:42:28,127 [INFO]   Nouvelles données SPHC.ci: 2 lignes, 2026-05-01 -> 2026-05-04 (1 requêtes)
+2026-05-05 08:42:28,155 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\SPHC_ci_historique.csv (4262 lignes)
+2026-05-05 08:42:28,155 [INFO] 
+[42/48] STAC.ci
+2026-05-05 08:42:28,168 [INFO]   Données existantes : 2189 lignes jusqu'au 2026-04-30
+2026-05-05 08:42:28,168 [INFO]   Mode incrémental depuis 2026-05-01
+2026-05-05 08:42:28,168 [INFO]   2026-05-01 -> 2026-05-05
+2026-05-05 08:42:28,383 [INFO]     +2 lignes
+2026-05-05 08:42:29,386 [INFO]   Nouvelles données STAC.ci: 2 lignes, 2026-05-01 -> 2026-05-04 (1 requêtes)
+2026-05-05 08:42:29,431 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\STAC_ci_historique.csv (2191 lignes)
+2026-05-05 08:42:29,432 [INFO] 
+[43/48] STBC.ci
+2026-05-05 08:42:29,450 [INFO]   Données existantes : 3264 lignes jusqu'au 2026-04-30
+2026-05-05 08:42:29,451 [INFO]   Mode incrémental depuis 2026-05-01
+2026-05-05 08:42:29,451 [INFO]   2026-05-01 -> 2026-05-05
+2026-05-05 08:42:29,612 [INFO]     +2 lignes
+2026-05-05 08:42:30,615 [INFO]   Nouvelles données STBC.ci: 2 lignes, 2026-05-01 -> 2026-05-04 (1 requêtes)
+2026-05-05 08:42:30,663 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\STBC_ci_historique.csv (3266 lignes)
+2026-05-05 08:42:30,663 [INFO] 
+[44/48] SVOC.ci
+2026-05-05 08:42:30,664 [INFO]   2026-02-04 -> 2026-05-05
+2026-05-05 08:42:31,810 [INFO]   2025-11-05 -> 2026-02-03
+2026-05-05 08:42:32,959 [INFO]   2025-08-06 -> 2025-11-04
+2026-05-05 08:42:34,108 [INFO]   2025-05-07 -> 2025-08-05
+2026-05-05 08:42:35,268 [WARNING]   Aucune donnée pour SVOC.ci
+2026-05-05 08:42:35,271 [INFO] 
+[45/48] TTLC.ci
+2026-05-05 08:42:35,300 [INFO]   Données existantes : 3635 lignes jusqu'au 2026-04-30
+2026-05-05 08:42:35,301 [INFO]   Mode incrémental depuis 2026-05-01
+2026-05-05 08:42:35,301 [INFO]   2026-05-01 -> 2026-05-05
+2026-05-05 08:42:35,451 [INFO]     +2 lignes
+2026-05-05 08:42:36,455 [INFO]   Nouvelles données TTLC.ci: 2 lignes, 2026-05-01 -> 2026-05-04 (1 requêtes)
+2026-05-05 08:42:36,517 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\TTLC_ci_historique.csv (3637 lignes)
+2026-05-05 08:42:36,517 [INFO] 
+[46/48] TTLS.sn
+2026-05-05 08:42:36,533 [INFO]   Données existantes : 2716 lignes jusqu'au 2026-04-30
+2026-05-05 08:42:36,535 [INFO]   Mode incrémental depuis 2026-05-01
+2026-05-05 08:42:36,535 [INFO]   2026-05-01 -> 2026-05-05
+2026-05-05 08:42:36,657 [INFO]     +2 lignes
+2026-05-05 08:42:37,659 [INFO]   Nouvelles données TTLS.sn: 2 lignes, 2026-05-01 -> 2026-05-04 (1 requêtes)
+2026-05-05 08:42:37,695 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\TTLS_sn_historique.csv (2718 lignes)
+2026-05-05 08:42:37,695 [INFO] 
+[47/48] UNLC.ci
+2026-05-05 08:42:37,703 [INFO]   Données existantes : 1730 lignes jusqu'au 2026-04-30
+2026-05-05 08:42:37,704 [INFO]   Mode incrémental depuis 2026-05-01
+2026-05-05 08:42:37,704 [INFO]   2026-05-01 -> 2026-05-05
+2026-05-05 08:42:37,827 [INFO]     +2 lignes
+2026-05-05 08:42:38,838 [INFO]   Nouvelles données UNLC.ci: 2 lignes, 2026-05-01 -> 2026-05-04 (1 requêtes)
+2026-05-05 08:42:38,873 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\UNLC_ci_historique.csv (1732 lignes)
+2026-05-05 08:42:38,873 [INFO] 
+[48/48] UNXC.ci
+2026-05-05 08:42:38,890 [INFO]   Données existantes : 3353 lignes jusqu'au 2026-04-30
+2026-05-05 08:42:38,891 [INFO]   Mode incrémental depuis 2026-05-01
+2026-05-05 08:42:38,891 [INFO]   2026-05-01 -> 2026-05-05
+2026-05-05 08:42:39,012 [INFO]     +2 lignes
+2026-05-05 08:42:40,016 [INFO]   Nouvelles données UNXC.ci: 2 lignes, 2026-05-01 -> 2026-05-04 (1 requêtes)
+2026-05-05 08:42:40,057 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions\UNXC_ci_historique.csv (3355 lignes)
+2026-05-05 08:42:40,058 [INFO] 
+============================================================
+2026-05-05 08:42:40,058 [INFO] HISTORIQUE — 13 INDICES
+2026-05-05 08:42:40,059 [INFO] ============================================================
+2026-05-05 08:42:40,059 [INFO] 
+[1/13] BRVMC
+2026-05-05 08:42:40,083 [INFO]   Données existantes : 4674 lignes jusqu'au 2026-04-30
+2026-05-05 08:42:40,083 [INFO]   Mode incrémental depuis 2026-05-01
+2026-05-05 08:42:40,084 [INFO]   2026-05-01 -> 2026-05-05
+2026-05-05 08:42:40,203 [INFO]     +2 lignes
+2026-05-05 08:42:41,209 [INFO]   Nouvelles données BRVMC: 2 lignes, 2026-05-01 -> 2026-05-04 (1 requêtes)
+2026-05-05 08:42:41,381 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\indices\BRVMC_historique.csv (4676 lignes)
+2026-05-05 08:42:41,382 [INFO] 
+[2/13] BRVM30
+2026-05-05 08:42:41,390 [INFO]   Données existantes : 867 lignes jusqu'au 2026-04-30
+2026-05-05 08:42:41,391 [INFO]   Mode incrémental depuis 2026-05-01
+2026-05-05 08:42:41,391 [INFO]   2026-05-01 -> 2026-05-05
+2026-05-05 08:42:41,513 [INFO]     +2 lignes
+2026-05-05 08:42:42,517 [INFO]   Nouvelles données BRVM30: 2 lignes, 2026-05-01 -> 2026-05-04 (1 requêtes)
+2026-05-05 08:42:42,554 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\indices\BRVM30_historique.csv (869 lignes)
+2026-05-05 08:42:42,556 [INFO] 
+[3/13] BRVMPR
+2026-05-05 08:42:42,572 [INFO]   Données existantes : 867 lignes jusqu'au 2026-04-30
+2026-05-05 08:42:42,573 [INFO]   Mode incrémental depuis 2026-05-01
+2026-05-05 08:42:42,574 [INFO]   2026-05-01 -> 2026-05-05
+2026-05-05 08:42:42,700 [INFO]     +2 lignes
+2026-05-05 08:42:43,706 [INFO]   Nouvelles données BRVMPR: 2 lignes, 2026-05-01 -> 2026-05-04 (1 requêtes)
+2026-05-05 08:42:43,746 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\indices\BRVMPR_historique.csv (869 lignes)
+2026-05-05 08:42:43,746 [INFO] 
+[4/13] BRVMPA
+2026-05-05 08:42:43,760 [INFO]   Données existantes : 864 lignes jusqu'au 2026-04-30
+2026-05-05 08:42:43,761 [INFO]   Mode incrémental depuis 2026-05-01
+2026-05-05 08:42:43,761 [INFO]   2026-05-01 -> 2026-05-05
+2026-05-05 08:42:43,881 [INFO]     +2 lignes
+2026-05-05 08:42:44,887 [INFO]   Nouvelles données BRVMPA: 2 lignes, 2026-05-01 -> 2026-05-04 (1 requêtes)
+2026-05-05 08:42:44,931 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\indices\BRVMPA_historique.csv (866 lignes)
+2026-05-05 08:42:44,931 [INFO] 
+[5/13] BRVM-CB
+2026-05-05 08:42:44,943 [INFO]   Données existantes : 343 lignes jusqu'au 2026-04-30
+2026-05-05 08:42:44,944 [INFO]   Mode incrémental depuis 2026-05-01
+2026-05-05 08:42:44,945 [INFO]   2026-05-01 -> 2026-05-05
+2026-05-05 08:42:45,067 [INFO]     +2 lignes
+2026-05-05 08:42:46,073 [INFO]   Nouvelles données BRVM-CB: 2 lignes, 2026-05-01 -> 2026-05-04 (1 requêtes)
+2026-05-05 08:42:46,098 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\indices\BRVM_CB_historique.csv (345 lignes)
+2026-05-05 08:42:46,098 [INFO] 
+[6/13] BRVM-CD
+2026-05-05 08:42:46,110 [INFO]   Données existantes : 343 lignes jusqu'au 2026-04-30
+2026-05-05 08:42:46,111 [INFO]   Mode incrémental depuis 2026-05-01
+2026-05-05 08:42:46,112 [INFO]   2026-05-01 -> 2026-05-05
+2026-05-05 08:42:46,304 [INFO]     +2 lignes
+2026-05-05 08:42:47,311 [INFO]   Nouvelles données BRVM-CD: 2 lignes, 2026-05-01 -> 2026-05-04 (1 requêtes)
+2026-05-05 08:42:47,338 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\indices\BRVM_CD_historique.csv (345 lignes)
+2026-05-05 08:42:47,339 [INFO] 
+[7/13] BRVM-EN
+2026-05-05 08:42:47,370 [INFO]   Données existantes : 343 lignes jusqu'au 2026-04-30
+2026-05-05 08:42:47,371 [INFO]   Mode incrémental depuis 2026-05-01
+2026-05-05 08:42:47,372 [INFO]   2026-05-01 -> 2026-05-05
+2026-05-05 08:42:47,494 [INFO]     +2 lignes
+2026-05-05 08:42:48,498 [INFO]   Nouvelles données BRVM-EN: 2 lignes, 2026-05-01 -> 2026-05-04 (1 requêtes)
+2026-05-05 08:42:48,515 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\indices\BRVM_EN_historique.csv (345 lignes)
+2026-05-05 08:42:48,516 [INFO] 
+[8/13] BRVM-IN
+2026-05-05 08:42:48,526 [INFO]   Données existantes : 343 lignes jusqu'au 2026-04-30
+2026-05-05 08:42:48,526 [INFO]   Mode incrémental depuis 2026-05-01
+2026-05-05 08:42:48,527 [INFO]   2026-05-01 -> 2026-05-05
+2026-05-05 08:42:48,645 [INFO]     +2 lignes
+2026-05-05 08:42:49,648 [INFO]   Nouvelles données BRVM-IN: 2 lignes, 2026-05-01 -> 2026-05-04 (1 requêtes)
+2026-05-05 08:42:49,662 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\indices\BRVM_IN_historique.csv (345 lignes)
+2026-05-05 08:42:49,662 [INFO] 
+[9/13] BRVM-SF
+2026-05-05 08:42:49,669 [INFO]   Données existantes : 343 lignes jusqu'au 2026-04-30
+2026-05-05 08:42:49,669 [INFO]   Mode incrémental depuis 2026-05-01
+2026-05-05 08:42:49,670 [INFO]   2026-05-01 -> 2026-05-05
+2026-05-05 08:42:49,802 [INFO]     +2 lignes
+2026-05-05 08:42:50,808 [INFO]   Nouvelles données BRVM-SF: 2 lignes, 2026-05-01 -> 2026-05-04 (1 requêtes)
+2026-05-05 08:42:50,840 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\indices\BRVM_SF_historique.csv (345 lignes)
+2026-05-05 08:42:50,840 [INFO] 
+[10/13] BRVM-TEL
+2026-05-05 08:42:50,864 [INFO]   Données existantes : 343 lignes jusqu'au 2026-04-30
+2026-05-05 08:42:50,867 [INFO]   Mode incrémental depuis 2026-05-01
+2026-05-05 08:42:50,869 [INFO]   2026-05-01 -> 2026-05-05
+2026-05-05 08:42:50,995 [INFO]     +2 lignes
+2026-05-05 08:42:52,001 [INFO]   Nouvelles données BRVM-TEL: 2 lignes, 2026-05-01 -> 2026-05-04 (1 requêtes)
+2026-05-05 08:42:52,027 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\indices\BRVM_TEL_historique.csv (345 lignes)
+2026-05-05 08:42:52,028 [INFO] 
+[11/13] CAPIBRVM
+2026-05-05 08:42:52,047 [INFO]   Données existantes : 1629 lignes jusqu'au 2026-04-29
+2026-05-05 08:42:52,048 [INFO]   Mode incrémental depuis 2026-04-30
+2026-05-05 08:42:52,049 [INFO]   2026-04-30 -> 2026-05-05
+2026-05-05 08:42:52,204 [INFO]     +3 lignes
+2026-05-05 08:42:53,210 [INFO]   Nouvelles données CAPIBRVM: 3 lignes, 2026-04-30 -> 2026-05-04 (1 requêtes)
+2026-05-05 08:42:53,268 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\indices\CAPIBRVM_historique.csv (1632 lignes)
+2026-05-05 08:42:53,269 [INFO] 
+[12/13] SIKAIDX
+2026-05-05 08:42:53,324 [INFO]   Données existantes : 2358 lignes jusqu'au 2026-04-29
+2026-05-05 08:42:53,326 [INFO]   Mode incrémental depuis 2026-04-30
+2026-05-05 08:42:53,327 [INFO]   2026-04-30 -> 2026-05-05
+2026-05-05 08:42:53,462 [INFO]     +3 lignes
+2026-05-05 08:42:54,466 [INFO]   Nouvelles données SIKAIDX: 3 lignes, 2026-04-30 -> 2026-05-04 (1 requêtes)
+2026-05-05 08:42:54,537 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\indices\SIKAIDX_historique.csv (2361 lignes)
+2026-05-05 08:42:54,537 [INFO] 
+[13/13] SIKATR
+2026-05-05 08:42:54,548 [INFO]   Données existantes : 1837 lignes jusqu'au 2026-04-29
+2026-05-05 08:42:54,549 [INFO]   Mode incrémental depuis 2026-04-30
+2026-05-05 08:42:54,550 [INFO]   2026-04-30 -> 2026-05-05
+2026-05-05 08:42:54,702 [INFO]     +3 lignes
+2026-05-05 08:42:55,706 [INFO]   Nouvelles données SIKATR: 3 lignes, 2026-04-30 -> 2026-05-04 (1 requêtes)
+2026-05-05 08:42:55,744 [INFO]   -> C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\indices\SIKATR_historique.csv (1840 lignes)
+2026-05-05 08:42:55,745 [INFO] 
+============================================================
+2026-05-05 08:42:55,745 [INFO] SCRAPING TERMINÉ en 1.4 minutes
+2026-05-05 08:42:55,746 [INFO] ============================================================
+2026-05-05 08:42:56,606 [INFO] 
+Résumé sauvegardé : C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\resume_scraping.csv
+2026-05-05 08:42:56,669 [INFO] 
+Fichiers dans :
+2026-05-05 08:42:56,670 [INFO]   Actions : C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\actions
+2026-05-05 08:42:56,671 [INFO]   Indices : C:\Users\DYLANE\OneDrive - CGF BOURSE\Bureau\MES MINI-APPS\TOOLS\Scraper BRVM\data\indices
+2026-05-05 08:42:56,672 [INFO] 
+(Infos société/indice : lancer scraper_info_societes.py)

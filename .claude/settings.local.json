@@ -1,0 +1,26 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl -s -A \"Mozilla/5.0 \\(Windows NT 10.0; Win64; x64\\) AppleWebKit/537.36 \\(KHTML, like Gecko\\) Chrome/125.0.0.0 Safari/537.36\" \"https://www.sikafinance.com/marches/dividendes\" -o /tmp/dividendes.html)",
+      "Read(//tmp/**)",
+      "Bash(where python *)",
+      "Bash(where py *)",
+      "Read(//c/Users/DYLANE/AppData/Local/Programs/Python/**)",
+      "Bash(C:/Users/DYLANE/AppData/Local/Programs/Python/Python314/python.exe -c ' *)",
+      "Bash(\"C:/Users/DYLANE/AppData/Local/Programs/Python/Python314/python.exe\" \"c:/Users/DYLANE/OneDrive - CGF BOURSE/Bureau/MES MINI-APPS/Scraper BRVM/scraper_dividendes.py\")",
+      "Bash(\"C:/Users/DYLANE/AppData/Local/Programs/Python/Python314/python.exe\" scraper_news_brvm.py)",
+      "Bash(grep -i \"\\\\.py$\")",
+      "Bash(\"C:/Users/DYLANE/AppData/Local/Programs/Python/Python314/python.exe\" scraper_info_societes.py test SGBC.ci)",
+      "Bash(\"C:/Users/DYLANE/AppData/Local/Programs/Python/Python314/python.exe\" scraper_info_societes.py test BRVMC)",
+      "Bash(\"C:/Users/DYLANE/AppData/Local/Programs/Python/Python314/python.exe\" scraper_brvm.py test BRVM-CB)",
+      "Bash(dir)",
+      "Bash(python -c \"import streamlit, pandas, numpy, plotly; print\\('ok'\\)\")",
+      "Bash(python -c \"import py_compile; py_compile.compile\\('etf_builder.py', doraise=True\\); print\\('compile OK'\\)\")",
+      "Bash(python -c ' *)",
+      "Bash(streamlit run *)",
+      "Bash(echo \"PID:$!\")",
+      "Bash(curl -s -o /dev/null -w \"HTTP %{http_code}\\\\n\" http://localhost:8765/)",
+      "Bash(curl -s http://localhost:8765/_stcore/health)"
+    ]
+  }
+}
