@@ -1,5 +1,5 @@
 {
-  "date_scraping": "2026-05-06 17:39:37",
+  "date_scraping": "2026-05-07 17:40:02",
   "source": "https://www.sikafinance.com/marches/dividendes",
   "a_venir": [
     {
@@ -8,7 +8,7 @@
       "Ticker": "BOAC.ci",
       "Nom": "BANK OF AFRICA CI",
       "Montant_FCFA": 594.53,
-      "Rendement_Pct": 6.77
+      "Rendement_Pct": 6.87
     },
     {
       "Date_Detachement": "2026-05-22",
@@ -24,7 +24,7 @@
       "Ticker": "BOAS.sn",
       "Nom": "BANK OF AFRICA SENEGAL",
       "Montant_FCFA": 450.0,
-      "Rendement_Pct": 6.23
+      "Rendement_Pct": 6.19
     },
     {
       "Date_Detachement": "2026-06-01",
@@ -32,7 +32,7 @@
       "Ticker": "BOAM.ml",
       "Nom": "BANK OF AFRICA MALI",
       "Montant_FCFA": 305.04,
-      "Rendement_Pct": 6.52
+      "Rendement_Pct": 6.5
     },
     {
       "Date_Detachement": "2026-06-12",
@@ -40,7 +40,7 @@
       "Ticker": "ONTBF.bf",
       "Nom": "ONATEL BF",
       "Montant_FCFA": 145.32,
-      "Rendement_Pct": 5.36
+      "Rendement_Pct": 5.24
     },
     {
       "Date_Detachement": "A préciser",
@@ -48,7 +48,7 @@
       "Ticker": "LNBB.bj",
       "Nom": "LOTERIE NATIONALE DU BENIN",
       "Montant_FCFA": 164.0,
-      "Rendement_Pct": 4.15
+      "Rendement_Pct": 4.16
     },
     {
       "Date_Detachement": "A préciser",
@@ -56,7 +56,7 @@
       "Ticker": "PRSC.ci",
       "Nom": "TRACTAFRIC MOTORS CI",
       "Montant_FCFA": 183.92,
-      "Rendement_Pct": 4.97
+      "Rendement_Pct": 4.98
     },
     {
       "Date_Detachement": "A préciser",
@@ -64,7 +64,7 @@
       "Ticker": "NTLC.ci",
       "Nom": "NESTLE CI",
       "Montant_FCFA": 369.6,
-      "Rendement_Pct": 3.11
+      "Rendement_Pct": 3.16
     },
     {
       "Date_Detachement": "A préciser",
@@ -72,7 +72,7 @@
       "Ticker": "TTLS.sn",
       "Nom": "TOTAL SENEGAL",
       "Montant_FCFA": 169.81,
-      "Rendement_Pct": 5.65
+      "Rendement_Pct": 5.66
     },
     {
       "Date_Detachement": "A préciser",
@@ -88,7 +88,7 @@
       "Ticker": "SDCC.ci",
       "Nom": "SODECI",
       "Montant_FCFA": 462.0,
-      "Rendement_Pct": 5.13
+      "Rendement_Pct": 5.19
     },
     {
       "Date_Detachement": "A préciser",
@@ -96,7 +96,7 @@
       "Ticker": "NEIC.ci",
       "Nom": "NEI CEDA CI",
       "Montant_FCFA": 140.39,
-      "Rendement_Pct": 8.19
+      "Rendement_Pct": 8.05
     },
     {
       "Date_Detachement": "A préciser",
@@ -104,7 +104,7 @@
       "Ticker": "SIBC.ci",
       "Nom": "SOCIETE IVOIRIENNE DE BANQUE CI",
       "Montant_FCFA": 374.0,
-      "Rendement_Pct": 5.3
+      "Rendement_Pct": 5.23
     },
     {
       "Date_Detachement": "A préciser",
@@ -112,7 +112,7 @@
       "Ticker": "CBIBF.bf",
       "Nom": "CORIS BANK INTERNATIONAL BF",
       "Montant_FCFA": 900.0,
-      "Rendement_Pct": 5.39
+      "Rendement_Pct": 5.42
     },
     {
       "Date_Detachement": "A préciser",
@@ -120,7 +120,7 @@
       "Ticker": "TTLC.ci",
       "Nom": "TOTAL CI",
       "Montant_FCFA": 139.77,
-      "Rendement_Pct": 5.1
+      "Rendement_Pct": 5.14
     },
     {
       "Date_Detachement": "A préciser",
@@ -128,7 +128,7 @@
       "Ticker": "SGBC.ci",
       "Nom": "SGBCI",
       "Montant_FCFA": 2293.28,
-      "Rendement_Pct": 6.87
+      "Rendement_Pct": 6.78
     },
     {
       "Date_Detachement": "A préciser",
@@ -136,7 +136,7 @@
       "Ticker": "BOAB.bj",
       "Nom": "BANK OF AFRICA BENIN",
       "Montant_FCFA": 585.0,
-      "Rendement_Pct": 6.26
+      "Rendement_Pct": 6.29
     },
     {
       "Date_Detachement": "A préciser",
@@ -144,7 +144,7 @@
       "Ticker": "ETIT.tg",
       "Nom": "ETI TG",
       "Montant_FCFA": 0.93,
-      "Rendement_Pct": 3.21
+      "Rendement_Pct": 3.1
     },
     {
       "Date_Detachement": "A préciser",
@@ -152,7 +152,7 @@
       "Ticker": "ECOC.ci",
       "Nom": "ECOBANK CI",
       "Montant_FCFA": 781.0,
-      "Rendement_Pct": 4.85
+      "Rendement_Pct": 4.79
     },
     {
       "Date_Detachement": "A préciser",
@@ -160,7 +160,7 @@
       "Ticker": "PALC.ci",
       "Nom": "PALMCI",
       "Montant_FCFA": 441.76,
-      "Rendement_Pct": 5.66
+      "Rendement_Pct": 5.59
     },
     {
       "Date_Detachement": "A préciser",
@@ -168,7 +168,7 @@
       "Ticker": "SPHC.ci",
       "Nom": "SAPH CI",
       "Montant_FCFA": 430.32,
-      "Rendement_Pct": 6.0
+      "Rendement_Pct": 6.06
     },
     {
       "Date_Detachement": "A préciser",
@@ -176,7 +176,7 @@
       "Ticker": "ORAC.ci",
       "Nom": "ORANGE CI",
       "Montant_FCFA": 704.0,
-      "Rendement_Pct": 4.63
+      "Rendement_Pct": 4.72
     },
     {
       "Date_Detachement": "A préciser",
@@ -184,7 +184,7 @@
       "Ticker": "CABC.ci",
       "Nom": "SICABLE CI",
       "Montant_FCFA": 152.02,
-      "Rendement_Pct": 4.46
+      "Rendement_Pct": 4.47
     }
   ],
   "historique": [
