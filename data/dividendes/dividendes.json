@@ -1,5 +1,5 @@
 {
-  "date_scraping": "2026-05-12 17:47:21",
+  "date_scraping": "2026-05-13 17:48:25",
   "source": "https://www.sikafinance.com/marches/dividendes",
   "a_venir": [
     {
@@ -8,7 +8,7 @@
       "Ticker": "SNTS.sn",
       "Nom": "SONATEL",
       "Montant_FCFA": 1740.0,
-      "Rendement_Pct": 6.02
+      "Rendement_Pct": 6.01
     },
     {
       "Date_Detachement": "2026-05-22",
@@ -16,7 +16,7 @@
       "Ticker": "BOAB.bj",
       "Nom": "BANK OF AFRICA BENIN",
       "Montant_FCFA": 585.0,
-      "Rendement_Pct": 6.21
+      "Rendement_Pct": 6.22
     },
     {
       "Date_Detachement": "2026-05-22",
@@ -24,7 +24,7 @@
       "Ticker": "ECOC.ci",
       "Nom": "ECOBANK CI",
       "Montant_FCFA": 888.0,
-      "Rendement_Pct": 5.48
+      "Rendement_Pct": 5.45
     },
     {
       "Date_Detachement": "2026-05-29",
@@ -32,7 +32,7 @@
       "Ticker": "BOAS.sn",
       "Nom": "BANK OF AFRICA SENEGAL",
       "Montant_FCFA": 450.0,
-      "Rendement_Pct": 6.0
+      "Rendement_Pct": 5.96
     },
     {
       "Date_Detachement": "2026-06-02",
@@ -48,7 +48,15 @@
       "Ticker": "ONTBF.bf",
       "Nom": "ONATEL BF",
       "Montant_FCFA": 145.32,
-      "Rendement_Pct": 5.42
+      "Rendement_Pct": 5.28
+    },
+    {
+      "Date_Detachement": "A préciser",
+      "Statut": "A préciser",
+      "Ticker": "SMBC.ci",
+      "Nom": "SMB CI",
+      "Montant_FCFA": 704.0,
+      "Rendement_Pct": 5.73
     },
     {
       "Date_Detachement": "A préciser",
@@ -56,7 +64,7 @@
       "Ticker": "LNBB.bj",
       "Nom": "LOTERIE NATIONALE DU BENIN",
       "Montant_FCFA": 164.0,
-      "Rendement_Pct": 4.24
+      "Rendement_Pct": 4.21
     },
     {
       "Date_Detachement": "A préciser",
@@ -72,7 +80,7 @@
       "Ticker": "NTLC.ci",
       "Nom": "NESTLE CI",
       "Montant_FCFA": 369.6,
-      "Rendement_Pct": 3.16
+      "Rendement_Pct": 3.19
     },
     {
       "Date_Detachement": "A préciser",
@@ -80,7 +88,7 @@
       "Ticker": "TTLS.sn",
       "Nom": "TOTAL SENEGAL",
       "Montant_FCFA": 169.81,
-      "Rendement_Pct": 5.97
+      "Rendement_Pct": 5.61
     },
     {
       "Date_Detachement": "A préciser",
@@ -88,7 +96,7 @@
       "Ticker": "ABJC.ci",
       "Nom": "SERVAIR ABIDJAN CI",
       "Montant_FCFA": 120.97,
-      "Rendement_Pct": 4.06
+      "Rendement_Pct": 4.24
     },
     {
       "Date_Detachement": "A préciser",
@@ -96,7 +104,7 @@
       "Ticker": "SDCC.ci",
       "Nom": "SODECI",
       "Montant_FCFA": 462.0,
-      "Rendement_Pct": 4.92
+      "Rendement_Pct": 4.86
     },
     {
       "Date_Detachement": "A préciser",
@@ -104,7 +112,7 @@
       "Ticker": "NEIC.ci",
       "Nom": "NEI CEDA CI",
       "Montant_FCFA": 140.39,
-      "Rendement_Pct": 7.43
+      "Rendement_Pct": 7.05
     },
     {
       "Date_Detachement": "A préciser",
@@ -112,7 +120,7 @@
       "Ticker": "SIBC.ci",
       "Nom": "SOCIETE IVOIRIENNE DE BANQUE CI",
       "Montant_FCFA": 374.0,
-      "Rendement_Pct": 5.13
+      "Rendement_Pct": 5.12
     },
     {
       "Date_Detachement": "A préciser",
@@ -136,7 +144,7 @@
       "Ticker": "CBIBF.bf",
       "Nom": "CORIS BANK INTERNATIONAL BF",
       "Montant_FCFA": 900.0,
-      "Rendement_Pct": 5.17
+      "Rendement_Pct": 4.81
     },
     {
       "Date_Detachement": "A préciser",
@@ -144,7 +152,7 @@
       "Ticker": "TTLC.ci",
       "Nom": "TOTAL CI",
       "Montant_FCFA": 139.77,
-      "Rendement_Pct": 4.57
+      "Rendement_Pct": 4.67
     },
     {
       "Date_Detachement": "A préciser",
@@ -152,7 +160,7 @@
       "Ticker": "PALC.ci",
       "Nom": "PALMCI",
       "Montant_FCFA": 441.76,
-      "Rendement_Pct": 5.63
+      "Rendement_Pct": 5.66
     },
     {
       "Date_Detachement": "A préciser",
@@ -168,7 +176,7 @@
       "Ticker": "ORAC.ci",
       "Nom": "ORANGE CI",
       "Montant_FCFA": 704.0,
-      "Rendement_Pct": 4.68
+      "Rendement_Pct": 4.69
     },
     {
       "Date_Detachement": "A préciser",
@@ -176,7 +184,7 @@
       "Ticker": "CABC.ci",
       "Nom": "SICABLE CI",
       "Montant_FCFA": 152.02,
-      "Rendement_Pct": 4.47
+      "Rendement_Pct": 4.34
     }
   ],
   "historique": [
@@ -525,8 +533,8 @@
       "Rend_2023_Pct": 15.88,
       "Div_2024": 616.0,
       "Rend_2024_Pct": 5.85,
-      "Div_2025": null,
-      "Rend_2025_Pct": null
+      "Div_2025": 704.0,
+      "Rend_2025_Pct": 8.18
     },
     {
       "Ticker": "SIBC.ci",
