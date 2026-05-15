@@ -1,5 +1,5 @@
 {
-  "date_scraping": "2026-05-14 17:42:39",
+  "date_scraping": "2026-05-15 17:37:46",
   "source": "https://www.sikafinance.com/marches/dividendes",
   "a_venir": [
     {
@@ -8,7 +8,7 @@
       "Ticker": "SNTS.sn",
       "Nom": "SONATEL",
       "Montant_FCFA": 1740.0,
-      "Rendement_Pct": 6.01
+      "Rendement_Pct": 6.02
     },
     {
       "Date_Detachement": "2026-05-22",
@@ -32,7 +32,7 @@
       "Ticker": "BOAS.sn",
       "Nom": "BANK OF AFRICA SENEGAL",
       "Montant_FCFA": 450.0,
-      "Rendement_Pct": 5.96
+      "Rendement_Pct": 5.92
     },
     {
       "Date_Detachement": "2026-06-02",
@@ -40,7 +40,7 @@
       "Ticker": "BOAM.ml",
       "Nom": "BANK OF AFRICA MALI",
       "Montant_FCFA": 305.04,
-      "Rendement_Pct": 6.52
+      "Rendement_Pct": 6.5
     },
     {
       "Date_Detachement": "2026-06-12",
@@ -48,7 +48,7 @@
       "Ticker": "ONTBF.bf",
       "Nom": "ONATEL BF",
       "Montant_FCFA": 145.32,
-      "Rendement_Pct": 5.28
+      "Rendement_Pct": 5.2
     },
     {
       "Date_Detachement": "A préciser",
@@ -56,7 +56,7 @@
       "Ticker": "SMBC.ci",
       "Nom": "SMB CI",
       "Montant_FCFA": 704.0,
-      "Rendement_Pct": 5.73
+      "Rendement_Pct": 5.46
     },
     {
       "Date_Detachement": "A préciser",
@@ -80,7 +80,7 @@
       "Ticker": "NTLC.ci",
       "Nom": "NESTLE CI",
       "Montant_FCFA": 369.6,
-      "Rendement_Pct": 3.19
+      "Rendement_Pct": 3.15
     },
     {
       "Date_Detachement": "A préciser",
@@ -88,7 +88,7 @@
       "Ticker": "TTLS.sn",
       "Nom": "TOTAL SENEGAL",
       "Montant_FCFA": 169.81,
-      "Rendement_Pct": 5.61
+      "Rendement_Pct": 5.65
     },
     {
       "Date_Detachement": "A préciser",
@@ -104,7 +104,7 @@
       "Ticker": "SDCC.ci",
       "Nom": "SODECI",
       "Montant_FCFA": 462.0,
-      "Rendement_Pct": 4.86
+      "Rendement_Pct": 4.67
     },
     {
       "Date_Detachement": "A préciser",
@@ -112,7 +112,7 @@
       "Ticker": "NEIC.ci",
       "Nom": "NEI CEDA CI",
       "Montant_FCFA": 140.39,
-      "Rendement_Pct": 7.05
+      "Rendement_Pct": 7.31
     },
     {
       "Date_Detachement": "A préciser",
@@ -120,7 +120,7 @@
       "Ticker": "SIBC.ci",
       "Nom": "SOCIETE IVOIRIENNE DE BANQUE CI",
       "Montant_FCFA": 374.0,
-      "Rendement_Pct": 5.12
+      "Rendement_Pct": 4.99
     },
     {
       "Date_Detachement": "A préciser",
@@ -128,7 +128,7 @@
       "Ticker": "SGBC.ci",
       "Nom": "SGBCI",
       "Montant_FCFA": 2293.28,
-      "Rendement_Pct": 6.55
+      "Rendement_Pct": 6.37
     },
     {
       "Date_Detachement": "A préciser",
@@ -136,7 +136,7 @@
       "Ticker": "ETIT.tg",
       "Nom": "ETI TG",
       "Montant_FCFA": 0.93,
-      "Rendement_Pct": 3.1
+      "Rendement_Pct": 3.21
     },
     {
       "Date_Detachement": "A préciser",
@@ -144,7 +144,7 @@
       "Ticker": "CBIBF.bf",
       "Nom": "CORIS BANK INTERNATIONAL BF",
       "Montant_FCFA": 900.0,
-      "Rendement_Pct": 4.81
+      "Rendement_Pct": 4.52
     },
     {
       "Date_Detachement": "A préciser",
@@ -152,7 +152,7 @@
       "Ticker": "TTLC.ci",
       "Nom": "TOTAL CI",
       "Montant_FCFA": 139.77,
-      "Rendement_Pct": 4.67
+      "Rendement_Pct": 4.8
     },
     {
       "Date_Detachement": "A préciser",
@@ -160,7 +160,7 @@
       "Ticker": "PALC.ci",
       "Nom": "PALMCI",
       "Montant_FCFA": 441.76,
-      "Rendement_Pct": 5.66
+      "Rendement_Pct": 5.74
     },
     {
       "Date_Detachement": "A préciser",
@@ -168,7 +168,7 @@
       "Ticker": "SPHC.ci",
       "Nom": "SAPH CI",
       "Montant_FCFA": 430.32,
-      "Rendement_Pct": 6.15
+      "Rendement_Pct": 6.16
     },
     {
       "Date_Detachement": "A préciser",
@@ -176,7 +176,7 @@
       "Ticker": "ORAC.ci",
       "Nom": "ORANGE CI",
       "Montant_FCFA": 704.0,
-      "Rendement_Pct": 4.69
+      "Rendement_Pct": 4.65
     },
     {
       "Date_Detachement": "A préciser",
@@ -184,7 +184,7 @@
       "Ticker": "CABC.ci",
       "Nom": "SICABLE CI",
       "Montant_FCFA": 152.02,
-      "Rendement_Pct": 4.34
+      "Rendement_Pct": 4.35
     }
   ],
   "historique": [
