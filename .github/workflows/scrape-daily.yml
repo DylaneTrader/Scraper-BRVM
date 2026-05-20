@@ -59,7 +59,7 @@ jobs:
 
       - name: Scraping dividendes
         if: ${{ github.event_name == 'schedule' || inputs.mode == 'full' || inputs.mode == 'dividendes_only' }}
-        run: python scraper_dividendes.py
+        run: python scraper_dividendes_unified.py
         continue-on-error: true
 
       - name: Scraping news

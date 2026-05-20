@@ -35,3 +35,6 @@ streamlit*.html
 page.html
 etf_weights*.csv
 grid_search.csv
+
+# Avis dividendes (PDFs téléchargés, ~100 MB, reproductibles via le scraper)
+data/avis_dividendes/

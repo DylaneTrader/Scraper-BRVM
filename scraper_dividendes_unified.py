@@ -57,6 +57,8 @@ from brvm_emetteur_mapping import lookup_ticker
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 OUTPUT_DIR = Path(__file__).parent / "data" / "dividendes"
+AVIS_DIR = Path(__file__).parent / "data" / "avis_dividendes"
+AVIS_DELAY = 0.5  # politesse entre téléchargements
 LEGACY_FILES = [
     "dividendes_a_venir.csv",
     "dividendes_historique.csv",
@@ -340,6 +342,70 @@ def compute_statut(row: dict, today: datetime) -> str:
     return "Passé" if dt < today.date() else "A venir"
 
 
+def _avis_local_path(ticker: str, exercice: str, avis_url: str) -> Path:
+    """Construit le chemin local du PDF : data/avis_dividendes/<TICKER>/<EXERCICE>_<basename>.pdf"""
+    # On garde la fin du nom officiel BRVM pour traçabilité, préfixé par l'exercice
+    basename = avis_url.rsplit("/", 1)[-1] or "avis.pdf"
+    if not basename.lower().endswith(".pdf"):
+        basename += ".pdf"
+    prefix = f"{exercice}_" if exercice else ""
+    return AVIS_DIR / ticker / f"{prefix}{basename}"
+
+
+def download_avis(records: list[dict]) -> dict[tuple[str, str], str]:
+    """Télécharge les PDF d'avis BRVM. Skip si déjà présent.
+
+    Retourne un mapping (Ticker, Exercice) -> chemin local relatif au projet.
+    """
+    AVIS_DIR.mkdir(parents=True, exist_ok=True)
+    session = create_brvm_session()
+    project_root = Path(__file__).parent
+
+    paths: dict[tuple[str, str], str] = {}
+    n_download = n_skip = n_fail = 0
+
+    for r in records:
+        url = r.get("Avis_URL", "")
+        if not url:
+            continue
+        ticker = r.get("Ticker", "")
+        exercice = r.get("Exercice", "")
+        if not ticker:
+            continue
+
+        path = _avis_local_path(ticker, exercice, url)
+        rel = path.relative_to(project_root).as_posix()
+
+        if path.exists() and path.stat().st_size > 0:
+            paths[(ticker, exercice)] = rel
+            n_skip += 1
+            continue
+
+        path.parent.mkdir(parents=True, exist_ok=True)
+        try:
+            resp = session.get(url, timeout=60, stream=True)
+            resp.raise_for_status()
+            with open(path, "wb") as f:
+                for chunk in resp.iter_content(chunk_size=16384):
+                    if chunk:
+                        f.write(chunk)
+            if path.stat().st_size == 0:
+                raise RuntimeError("fichier vide")
+            paths[(ticker, exercice)] = rel
+            n_download += 1
+            log.info(f"[AVIS] {ticker} {exercice} -> {rel}")
+        except Exception as e:
+            log.warning(f"[AVIS] échec {ticker} {exercice} ({url}) : {e}")
+            n_fail += 1
+            if path.exists() and path.stat().st_size == 0:
+                path.unlink()  # ne pas laisser un fichier vide qui ferait croire au cache
+        finally:
+            time.sleep(AVIS_DELAY)
+
+    log.info(f"[AVIS] téléchargés : {n_download} | cache : {n_skip} | échecs : {n_fail}")
+    return paths
+
+
 def to_dataframe(records: list[dict], now: datetime) -> pd.DataFrame:
     today = now
     rows = []
@@ -354,6 +420,7 @@ def to_dataframe(records: list[dict], now: datetime) -> pd.DataFrame:
             "Montant_Net_FCFA": r.get("Montant_Net_FCFA"),
             "Rendement_Pct": r.get("Rendement_Pct"),
             "Avis_URL": r.get("Avis_URL", ""),
+            "Avis_Path": r.get("Avis_Path", ""),
             "Sources": ",".join(sorted(r.get("_src", set()))),
         })
     df = pd.DataFrame(rows)
@@ -430,6 +497,10 @@ def run():
 
     merged = merge(brvm_norm + sika_norm)
     log.info(f"[FUSION] {len(merged)} lignes uniques (Ticker, Exercice)")
+
+    avis_paths = download_avis(merged)
+    for r in merged:
+        r["Avis_Path"] = avis_paths.get((r["Ticker"], r["Exercice"]), "")
 
     df = to_dataframe(merged, now)
     n_avenir = (df["Statut"] == "A venir").sum() if not df.empty else 0
