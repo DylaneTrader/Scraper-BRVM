@@ -1,13 +1,13 @@
 {
-  "date_scraping": "2026-05-20 10:29:52",
+  "date_scraping": "2026-05-20 19:29:59",
   "sources": [
     "brvm.org",
     "sikafinance.com"
   ],
-  "nb_records": 318,
+  "nb_records": 319,
   "nb_a_venir": 7,
   "nb_passes": 209,
-  "nb_a_preciser": 102,
+  "nb_a_preciser": 103,
   "records": [
     {
       "Date_Scraping": "2026-05-20",
@@ -186,7 +186,7 @@
       "Date_Detachement": "",
       "Date_Paiement": "",
       "Montant_Net_FCFA": 164.0,
-      "Rendement_Pct": 4.21,
+      "Rendement_Pct": 4.11,
       "Avis_URL": "",
       "Avis_Path": "",
       "Sources": "sikafinance.com"
@@ -200,7 +200,7 @@
       "Date_Detachement": "",
       "Date_Paiement": "",
       "Montant_Net_FCFA": 140.39,
-      "Rendement_Pct": 7.24,
+      "Rendement_Pct": 7.39,
       "Avis_URL": "",
       "Avis_Path": "",
       "Sources": "sikafinance.com"
@@ -214,7 +214,7 @@
       "Date_Detachement": "",
       "Date_Paiement": "",
       "Montant_Net_FCFA": 369.6,
-      "Rendement_Pct": 3.13,
+      "Rendement_Pct": 3.12,
       "Avis_URL": "",
       "Avis_Path": "",
       "Sources": "sikafinance.com"
@@ -228,7 +228,7 @@
       "Date_Detachement": "",
       "Date_Paiement": "",
       "Montant_Net_FCFA": 704.0,
-      "Rendement_Pct": 4.5,
+      "Rendement_Pct": 4.54,
       "Avis_URL": "",
       "Avis_Path": "",
       "Sources": "sikafinance.com"
@@ -270,7 +270,7 @@
       "Date_Detachement": "",
       "Date_Paiement": "",
       "Montant_Net_FCFA": 462.0,
-      "Rendement_Pct": 4.14,
+      "Rendement_Pct": 4.13,
       "Avis_URL": "",
       "Avis_Path": "",
       "Sources": "sikafinance.com"
@@ -284,7 +284,7 @@
       "Date_Detachement": "",
       "Date_Paiement": "",
       "Montant_Net_FCFA": 2293.28,
-      "Rendement_Pct": 6.28,
+      "Rendement_Pct": 6.34,
       "Avis_URL": "",
       "Avis_Path": "",
       "Sources": "sikafinance.com"
@@ -298,7 +298,21 @@
       "Date_Detachement": "",
       "Date_Paiement": "",
       "Montant_Net_FCFA": 374.0,
-      "Rendement_Pct": 4.95,
+      "Rendement_Pct": 4.8,
+      "Avis_URL": "",
+      "Avis_Path": "",
+      "Sources": "sikafinance.com"
+    },
+    {
+      "Date_Scraping": "2026-05-20",
+      "Ticker": "SLBC.ci",
+      "Nom_Canonique": "SOLIBRA CI",
+      "Exercice": "2025",
+      "Statut": "A préciser",
+      "Date_Detachement": "",
+      "Date_Paiement": "",
+      "Montant_Net_FCFA": 1872.0,
+      "Rendement_Pct": 14.45,
       "Avis_URL": "",
       "Avis_Path": "",
       "Sources": "sikafinance.com"
@@ -312,7 +326,7 @@
       "Date_Detachement": "",
       "Date_Paiement": "",
       "Montant_Net_FCFA": 704.0,
-      "Rendement_Pct": 5.82,
+      "Rendement_Pct": 5.63,
       "Avis_URL": "",
       "Avis_Path": "",
       "Sources": "sikafinance.com"
@@ -340,7 +354,7 @@
       "Date_Detachement": "",
       "Date_Paiement": "",
       "Montant_Net_FCFA": 430.32,
-      "Rendement_Pct": 6.29,
+      "Rendement_Pct": 6.28,
       "Avis_URL": "",
       "Avis_Path": "",
       "Sources": "sikafinance.com"
@@ -368,7 +382,7 @@
       "Date_Detachement": "",
       "Date_Paiement": "",
       "Montant_Net_FCFA": 169.81,
-      "Rendement_Pct": 5.61,
+      "Rendement_Pct": 5.57,
       "Avis_URL": "",
       "Avis_Path": "",
       "Sources": "sikafinance.com"
