@@ -9,3 +9,9 @@ numpy>=1.24
 streamlit>=1.30
 plotly>=5.18
 scipy>=1.11
+
+# Quant pipeline (Prophet signals + Black-Litterman allocation)
+prophet>=1.1.5
+scikit-learn>=1.4
+PyPortfolioOpt>=1.5.5
+pytest>=8.0
