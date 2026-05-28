@@ -1,5 +1,5 @@
 {
-  "date_scraping": "2026-05-27 18:04:37",
+  "date_scraping": "2026-05-28 18:06:26",
   "sources": [
     "brvm.org",
     "sikafinance.com"
@@ -10,7 +10,7 @@
   "nb_a_preciser": 101,
   "records": [
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "ONTBF.bf",
       "Nom_Canonique": "ONATEL BF",
       "Exercice": "2025",
@@ -24,7 +24,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "ORAC.ci",
       "Nom_Canonique": "ORANGE CI",
       "Exercice": "2025",
@@ -38,7 +38,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "BOAM.ml",
       "Nom_Canonique": "BANK OF AFRICA MALI",
       "Exercice": "2025",
@@ -52,7 +52,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "BOAS.sn",
       "Nom_Canonique": "BANK OF AFRICA SENEGAL",
       "Exercice": "2025",
@@ -66,7 +66,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "CABC.ci",
       "Nom_Canonique": "SICABLE CI",
       "Exercice": "2025",
@@ -80,7 +80,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "BOAB.bj",
       "Nom_Canonique": "BANK OF AFRICA BENIN",
       "Exercice": "2025",
@@ -94,7 +94,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "ECOC.ci",
       "Nom_Canonique": "ECOBANK CI",
       "Exercice": "2025",
@@ -108,7 +108,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SNTS.sn",
       "Nom_Canonique": "SONATEL",
       "Exercice": "2025",
@@ -122,7 +122,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "BOAC.ci",
       "Nom_Canonique": "BANK OF AFRICA COTE D'IVOIRE",
       "Exercice": "2025",
@@ -136,7 +136,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "BOABF.bf",
       "Nom_Canonique": "BANK OF AFRICA BURKINA FASO",
       "Exercice": "2025",
@@ -150,7 +150,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "ABJC.ci",
       "Nom_Canonique": "SERVAIR ABIDJAN CI",
       "Exercice": "2025",
@@ -158,13 +158,13 @@
       "Date_Detachement": "",
       "Date_Paiement": "",
       "Montant_Net_FCFA": 120.97,
-      "Rendement_Pct": 4.2,
+      "Rendement_Pct": 4.03,
       "Avis_URL": "",
       "Avis_Path": "",
       "Sources": "sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "BICC.ci",
       "Nom_Canonique": "BICICI",
       "Exercice": "2025",
@@ -178,7 +178,7 @@
       "Sources": "sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "CBIBF.bf",
       "Nom_Canonique": "CORIS BANK INTERNATIONAL BF",
       "Exercice": "2025",
@@ -192,7 +192,7 @@
       "Sources": "sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "CIEC.ci",
       "Nom_Canonique": "CIE CI",
       "Exercice": "2025",
@@ -200,13 +200,13 @@
       "Date_Detachement": "",
       "Date_Paiement": "",
       "Montant_Net_FCFA": 205.92,
-      "Rendement_Pct": 5.14,
+      "Rendement_Pct": 5.08,
       "Avis_URL": "",
       "Avis_Path": "",
       "Sources": "sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "ETIT.tg",
       "Nom_Canonique": "ECOBANK TRANSNATIONAL INC TG",
       "Exercice": "2025",
@@ -214,13 +214,13 @@
       "Date_Detachement": "",
       "Date_Paiement": "",
       "Montant_Net_FCFA": 0.93,
-      "Rendement_Pct": 3.21,
+      "Rendement_Pct": 3.1,
       "Avis_URL": "",
       "Avis_Path": "",
       "Sources": "sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "LNBB.bj",
       "Nom_Canonique": "LOTERIE NATIONALE DU BENIN",
       "Exercice": "2025",
@@ -228,13 +228,13 @@
       "Date_Detachement": "",
       "Date_Paiement": "",
       "Montant_Net_FCFA": 164.0,
-      "Rendement_Pct": 4.11,
+      "Rendement_Pct": 4.29,
       "Avis_URL": "",
       "Avis_Path": "",
       "Sources": "sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "NEIC.ci",
       "Nom_Canonique": "NEI-CEDA CI",
       "Exercice": "2025",
@@ -248,7 +248,7 @@
       "Sources": "sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "NTLC.ci",
       "Nom_Canonique": "NESTLE CI",
       "Exercice": "2025",
@@ -256,13 +256,13 @@
       "Date_Detachement": "",
       "Date_Paiement": "",
       "Montant_Net_FCFA": 369.6,
-      "Rendement_Pct": 2.84,
+      "Rendement_Pct": 2.87,
       "Avis_URL": "",
       "Avis_Path": "",
       "Sources": "sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "PALC.ci",
       "Nom_Canonique": "PALMCI",
       "Exercice": "2025",
@@ -270,13 +270,13 @@
       "Date_Detachement": "",
       "Date_Paiement": "",
       "Montant_Net_FCFA": 441.76,
-      "Rendement_Pct": 5.66,
+      "Rendement_Pct": 5.53,
       "Avis_URL": "",
       "Avis_Path": "",
       "Sources": "sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "PRSC.ci",
       "Nom_Canonique": "TRACTAFRIC MOTORS CI",
       "Exercice": "2025",
@@ -284,13 +284,13 @@
       "Date_Detachement": "",
       "Date_Paiement": "",
       "Montant_Net_FCFA": 183.92,
-      "Rendement_Pct": 4.11,
+      "Rendement_Pct": 4.15,
       "Avis_URL": "",
       "Avis_Path": "",
       "Sources": "sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SDCC.ci",
       "Nom_Canonique": "SODECI",
       "Exercice": "2025",
@@ -298,13 +298,13 @@
       "Date_Detachement": "",
       "Date_Paiement": "",
       "Montant_Net_FCFA": 462.0,
-      "Rendement_Pct": 4.16,
+      "Rendement_Pct": 4.18,
       "Avis_URL": "",
       "Avis_Path": "",
       "Sources": "sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SGBC.ci",
       "Nom_Canonique": "SGBCI",
       "Exercice": "2025",
@@ -312,13 +312,13 @@
       "Date_Detachement": "",
       "Date_Paiement": "",
       "Montant_Net_FCFA": 2293.28,
-      "Rendement_Pct": 6.27,
+      "Rendement_Pct": 6.21,
       "Avis_URL": "",
       "Avis_Path": "",
       "Sources": "sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SIBC.ci",
       "Nom_Canonique": "SOCIETE IVOIRIENNE DE BANQUE CI",
       "Exercice": "2025",
@@ -326,13 +326,13 @@
       "Date_Detachement": "",
       "Date_Paiement": "",
       "Montant_Net_FCFA": 374.0,
-      "Rendement_Pct": 4.86,
+      "Rendement_Pct": 4.79,
       "Avis_URL": "",
       "Avis_Path": "",
       "Sources": "sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SLBC.ci",
       "Nom_Canonique": "SOLIBRA CI",
       "Exercice": "2025",
@@ -346,7 +346,7 @@
       "Sources": "sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SMBC.ci",
       "Nom_Canonique": "SMB CI",
       "Exercice": "2025",
@@ -354,13 +354,13 @@
       "Date_Detachement": "",
       "Date_Paiement": "",
       "Montant_Net_FCFA": 704.0,
-      "Rendement_Pct": 5.42,
+      "Rendement_Pct": 5.27,
       "Avis_URL": "",
       "Avis_Path": "",
       "Sources": "sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SOGC.ci",
       "Nom_Canonique": "SOGB",
       "Exercice": "2025",
@@ -374,7 +374,7 @@
       "Sources": "sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SPHC.ci",
       "Nom_Canonique": "SAPH CI",
       "Exercice": "2025",
@@ -382,13 +382,13 @@
       "Date_Detachement": "",
       "Date_Paiement": "",
       "Montant_Net_FCFA": 430.32,
-      "Rendement_Pct": 6.2,
+      "Rendement_Pct": 6.15,
       "Avis_URL": "",
       "Avis_Path": "",
       "Sources": "sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "TTLC.ci",
       "Nom_Canonique": "VIVO ENERGY CI",
       "Exercice": "2025",
@@ -396,13 +396,13 @@
       "Date_Detachement": "",
       "Date_Paiement": "",
       "Montant_Net_FCFA": 139.77,
-      "Rendement_Pct": 4.87,
+      "Rendement_Pct": 4.85,
       "Avis_URL": "",
       "Avis_Path": "",
       "Sources": "sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "TTLS.sn",
       "Nom_Canonique": "VIVO ENERGY SENEGAL",
       "Exercice": "2025",
@@ -410,13 +410,13 @@
       "Date_Detachement": "",
       "Date_Paiement": "",
       "Montant_Net_FCFA": 169.81,
-      "Rendement_Pct": 5.31,
+      "Rendement_Pct": 5.15,
       "Avis_URL": "",
       "Avis_Path": "",
       "Sources": "sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SHEC.ci",
       "Nom_Canonique": "VIVO ENERGY CI",
       "Exercice": "2024",
@@ -430,7 +430,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "FTSC.ci",
       "Nom_Canonique": "FILTISAC CI",
       "Exercice": "2024",
@@ -444,7 +444,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "PRSC.ci",
       "Nom_Canonique": "TRACTAFRIC MOTORS CI",
       "Exercice": "2024",
@@ -458,7 +458,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SDCC.ci",
       "Nom_Canonique": "SODECI",
       "Exercice": "2024",
@@ -472,7 +472,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "BICB.bj",
       "Nom_Canonique": "BANQUE INTERNATIONALE INDUSTRIES COMMERCE BENIN",
       "Exercice": "2024",
@@ -486,7 +486,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SMBC.ci",
       "Nom_Canonique": "SMB CI",
       "Exercice": "2024",
@@ -500,7 +500,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "PALC.ci",
       "Nom_Canonique": "PALMCI",
       "Exercice": "2024",
@@ -514,7 +514,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "TTLC.ci",
       "Nom_Canonique": "VIVO ENERGY CI",
       "Exercice": "2024",
@@ -528,7 +528,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SDSC.ci",
       "Nom_Canonique": "AFRICA GLOBAL LOGISTICS CI",
       "Exercice": "2024",
@@ -542,7 +542,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "STBC.ci",
       "Nom_Canonique": "SITAB CI",
       "Exercice": "2024",
@@ -556,7 +556,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "CFAC.ci",
       "Nom_Canonique": "CFAO MOTORS CI",
       "Exercice": "2024",
@@ -570,7 +570,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "NTLC.ci",
       "Nom_Canonique": "NESTLE CI",
       "Exercice": "2024",
@@ -584,7 +584,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SGBC.ci",
       "Nom_Canonique": "SGBCI",
       "Exercice": "2024",
@@ -598,7 +598,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "CIEC.ci",
       "Nom_Canonique": "CIE CI",
       "Exercice": "2024",
@@ -612,7 +612,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "LNBB.bj",
       "Nom_Canonique": "LOTERIE NATIONALE DU BENIN",
       "Exercice": "2024",
@@ -626,7 +626,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SIBC.ci",
       "Nom_Canonique": "SOCIETE IVOIRIENNE DE BANQUE CI",
       "Exercice": "2024",
@@ -640,7 +640,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SLBC.ci",
       "Nom_Canonique": "SOLIBRA CI",
       "Exercice": "2024",
@@ -654,7 +654,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "ONTBF.bf",
       "Nom_Canonique": "ONATEL BF",
       "Exercice": "2024",
@@ -668,7 +668,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SPHC.ci",
       "Nom_Canonique": "SAPH CI",
       "Exercice": "2024",
@@ -682,7 +682,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SOGC.ci",
       "Nom_Canonique": "SOGB",
       "Exercice": "2024",
@@ -696,7 +696,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "TTLS.sn",
       "Nom_Canonique": "VIVO ENERGY SENEGAL",
       "Exercice": "2024",
@@ -710,7 +710,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "NSBC.ci",
       "Nom_Canonique": "NSIA BANQUE CI",
       "Exercice": "2024",
@@ -724,7 +724,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "CBIBF.bf",
       "Nom_Canonique": "CORIS BANK INTERNATIONAL BF",
       "Exercice": "2024",
@@ -738,7 +738,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "ORAC.ci",
       "Nom_Canonique": "ORANGE CI",
       "Exercice": "2024",
@@ -752,7 +752,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "BOAB.bj",
       "Nom_Canonique": "BANK OF AFRICA BENIN",
       "Exercice": "2024",
@@ -766,7 +766,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "BOAM.ml",
       "Nom_Canonique": "BANK OF AFRICA MALI",
       "Exercice": "2024",
@@ -780,7 +780,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "BOAN.ne",
       "Nom_Canonique": "BANK OF AFRICA NIGER",
       "Exercice": "2024",
@@ -794,7 +794,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "BOAS.sn",
       "Nom_Canonique": "BANK OF AFRICA SENEGAL",
       "Exercice": "2024",
@@ -808,7 +808,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "CABC.ci",
       "Nom_Canonique": "SICABLE CI",
       "Exercice": "2024",
@@ -822,7 +822,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "ECOC.ci",
       "Nom_Canonique": "ECOBANK CI",
       "Exercice": "2024",
@@ -836,7 +836,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "BICC.ci",
       "Nom_Canonique": "BICICI",
       "Exercice": "2024",
@@ -850,7 +850,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SNTS.sn",
       "Nom_Canonique": "SONATEL",
       "Exercice": "2024",
@@ -864,7 +864,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "BOAC.ci",
       "Nom_Canonique": "BANK OF AFRICA COTE D'IVOIRE",
       "Exercice": "2024",
@@ -878,7 +878,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "BOABF.bf",
       "Nom_Canonique": "BANK OF AFRICA BURKINA FASO",
       "Exercice": "2024",
@@ -892,7 +892,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SDSC.ci",
       "Nom_Canonique": "AFRICA GLOBAL LOGISTICS CI",
       "Exercice": "2023",
@@ -906,7 +906,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "ABJC.ci",
       "Nom_Canonique": "SERVAIR ABIDJAN CI",
       "Exercice": "2023",
@@ -920,7 +920,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "FTSC.ci",
       "Nom_Canonique": "FILTISAC CI",
       "Exercice": "2023",
@@ -934,7 +934,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SMBC.ci",
       "Nom_Canonique": "SMB CI",
       "Exercice": "2023",
@@ -948,7 +948,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SHEC.ci",
       "Nom_Canonique": "VIVO ENERGY CI",
       "Exercice": "2023",
@@ -962,7 +962,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SDCC.ci",
       "Nom_Canonique": "SODECI",
       "Exercice": "2023",
@@ -976,7 +976,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "PRSC.ci",
       "Nom_Canonique": "TRACTAFRIC MOTORS CI",
       "Exercice": "2023",
@@ -990,7 +990,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "TTLC.ci",
       "Nom_Canonique": "VIVO ENERGY CI",
       "Exercice": "2023",
@@ -1004,7 +1004,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "CFAC.ci",
       "Nom_Canonique": "CFAO MOTORS CI",
       "Exercice": "2023",
@@ -1018,7 +1018,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SPHC.ci",
       "Nom_Canonique": "SAPH CI",
       "Exercice": "2023",
@@ -1032,7 +1032,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SOGC.ci",
       "Nom_Canonique": "SOGB",
       "Exercice": "2023",
@@ -1046,7 +1046,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "ONTBF.bf",
       "Nom_Canonique": "ONATEL BF",
       "Exercice": "2023",
@@ -1060,7 +1060,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SIBC.ci",
       "Nom_Canonique": "SOCIETE IVOIRIENNE DE BANQUE CI",
       "Exercice": "2023",
@@ -1074,7 +1074,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "CIEC.ci",
       "Nom_Canonique": "CIE CI",
       "Exercice": "2023",
@@ -1088,7 +1088,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "STBC.ci",
       "Nom_Canonique": "SITAB CI",
       "Exercice": "2023",
@@ -1102,7 +1102,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "PALC.ci",
       "Nom_Canonique": "PALMCI",
       "Exercice": "2023",
@@ -1116,7 +1116,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "NTLC.ci",
       "Nom_Canonique": "NESTLE CI",
       "Exercice": "2023",
@@ -1130,7 +1130,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "NSBC.ci",
       "Nom_Canonique": "NSIA BANQUE CI",
       "Exercice": "2023",
@@ -1144,7 +1144,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "CBIBF.bf",
       "Nom_Canonique": "CORIS BANK INTERNATIONAL BF",
       "Exercice": "2023",
@@ -1158,7 +1158,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "TTLS.sn",
       "Nom_Canonique": "VIVO ENERGY SENEGAL",
       "Exercice": "2023",
@@ -1172,7 +1172,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "BICC.ci",
       "Nom_Canonique": "BICICI",
       "Exercice": "2023",
@@ -1186,7 +1186,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "BOAS.sn",
       "Nom_Canonique": "BANK OF AFRICA SENEGAL",
       "Exercice": "2023",
@@ -1200,7 +1200,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "NEIC.ci",
       "Nom_Canonique": "NEI-CEDA CI",
       "Exercice": "2023",
@@ -1214,7 +1214,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "ORAC.ci",
       "Nom_Canonique": "ORANGE CI",
       "Exercice": "2023",
@@ -1228,7 +1228,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "BOAN.ne",
       "Nom_Canonique": "BANK OF AFRICA NIGER",
       "Exercice": "2023",
@@ -1242,7 +1242,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "CABC.ci",
       "Nom_Canonique": "SICABLE CI",
       "Exercice": "2023",
@@ -1256,7 +1256,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "ECOC.ci",
       "Nom_Canonique": "ECOBANK CI",
       "Exercice": "2023",
@@ -1270,7 +1270,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "BOAB.bj",
       "Nom_Canonique": "BANK OF AFRICA BENIN",
       "Exercice": "2023",
@@ -1284,7 +1284,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "BOAM.ml",
       "Nom_Canonique": "BANK OF AFRICA MALI",
       "Exercice": "2023",
@@ -1298,7 +1298,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SNTS.sn",
       "Nom_Canonique": "SONATEL",
       "Exercice": "2023",
@@ -1312,7 +1312,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "BOABF.bf",
       "Nom_Canonique": "BANK OF AFRICA BURKINA FASO",
       "Exercice": "2023",
@@ -1326,7 +1326,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "BOAC.ci",
       "Nom_Canonique": "BANK OF AFRICA COTE D'IVOIRE",
       "Exercice": "2023",
@@ -1340,7 +1340,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SGBC.ci",
       "Nom_Canonique": "SGBCI",
       "Exercice": "2023",
@@ -1354,7 +1354,7 @@
       "Sources": "sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SLBC.ci",
       "Nom_Canonique": "SOLIBRA CI",
       "Exercice": "2023",
@@ -1368,7 +1368,7 @@
       "Sources": "sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SGBC.ci",
       "Nom_Canonique": "SGBCI",
       "Exercice": "2022",
@@ -1382,7 +1382,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SHEC.ci",
       "Nom_Canonique": "VIVO ENERGY CI",
       "Exercice": "2022",
@@ -1396,7 +1396,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SDSC.ci",
       "Nom_Canonique": "AFRICA GLOBAL LOGISTICS CI",
       "Exercice": "2022",
@@ -1410,7 +1410,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SPHC.ci",
       "Nom_Canonique": "SAPH CI",
       "Exercice": "2022",
@@ -1424,7 +1424,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "NEIC.ci",
       "Nom_Canonique": "NEI-CEDA CI",
       "Exercice": "2022",
@@ -1438,7 +1438,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "TTLC.ci",
       "Nom_Canonique": "VIVO ENERGY CI",
       "Exercice": "2022",
@@ -1452,7 +1452,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "CFAC.ci",
       "Nom_Canonique": "CFAO MOTORS CI",
       "Exercice": "2022",
@@ -1466,7 +1466,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SDCC.ci",
       "Nom_Canonique": "SODECI",
       "Exercice": "2022",
@@ -1480,7 +1480,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "PRSC.ci",
       "Nom_Canonique": "TRACTAFRIC MOTORS CI",
       "Exercice": "2022",
@@ -1494,7 +1494,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "ABJC.ci",
       "Nom_Canonique": "SERVAIR ABIDJAN CI",
       "Exercice": "2022",
@@ -1508,7 +1508,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SIBC.ci",
       "Nom_Canonique": "SOCIETE IVOIRIENNE DE BANQUE CI",
       "Exercice": "2022",
@@ -1522,7 +1522,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "NTLC.ci",
       "Nom_Canonique": "NESTLE CI",
       "Exercice": "2022",
@@ -1536,7 +1536,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "CABC.ci",
       "Nom_Canonique": "SICABLE CI",
       "Exercice": "2022",
@@ -1550,7 +1550,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "BICC.ci",
       "Nom_Canonique": "BICICI",
       "Exercice": "2022",
@@ -1564,7 +1564,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "CIEC.ci",
       "Nom_Canonique": "CIE CI",
       "Exercice": "2022",
@@ -1578,7 +1578,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "STBC.ci",
       "Nom_Canonique": "SITAB CI",
       "Exercice": "2022",
@@ -1592,7 +1592,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "BNBC.ci",
       "Nom_Canonique": "BERNABE CI",
       "Exercice": "2022",
@@ -1606,7 +1606,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "PALC.ci",
       "Nom_Canonique": "PALMCI",
       "Exercice": "2022",
@@ -1620,7 +1620,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SOGC.ci",
       "Nom_Canonique": "SOGB",
       "Exercice": "2022",
@@ -1634,7 +1634,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "TTLS.sn",
       "Nom_Canonique": "VIVO ENERGY SENEGAL",
       "Exercice": "2022",
@@ -1648,7 +1648,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "ONTBF.bf",
       "Nom_Canonique": "ONATEL BF",
       "Exercice": "2022",
@@ -1662,7 +1662,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "ORAC.ci",
       "Nom_Canonique": "ORANGE CI",
       "Exercice": "2022",
@@ -1676,7 +1676,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "ETIT.tg",
       "Nom_Canonique": "ECOBANK TRANSNATIONAL INC TG",
       "Exercice": "2022",
@@ -1690,7 +1690,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "NSBC.ci",
       "Nom_Canonique": "NSIA BANQUE CI",
       "Exercice": "2022",
@@ -1704,7 +1704,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "BOAS.sn",
       "Nom_Canonique": "BANK OF AFRICA SENEGAL",
       "Exercice": "2022",
@@ -1718,7 +1718,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "ECOC.ci",
       "Nom_Canonique": "ECOBANK CI",
       "Exercice": "2022",
@@ -1732,7 +1732,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "BOAB.bj",
       "Nom_Canonique": "BANK OF AFRICA BENIN",
       "Exercice": "2022",
@@ -1746,7 +1746,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "BOAN.ne",
       "Nom_Canonique": "BANK OF AFRICA NIGER",
       "Exercice": "2022",
@@ -1760,7 +1760,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SNTS.sn",
       "Nom_Canonique": "SONATEL",
       "Exercice": "2022",
@@ -1774,7 +1774,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "BOABF.bf",
       "Nom_Canonique": "BANK OF AFRICA BURKINA FASO",
       "Exercice": "2022",
@@ -1788,7 +1788,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "BOAC.ci",
       "Nom_Canonique": "BANK OF AFRICA COTE D'IVOIRE",
       "Exercice": "2022",
@@ -1802,7 +1802,7 @@
       "Sources": "brvm.org,sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "CBIBF.bf",
       "Nom_Canonique": "CORIS BANK INTERNATIONAL BF",
       "Exercice": "2022",
@@ -1816,7 +1816,7 @@
       "Sources": "sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "LNBB.bj",
       "Nom_Canonique": "LOTERIE NATIONALE DU BENIN",
       "Exercice": "2022",
@@ -1830,7 +1830,7 @@
       "Sources": "sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SMBC.ci",
       "Nom_Canonique": "SMB CI",
       "Exercice": "2022",
@@ -1844,7 +1844,7 @@
       "Sources": "sikafinance.com"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SHEC.ci",
       "Nom_Canonique": "VIVO ENERGY CI",
       "Exercice": "2021",
@@ -1858,7 +1858,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SDCC.ci",
       "Nom_Canonique": "SODECI",
       "Exercice": "2021",
@@ -1872,7 +1872,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "PALC.ci",
       "Nom_Canonique": "PALMCI",
       "Exercice": "2021",
@@ -1886,7 +1886,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "PRSC.ci",
       "Nom_Canonique": "TRACTAFRIC MOTORS CI",
       "Exercice": "2021",
@@ -1900,7 +1900,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "TTLC.ci",
       "Nom_Canonique": "VIVO ENERGY CI",
       "Exercice": "2021",
@@ -1914,7 +1914,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "ABJC.ci",
       "Nom_Canonique": "SERVAIR ABIDJAN CI",
       "Exercice": "2021",
@@ -1928,7 +1928,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SMBC.ci",
       "Nom_Canonique": "SMB CI",
       "Exercice": "2021",
@@ -1942,7 +1942,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SLBC.ci",
       "Nom_Canonique": "SOLIBRA CI",
       "Exercice": "2021",
@@ -1956,7 +1956,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SPHC.ci",
       "Nom_Canonique": "SAPH CI",
       "Exercice": "2021",
@@ -1970,7 +1970,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "CABC.ci",
       "Nom_Canonique": "SICABLE CI",
       "Exercice": "2021",
@@ -1984,7 +1984,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "CFAC.ci",
       "Nom_Canonique": "CFAO MOTORS CI",
       "Exercice": "2021",
@@ -1998,7 +1998,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "NTLC.ci",
       "Nom_Canonique": "NESTLE CI",
       "Exercice": "2021",
@@ -2012,7 +2012,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "UNXC.ci",
       "Nom_Canonique": "UNIWAX CI",
       "Exercice": "2021",
@@ -2026,7 +2026,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "CIEC.ci",
       "Nom_Canonique": "CIE CI",
       "Exercice": "2021",
@@ -2040,7 +2040,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "TTLS.sn",
       "Nom_Canonique": "VIVO ENERGY SENEGAL",
       "Exercice": "2021",
@@ -2054,7 +2054,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SOGC.ci",
       "Nom_Canonique": "SOGB",
       "Exercice": "2021",
@@ -2068,7 +2068,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "STBC.ci",
       "Nom_Canonique": "SITAB CI",
       "Exercice": "2021",
@@ -2082,7 +2082,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "STAC.ci",
       "Nom_Canonique": "SETAO CI",
       "Exercice": "2021",
@@ -2096,7 +2096,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "BICC.ci",
       "Nom_Canonique": "BICICI",
       "Exercice": "2021",
@@ -2110,7 +2110,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SIBC.ci",
       "Nom_Canonique": "SOCIETE IVOIRIENNE DE BANQUE CI",
       "Exercice": "2021",
@@ -2124,7 +2124,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SDSC.ci",
       "Nom_Canonique": "AFRICA GLOBAL LOGISTICS CI",
       "Exercice": "2021",
@@ -2138,7 +2138,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "ETIT.tg",
       "Nom_Canonique": "ECOBANK TRANSNATIONAL INC TG",
       "Exercice": "2021",
@@ -2152,7 +2152,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "ONTBF.bf",
       "Nom_Canonique": "ONATEL BF",
       "Exercice": "2021",
@@ -2166,7 +2166,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SGBC.ci",
       "Nom_Canonique": "SGBCI",
       "Exercice": "2021",
@@ -2180,7 +2180,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "BOAS.sn",
       "Nom_Canonique": "BANK OF AFRICA SENEGAL",
       "Exercice": "2021",
@@ -2194,7 +2194,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "BOAB.bj",
       "Nom_Canonique": "BANK OF AFRICA BENIN",
       "Exercice": "2021",
@@ -2208,7 +2208,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SNTS.sn",
       "Nom_Canonique": "SONATEL",
       "Exercice": "2021",
@@ -2222,7 +2222,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "BOAN.ne",
       "Nom_Canonique": "BANK OF AFRICA NIGER",
       "Exercice": "2021",
@@ -2236,7 +2236,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "BOABF.bf",
       "Nom_Canonique": "BANK OF AFRICA BURKINA FASO",
       "Exercice": "2021",
@@ -2250,7 +2250,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "ECOC.ci",
       "Nom_Canonique": "ECOBANK CI",
       "Exercice": "2021",
@@ -2264,7 +2264,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "BOAC.ci",
       "Nom_Canonique": "BANK OF AFRICA COTE D'IVOIRE",
       "Exercice": "2021",
@@ -2278,7 +2278,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SEMC.ci",
       "Nom_Canonique": "CROWN SIEM CI",
       "Exercice": "2020",
@@ -2292,7 +2292,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "TTLC.ci",
       "Nom_Canonique": "VIVO ENERGY CI",
       "Exercice": "2020",
@@ -2306,7 +2306,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "PRSC.ci",
       "Nom_Canonique": "TRACTAFRIC MOTORS CI",
       "Exercice": "2020",
@@ -2320,7 +2320,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "PALC.ci",
       "Nom_Canonique": "PALMCI",
       "Exercice": "2020",
@@ -2334,7 +2334,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SPHC.ci",
       "Nom_Canonique": "SAPH CI",
       "Exercice": "2020",
@@ -2348,7 +2348,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SCRC.ci",
       "Nom_Canonique": "SUCRIVOIRE",
       "Exercice": "2020",
@@ -2362,7 +2362,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SDSC.ci",
       "Nom_Canonique": "AFRICA GLOBAL LOGISTICS CI",
       "Exercice": "2020",
@@ -2376,7 +2376,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SLBC.ci",
       "Nom_Canonique": "SOLIBRA CI",
       "Exercice": "2020",
@@ -2390,7 +2390,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "CABC.ci",
       "Nom_Canonique": "SICABLE CI",
       "Exercice": "2020",
@@ -2404,7 +2404,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "FTSC.ci",
       "Nom_Canonique": "FILTISAC CI",
       "Exercice": "2020",
@@ -2418,7 +2418,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "NTLC.ci",
       "Nom_Canonique": "NESTLE CI",
       "Exercice": "2020",
@@ -2432,7 +2432,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "TTLS.sn",
       "Nom_Canonique": "VIVO ENERGY SENEGAL",
       "Exercice": "2020",
@@ -2446,7 +2446,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SDCC.ci",
       "Nom_Canonique": "SODECI",
       "Exercice": "2020",
@@ -2460,7 +2460,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SIBC.ci",
       "Nom_Canonique": "SOCIETE IVOIRIENNE DE BANQUE CI",
       "Exercice": "2020",
@@ -2474,7 +2474,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "STAC.ci",
       "Nom_Canonique": "SETAO CI",
       "Exercice": "2020",
@@ -2488,7 +2488,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "UNXC.ci",
       "Nom_Canonique": "UNIWAX CI",
       "Exercice": "2020",
@@ -2502,7 +2502,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "CFAC.ci",
       "Nom_Canonique": "CFAO MOTORS CI",
       "Exercice": "2020",
@@ -2516,7 +2516,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SMBC.ci",
       "Nom_Canonique": "SMB CI",
       "Exercice": "2020",
@@ -2530,7 +2530,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SOGC.ci",
       "Nom_Canonique": "SOGB",
       "Exercice": "2020",
@@ -2544,7 +2544,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "CIEC.ci",
       "Nom_Canonique": "CIE CI",
       "Exercice": "2020",
@@ -2558,7 +2558,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "BICC.ci",
       "Nom_Canonique": "BICICI",
       "Exercice": "2020",
@@ -2572,7 +2572,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SGBC.ci",
       "Nom_Canonique": "SGBCI",
       "Exercice": "2020",
@@ -2586,7 +2586,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "BOAS.sn",
       "Nom_Canonique": "BANK OF AFRICA SENEGAL",
       "Exercice": "2020",
@@ -2600,7 +2600,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "ONTBF.bf",
       "Nom_Canonique": "ONATEL BF",
       "Exercice": "2020",
@@ -2614,7 +2614,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "BOAB.bj",
       "Nom_Canonique": "BANK OF AFRICA BENIN",
       "Exercice": "2020",
@@ -2628,7 +2628,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SNTS.sn",
       "Nom_Canonique": "SONATEL",
       "Exercice": "2020",
@@ -2642,7 +2642,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "BOAC.ci",
       "Nom_Canonique": "BANK OF AFRICA COTE D'IVOIRE",
       "Exercice": "2020",
@@ -2656,7 +2656,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "BOAN.ne",
       "Nom_Canonique": "BANK OF AFRICA NIGER",
       "Exercice": "2020",
@@ -2670,7 +2670,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "ECOC.ci",
       "Nom_Canonique": "ECOBANK CI",
       "Exercice": "2020",
@@ -2684,7 +2684,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "BOABF.bf",
       "Nom_Canonique": "BANK OF AFRICA BURKINA FASO",
       "Exercice": "2020",
@@ -2698,7 +2698,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "TTLS.sn",
       "Nom_Canonique": "VIVO ENERGY SENEGAL",
       "Exercice": "2019",
@@ -2712,7 +2712,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SDSC.ci",
       "Nom_Canonique": "AFRICA GLOBAL LOGISTICS CI",
       "Exercice": "2019",
@@ -2726,7 +2726,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SHEC.ci",
       "Nom_Canonique": "VIVO ENERGY CI",
       "Exercice": "2019",
@@ -2740,7 +2740,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SDCC.ci",
       "Nom_Canonique": "SODECI",
       "Exercice": "2019",
@@ -2754,7 +2754,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "TTLC.ci",
       "Nom_Canonique": "VIVO ENERGY CI",
       "Exercice": "2019",
@@ -2768,7 +2768,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "PRSC.ci",
       "Nom_Canonique": "TRACTAFRIC MOTORS CI",
       "Exercice": "2019",
@@ -2782,7 +2782,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "CFAC.ci",
       "Nom_Canonique": "CFAO MOTORS CI",
       "Exercice": "2019",
@@ -2796,7 +2796,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "FTSC.ci",
       "Nom_Canonique": "FILTISAC CI",
       "Exercice": "2019",
@@ -2810,7 +2810,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "CIEC.ci",
       "Nom_Canonique": "CIE CI",
       "Exercice": "2019",
@@ -2824,7 +2824,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "CABC.ci",
       "Nom_Canonique": "SICABLE CI",
       "Exercice": "2019",
@@ -2838,7 +2838,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SGBC.ci",
       "Nom_Canonique": "SGBCI",
       "Exercice": "2019",
@@ -2852,7 +2852,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "NSBC.ci",
       "Nom_Canonique": "NSIA BANQUE CI",
       "Exercice": "2019",
@@ -2866,7 +2866,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "ECOC.ci",
       "Nom_Canonique": "ECOBANK CI",
       "Exercice": "2019",
@@ -2880,7 +2880,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "ORGT.tg",
       "Nom_Canonique": "ORAGROUP TG",
       "Exercice": "2019",
@@ -2894,7 +2894,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SOGC.ci",
       "Nom_Canonique": "SOGB",
       "Exercice": "2019",
@@ -2908,7 +2908,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "BOAS.sn",
       "Nom_Canonique": "BANK OF AFRICA SENEGAL",
       "Exercice": "2019",
@@ -2922,7 +2922,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SIBC.ci",
       "Nom_Canonique": "SOCIETE IVOIRIENNE DE BANQUE CI",
       "Exercice": "2019",
@@ -2936,7 +2936,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "BOAC.ci",
       "Nom_Canonique": "BANK OF AFRICA COTE D'IVOIRE",
       "Exercice": "2019",
@@ -2950,7 +2950,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "ONTBF.bf",
       "Nom_Canonique": "ONATEL BF",
       "Exercice": "2019",
@@ -2964,7 +2964,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "BOAN.ne",
       "Nom_Canonique": "BANK OF AFRICA NIGER",
       "Exercice": "2019",
@@ -2978,7 +2978,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SNTS.sn",
       "Nom_Canonique": "SONATEL",
       "Exercice": "2019",
@@ -2992,7 +2992,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "BOAB.bj",
       "Nom_Canonique": "BANK OF AFRICA BENIN",
       "Exercice": "2019",
@@ -3006,7 +3006,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "BOABF.bf",
       "Nom_Canonique": "BANK OF AFRICA BURKINA FASO",
       "Exercice": "2019",
@@ -3020,7 +3020,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SDCC.ci",
       "Nom_Canonique": "SODECI",
       "Exercice": "2018",
@@ -3034,7 +3034,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "TTLC.ci",
       "Nom_Canonique": "VIVO ENERGY CI",
       "Exercice": "2018",
@@ -3048,7 +3048,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "ABJC.ci",
       "Nom_Canonique": "SERVAIR ABIDJAN CI",
       "Exercice": "2018",
@@ -3062,7 +3062,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "PRSC.ci",
       "Nom_Canonique": "TRACTAFRIC MOTORS CI",
       "Exercice": "2018",
@@ -3076,7 +3076,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SMBC.ci",
       "Nom_Canonique": "SMB CI",
       "Exercice": "2018",
@@ -3090,7 +3090,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "CIEC.ci",
       "Nom_Canonique": "CIE CI",
       "Exercice": "2018",
@@ -3104,7 +3104,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SHEC.ci",
       "Nom_Canonique": "VIVO ENERGY CI",
       "Exercice": "2018",
@@ -3118,7 +3118,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "FTSC.ci",
       "Nom_Canonique": "FILTISAC CI",
       "Exercice": "2018",
@@ -3132,7 +3132,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SGBC.ci",
       "Nom_Canonique": "SGBCI",
       "Exercice": "2018",
@@ -3146,7 +3146,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "TTLS.sn",
       "Nom_Canonique": "VIVO ENERGY SENEGAL",
       "Exercice": "2018",
@@ -3160,7 +3160,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "CFAC.ci",
       "Nom_Canonique": "CFAO MOTORS CI",
       "Exercice": "2018",
@@ -3174,7 +3174,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "BNBC.ci",
       "Nom_Canonique": "BERNABE CI",
       "Exercice": "2018",
@@ -3188,7 +3188,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "BICC.ci",
       "Nom_Canonique": "BICICI",
       "Exercice": "2018",
@@ -3202,7 +3202,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SOGC.ci",
       "Nom_Canonique": "SOGB",
       "Exercice": "2018",
@@ -3216,7 +3216,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "UNXC.ci",
       "Nom_Canonique": "UNIWAX CI",
       "Exercice": "2018",
@@ -3230,7 +3230,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "NSBC.ci",
       "Nom_Canonique": "NSIA BANQUE CI",
       "Exercice": "2018",
@@ -3244,7 +3244,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SIBC.ci",
       "Nom_Canonique": "SOCIETE IVOIRIENNE DE BANQUE CI",
       "Exercice": "2018",
@@ -3258,7 +3258,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "ORGT.tg",
       "Nom_Canonique": "ORAGROUP TG",
       "Exercice": "2018",
@@ -3272,7 +3272,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SDSC.ci",
       "Nom_Canonique": "AFRICA GLOBAL LOGISTICS CI",
       "Exercice": "2018",
@@ -3286,7 +3286,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SLBC.ci",
       "Nom_Canonique": "SOLIBRA CI",
       "Exercice": "2018",
@@ -3300,7 +3300,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "BOAS.sn",
       "Nom_Canonique": "BANK OF AFRICA SENEGAL",
       "Exercice": "2018",
@@ -3314,7 +3314,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "CABC.ci",
       "Nom_Canonique": "SICABLE CI",
       "Exercice": "2018",
@@ -3328,7 +3328,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "ONTBF.bf",
       "Nom_Canonique": "ONATEL BF",
       "Exercice": "2018",
@@ -3342,7 +3342,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "BOAN.ne",
       "Nom_Canonique": "BANK OF AFRICA NIGER",
       "Exercice": "2018",
@@ -3356,7 +3356,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "BOAB.bj",
       "Nom_Canonique": "BANK OF AFRICA BENIN",
       "Exercice": "2018",
@@ -3370,7 +3370,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "BOAC.ci",
       "Nom_Canonique": "BANK OF AFRICA COTE D'IVOIRE",
       "Exercice": "2018",
@@ -3384,7 +3384,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "BOAM.ml",
       "Nom_Canonique": "BANK OF AFRICA MALI",
       "Exercice": "2018",
@@ -3398,7 +3398,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "ECOC.ci",
       "Nom_Canonique": "ECOBANK CI",
       "Exercice": "2018",
@@ -3412,7 +3412,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SNTS.sn",
       "Nom_Canonique": "SONATEL",
       "Exercice": "2018",
@@ -3426,7 +3426,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "BOABF.bf",
       "Nom_Canonique": "BANK OF AFRICA BURKINA FASO",
       "Exercice": "2018",
@@ -3440,7 +3440,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SCRC.ci",
       "Nom_Canonique": "SUCRIVOIRE",
       "Exercice": "2017",
@@ -3454,7 +3454,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "TTLC.ci",
       "Nom_Canonique": "VIVO ENERGY CI",
       "Exercice": "2017",
@@ -3468,7 +3468,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SPHC.ci",
       "Nom_Canonique": "SAPH CI",
       "Exercice": "2017",
@@ -3482,7 +3482,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "PALC.ci",
       "Nom_Canonique": "PALMCI",
       "Exercice": "2017",
@@ -3496,7 +3496,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SDCC.ci",
       "Nom_Canonique": "SODECI",
       "Exercice": "2017",
@@ -3510,7 +3510,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "PRSC.ci",
       "Nom_Canonique": "TRACTAFRIC MOTORS CI",
       "Exercice": "2017",
@@ -3524,7 +3524,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SMBC.ci",
       "Nom_Canonique": "SMB CI",
       "Exercice": "2017",
@@ -3538,7 +3538,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "FTSC.ci",
       "Nom_Canonique": "FILTISAC CI",
       "Exercice": "2017",
@@ -3552,7 +3552,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "CFAC.ci",
       "Nom_Canonique": "CFAO MOTORS CI",
       "Exercice": "2017",
@@ -3566,7 +3566,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "TTLS.sn",
       "Nom_Canonique": "VIVO ENERGY SENEGAL",
       "Exercice": "2017",
@@ -3580,7 +3580,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "BNBC.ci",
       "Nom_Canonique": "BERNABE CI",
       "Exercice": "2017",
@@ -3594,7 +3594,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SHEC.ci",
       "Nom_Canonique": "VIVO ENERGY CI",
       "Exercice": "2017",
@@ -3608,7 +3608,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SOGC.ci",
       "Nom_Canonique": "SOGB",
       "Exercice": "2017",
@@ -3622,7 +3622,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "CIEC.ci",
       "Nom_Canonique": "CIE CI",
       "Exercice": "2017",
@@ -3636,7 +3636,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SGBC.ci",
       "Nom_Canonique": "SGBCI",
       "Exercice": "2017",
@@ -3650,7 +3650,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "UNXC.ci",
       "Nom_Canonique": "UNIWAX CI",
       "Exercice": "2017",
@@ -3664,7 +3664,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "BICC.ci",
       "Nom_Canonique": "BICICI",
       "Exercice": "2017",
@@ -3678,7 +3678,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "NSBC.ci",
       "Nom_Canonique": "NSIA BANQUE CI",
       "Exercice": "2017",
@@ -3692,7 +3692,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "ECOC.ci",
       "Nom_Canonique": "ECOBANK CI",
       "Exercice": "2017",
@@ -3706,7 +3706,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "ABJC.ci",
       "Nom_Canonique": "SERVAIR ABIDJAN CI",
       "Exercice": "2017",
@@ -3720,7 +3720,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SLBC.ci",
       "Nom_Canonique": "SOLIBRA CI",
       "Exercice": "2017",
@@ -3734,7 +3734,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SIBC.ci",
       "Nom_Canonique": "SOCIETE IVOIRIENNE DE BANQUE CI",
       "Exercice": "2017",
@@ -3748,7 +3748,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "BOAC.ci",
       "Nom_Canonique": "BANK OF AFRICA COTE D'IVOIRE",
       "Exercice": "2017",
@@ -3762,7 +3762,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "ONTBF.bf",
       "Nom_Canonique": "ONATEL BF",
       "Exercice": "2017",
@@ -3776,7 +3776,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "BOAM.ml",
       "Nom_Canonique": "BANK OF AFRICA MALI",
       "Exercice": "2017",
@@ -3790,7 +3790,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "BOAN.ne",
       "Nom_Canonique": "BANK OF AFRICA NIGER",
       "Exercice": "2017",
@@ -3804,7 +3804,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "CABC.ci",
       "Nom_Canonique": "SICABLE CI",
       "Exercice": "2017",
@@ -3818,7 +3818,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "BOAB.bj",
       "Nom_Canonique": "BANK OF AFRICA BENIN",
       "Exercice": "2017",
@@ -3832,7 +3832,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "BOABF.bf",
       "Nom_Canonique": "BANK OF AFRICA BURKINA FASO",
       "Exercice": "2017",
@@ -3846,7 +3846,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "BOAS.sn",
       "Nom_Canonique": "BANK OF AFRICA SENEGAL",
       "Exercice": "2017",
@@ -3860,7 +3860,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "FTSC.ci",
       "Nom_Canonique": "FILTISAC CI",
       "Exercice": "2016",
@@ -3874,7 +3874,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "PALC.ci",
       "Nom_Canonique": "PALMCI",
       "Exercice": "2016",
@@ -3888,7 +3888,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SCRC.ci",
       "Nom_Canonique": "SUCRIVOIRE",
       "Exercice": "2016",
@@ -3902,7 +3902,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SEMC.ci",
       "Nom_Canonique": "CROWN SIEM CI",
       "Exercice": "2016",
@@ -3916,7 +3916,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SIVC.ci",
       "Nom_Canonique": "AIR LIQUIDE CI",
       "Exercice": "2016",
@@ -3930,7 +3930,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SDCC.ci",
       "Nom_Canonique": "SODECI",
       "Exercice": "2016",
@@ -3944,7 +3944,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "PRSC.ci",
       "Nom_Canonique": "TRACTAFRIC MOTORS CI",
       "Exercice": "2016",
@@ -3958,7 +3958,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "CIEC.ci",
       "Nom_Canonique": "CIE CI",
       "Exercice": "2016",
@@ -3972,7 +3972,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SOGC.ci",
       "Nom_Canonique": "SOGB",
       "Exercice": "2016",
@@ -3986,7 +3986,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SHEC.ci",
       "Nom_Canonique": "VIVO ENERGY CI",
       "Exercice": "2016",
@@ -4000,7 +4000,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "TTLS.sn",
       "Nom_Canonique": "VIVO ENERGY SENEGAL",
       "Exercice": "2016",
@@ -4014,7 +4014,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "ABJC.ci",
       "Nom_Canonique": "SERVAIR ABIDJAN CI",
       "Exercice": "2016",
@@ -4028,7 +4028,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "BICC.ci",
       "Nom_Canonique": "BICICI",
       "Exercice": "2016",
@@ -4042,7 +4042,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "CFAC.ci",
       "Nom_Canonique": "CFAO MOTORS CI",
       "Exercice": "2016",
@@ -4056,7 +4056,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SDSC.ci",
       "Nom_Canonique": "AFRICA GLOBAL LOGISTICS CI",
       "Exercice": "2016",
@@ -4070,7 +4070,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "BNBC.ci",
       "Nom_Canonique": "BERNABE CI",
       "Exercice": "2016",
@@ -4084,7 +4084,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "UNXC.ci",
       "Nom_Canonique": "UNIWAX CI",
       "Exercice": "2016",
@@ -4098,7 +4098,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SGBC.ci",
       "Nom_Canonique": "SGBCI",
       "Exercice": "2016",
@@ -4112,7 +4112,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "CABC.ci",
       "Nom_Canonique": "SICABLE CI",
       "Exercice": "2016",
@@ -4126,7 +4126,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "TTLC.ci",
       "Nom_Canonique": "VIVO ENERGY CI",
       "Exercice": "2016",
@@ -4140,7 +4140,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "STBC.ci",
       "Nom_Canonique": "SITAB CI",
       "Exercice": "2016",
@@ -4154,7 +4154,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SIBC.ci",
       "Nom_Canonique": "SOCIETE IVOIRIENNE DE BANQUE CI",
       "Exercice": "2016",
@@ -4168,7 +4168,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SLBC.ci",
       "Nom_Canonique": "SOLIBRA CI",
       "Exercice": "2016",
@@ -4182,7 +4182,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "ONTBF.bf",
       "Nom_Canonique": "ONATEL BF",
       "Exercice": "2016",
@@ -4196,7 +4196,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "BOAN.ne",
       "Nom_Canonique": "BANK OF AFRICA NIGER",
       "Exercice": "2016",
@@ -4210,7 +4210,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "BOAS.sn",
       "Nom_Canonique": "BANK OF AFRICA SENEGAL",
       "Exercice": "2016",
@@ -4224,7 +4224,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "BOAC.ci",
       "Nom_Canonique": "BANK OF AFRICA COTE D'IVOIRE",
       "Exercice": "2016",
@@ -4238,7 +4238,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "BOABF.bf",
       "Nom_Canonique": "BANK OF AFRICA BURKINA FASO",
       "Exercice": "2016",
@@ -4252,7 +4252,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "BOAM.ml",
       "Nom_Canonique": "BANK OF AFRICA MALI",
       "Exercice": "2016",
@@ -4266,7 +4266,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "ETIT.tg",
       "Nom_Canonique": "ECOBANK TRANSNATIONAL INC TG",
       "Exercice": "2016",
@@ -4280,7 +4280,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "CIEC.ci",
       "Nom_Canonique": "CIE CI",
       "Exercice": "2015",
@@ -4294,7 +4294,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "TTLC.ci",
       "Nom_Canonique": "VIVO ENERGY CI",
       "Exercice": "2015",
@@ -4308,7 +4308,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "BOAS.sn",
       "Nom_Canonique": "BANK OF AFRICA SENEGAL",
       "Exercice": "2015",
@@ -4322,7 +4322,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "CFAC.ci",
       "Nom_Canonique": "CFAO MOTORS CI",
       "Exercice": "2015",
@@ -4336,7 +4336,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "CABC.ci",
       "Nom_Canonique": "SICABLE CI",
       "Exercice": "2015",
@@ -4350,7 +4350,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SHEC.ci",
       "Nom_Canonique": "VIVO ENERGY CI",
       "Exercice": "2015",
@@ -4364,7 +4364,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SOGC.ci",
       "Nom_Canonique": "SOGB",
       "Exercice": "2015",
@@ -4378,7 +4378,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "BICC.ci",
       "Nom_Canonique": "BICICI",
       "Exercice": "2015",
@@ -4392,7 +4392,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "TTLS.sn",
       "Nom_Canonique": "VIVO ENERGY SENEGAL",
       "Exercice": "2015",
@@ -4406,7 +4406,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "BNBC.ci",
       "Nom_Canonique": "BERNABE CI",
       "Exercice": "2015",
@@ -4420,7 +4420,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "PRSC.ci",
       "Nom_Canonique": "TRACTAFRIC MOTORS CI",
       "Exercice": "2015",
@@ -4434,7 +4434,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "FTSC.ci",
       "Nom_Canonique": "FILTISAC CI",
       "Exercice": "2015",
@@ -4448,7 +4448,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SDSC.ci",
       "Nom_Canonique": "AFRICA GLOBAL LOGISTICS CI",
       "Exercice": "2015",
@@ -4462,7 +4462,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "SGBC.ci",
       "Nom_Canonique": "SGBCI",
       "Exercice": "2015",
@@ -4476,7 +4476,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "ABJC.ci",
       "Nom_Canonique": "SERVAIR ABIDJAN CI",
       "Exercice": "2015",
@@ -4490,7 +4490,7 @@
       "Sources": "brvm.org"
     },
     {
-      "Date_Scraping": "2026-05-27",
+      "Date_Scraping": "2026-05-28",
       "Ticker": "STBC.ci",
       "Nom_Canonique": "SITAB CI",
       "Exercice": "2015",
